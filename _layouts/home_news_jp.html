@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header_jp.html %}
+    <body_jp>
+        <div class="page-content">
+            <div class="wrapper">
+                <div class="home">
+                    <img
+                    src="{{ page.profile_picture.src | absolute_url }}"
+                    alt="{{ page.profile_picture.alt }}"
+                    height="500.9"
+                    width="400.1"
+                    class="profilepic"
+                    />
+                    <div align="justify">
+                        {{ content }}
+                    </div>
+
+                    <h3>
+                        <div>
+                            <strong> 新着情報 </strong>
+                            <span style="float: right"> <a href="news"> <font color="#006600">
+                                <small>過去の情報</small></font> </a></span>
+                        </div>
+                    </h3>
+
+                    <p class="blog-post-list">
+                    {% for post in site.tags['news_jp'] limit:5 %}
+                    {% if post.draft != true %}
+                    <span class="blog-post-date">{{ post.date | date: "%Y.%-m.%-d" }}</span>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
+                        {{ post.title_jp }}
+                    </a>
+                    <br/>
+                    {% endif %}
+                    {% endfor %}
+                    </p>
+
+                    <h3>
+                        <div>
+                            <strong> 近日の予定 </strong>
+                        </div>
+                    </h3>
+
+                    <p class="blog-post-list">
+                    {% for post in site.tags['soon_jp'] reversed limit:5 %}
+                    {% if post.draft != true %}
+                    <span class="blog-post-date">{{ post.date | date: "%Y.%-m.%-d" }}</span>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
+                        {{ post.title_jp }}
+                    </a>
+                    <br/>
+                    {% endif %}
+                    {% endfor %}
+                    </p>
+    
+                    
+                </div>
+            </div>
+        </div>
+    </body_jp>
+    {% include footer.html %}
+
+    {% include foot.html %}
+
+  </body>
+</html>
