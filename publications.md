@@ -6,11 +6,13 @@ permalink: /en/publications
 
 ### Paper in preparation
 
-**No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)** 
+**No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
 -----|--------------|-----------|--------|------|--------|----------|
-1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **under revision** | | | 
+1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **under revision** | | |
 
 2 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | **Under review** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
+
+3 | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**.| *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | **Under review** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
 
 <br/>
 <!-- **[1]** **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake. "Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth". (under review). -->
@@ -18,7 +20,7 @@ permalink: /en/publications
 
 ### Peer-reviewed papers   
 
-**No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)** 
+**No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
 -----|--------------|-----------|--------|------|--------|----------|
 6 | Mohammad Heidarzadeh, Takeo Ishibe, **Osamu Sandanbata**, Abdul Muhari, and Antonius B. Wijanarto. | *Numerical modeling of the subaerial landslide source of the 22 December 2018 Anak Krakatoa volcanic tsunami, Indonesia*| *Ocean Engineering*| 195 | 106733| 2020 | [Ocean Engineering (open access)](https://www.sciencedirect.com/science/article/pii/S0029801819308431)
 
@@ -57,4 +59,3 @@ Under construction...
 ### Domestic confferences
 
 Under construction...
-
