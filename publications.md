@@ -14,7 +14,7 @@ permalink: /en/publications
 
 3 | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**.| *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | **Under revision** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
 
-4 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **Just submitted** | | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
+4 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **Just submitted** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
 <br/>
 <!-- **[1]** **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake. "Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth". (under review). -->
