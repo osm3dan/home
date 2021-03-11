@@ -5,7 +5,7 @@ title_jp:  "【学会発表】Marine Seismology Symposium"
 date:   2021-03-12 7:35:00 +0900
 blurb: "Marine Seismology Symposiumで口頭発表 / Talk in Marine Seismology Symposium"
 og_image:
-tag: news_jp
+tag: soon_jp
 category: jp
 ---
 
