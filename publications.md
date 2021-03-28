@@ -5,7 +5,7 @@ permalink: /en/publications
 ---
 
 ## <strong> Scientific Articles </strong>
-### Paper in Preparation
+### Submitted Papers
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
 -----|--------------|-----------|--------|------|--------|----------|
