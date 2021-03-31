@@ -17,6 +17,10 @@ permalink: /en/publications
 
 4 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **Under review** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
+5 | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | **Under review** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
+
+
+
 <br/>
 <!-- **[1]** **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake. "Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth". (under review). -->
 
