@@ -8,7 +8,7 @@ permalink: /en/publications
 ### Submitted Papers
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
------|--------------|-----------|--------|------|--------|----------|
+-----|--------------|-----------|--------|----------|
 1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **Under review** |
 
 2 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | **Under revision** | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
