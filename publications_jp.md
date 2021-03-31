@@ -9,7 +9,7 @@ permalink: /jp/publications
 
 **No.** | **著者** | **タイトル** | **雑誌** | **リンク等**
 -----|--------------|-----------|--------|----------|
-1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **査読中** |  
+1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **査読中** | | 
 
 2 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | **修正中** |  [プレプリント @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
 
