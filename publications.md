@@ -9,7 +9,7 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
 -----|--------------|-----------|--------|----------|
-1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **Under review** | | 
+1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **Under review** | |
 
 2 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | **Under revision** | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
 
@@ -18,24 +18,6 @@ permalink: /en/publications
 4 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **Under review** | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
 5 | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | **Under review** | [Preprint @ ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
-
-
-
-<br/>
-
-
-**No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
------|--------------|-----------|--------|------|--------|----------|
-1 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis caused by compressibility and density stratification of ocean and elasticity of the Earth* | *Geophysical Journal International* | **Under review** | | |
-
-2 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | **Under revision** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
-
-3 | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**.| *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | **Under revision** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
-
-4 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **Under review** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
-
-5 | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | **Under review** | | | [Preprint @ ESSOAr](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
-
 
 
 <br/>
