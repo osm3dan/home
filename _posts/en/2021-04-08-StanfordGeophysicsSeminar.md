@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Seminar] Stanford Geophysics Seminar"
-title_jp:  "[学会発表] Marine Seismology Symposium"
+title_jp:  "[セミナー発表] Marine Seismology Symposium"
 date:   2021-04-09 4:00:00 +0900
 blurb: "Stanford Geophysics Seminarで発表 / Talk in Stanford Geophysics Seminar"
 og_image:
