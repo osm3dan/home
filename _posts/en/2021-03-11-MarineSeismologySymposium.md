@@ -5,14 +5,14 @@ title_jp:  "[学会発表] Marine Seismology Symposium"
 date:   2021-03-12 7:35:00 +0900
 blurb: "Marine Seismology Symposiumで発表 / Talk in Marine Seismology Symposium"
 og_image:
-tag: soon
+tag: news
 category: en
 
 ---
 
 #### **Confference**
 
-I will talk at [**Marine Seismology Symposium**](https://marineseismology.us2.pathable.com/).
+I talked at [**Marine Seismology Symposium**](https://marineseismology.us2.pathable.com/).
 
 - [Place] Online
 - [Date Time] 6:35 AM - 7:35 AM JST on Friday, March 12, 2021 (JST/UTC+09)
