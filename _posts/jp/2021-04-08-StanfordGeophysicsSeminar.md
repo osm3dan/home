@@ -1,9 +1,9 @@
 ---
 layout: post_jp
 title:  "[Conference] Marine Seismology Symposium"
-title_jp:  "【学会発表】Marine Seismology Symposium"
-date:   2021-03-12 7:35:00 +0900
-blurb: "Marine Seismology Symposiumで口頭発表 / Talk in Marine Seismology Symposium"
+title_jp:  "【学会発表】スタンフォード大学地球物理学セミナー"
+date:   2021-04-09 4:00:00 +0900
+blurb: "Stanford Geophysics Seminarで口頭発表 / Talk at Stanford Geophysics Seminar"
 og_image:
 tag: news_jp
 category: jp
