@@ -10,7 +10,7 @@ category: en
 
 ---
 
-#### **Confference**
+#### **Seminar**
 
 I talked at [**Stanford Geophysics Seminar**](https://earth.stanford.edu/events/osamu-sandanbata-university-tokyo-abnormal-tsunamis-caused-trapdoor-faulting).
 

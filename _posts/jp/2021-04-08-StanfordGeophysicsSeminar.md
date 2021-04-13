@@ -9,7 +9,7 @@ tag: news_jp
 category: jp
 ---
 
-#### **学会発表**
+#### **セミナー発表**
 
 [**Stanford Geophysics Seminar／スタンフォード大学地球物理学セミナー**](https://earth.stanford.edu/events/osamu-sandanbata-university-tokyo-abnormal-tsunamis-caused-trapdoor-faulting)にて，セミナー発表をしました．
 
