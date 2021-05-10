@@ -13,7 +13,7 @@ permalink: /en/publications
 
 2 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | **Under review** | [Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
 
-3 | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**.| *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | **In press** | [JGR-Ocean](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC017011)<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
+3 | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**.| *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | **In press** | [JGR-Ocean](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC017011),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
 
 4 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **Under review** | [Preprint](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
