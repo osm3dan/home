@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Seminar] Stanford Geophysics Seminar"
+title:  "[Seminar] Stanford Geophysics Seminar (Invited)"
 title_jp:  "[セミナー発表] Marine Seismology Symposium"
 date:   2021-04-09 4:00:00 +0900
 blurb: "Stanford Geophysics Seminarで発表 / Talk in Stanford Geophysics Seminar"
@@ -20,5 +20,3 @@ I talked at [**Stanford Geophysics Seminar**](https://earth.stanford.edu/events/
 - [Authors] Osamu Sandanbata
 
 You can watch the video of the seminar talk in [here](https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view)!
-
-
