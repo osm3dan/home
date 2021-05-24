@@ -1,79 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-03T23:26:31+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is a website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">[Works] Submitted a new manuscript</title><link href="http://localhost:4000/en/2021/01/16/Submitted_JGR.html" rel="alternate" type="text/html" title="[Works] Submitted a new manuscript" /><published>2021-01-16T00:00:00+09:00</published><updated>2021-01-16T00:00:00+09:00</updated><id>http://localhost:4000/en/2021/01/16/Submitted_JGR</id><content type="html" xml:base="http://localhost:4000/en/2021/01/16/Submitted_JGR.html">&lt;h4 id=&quot;submitted-a-new-manuscript-to-jgr-solid-earth&quot;&gt;&lt;strong&gt;Submitted a new manuscript to JGR-Solid Earth.&lt;/strong&gt;&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-24T14:32:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is a website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;I submitted a first-authored manuscript to Journal of Geophysical Research - Solid Earth.
-The co-authors are Drs. Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.
-You can check the detailed information in “&lt;a href=&quot;https://osm3dan.github.io/en/publications&quot;&gt;Works&lt;/a&gt;”.&lt;/p&gt;
-
-&lt;p&gt;The submitted manuscript is available in a pre-print service &lt;a href=&quot;https://www.essoar.org/doi/10.1002/essoar.10505947.1&quot;&gt;Earth and Space Science Open Archive (ESSOAr)&lt;/a&gt;. Please note that the manuscript is not peer-reviewed.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Submitted a new manuscript to JGR-Solid Earth.</summary></entry><entry><title type="html">[研究成果] 新しい論文を投稿しました</title><link href="http://localhost:4000/jp/2021/01/16/Submitted_JGR.html" rel="alternate" type="text/html" title="[研究成果] 新しい論文を投稿しました" /><published>2021-01-16T00:00:00+09:00</published><updated>2021-01-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/01/16/Submitted_JGR</id><content type="html" xml:base="http://localhost:4000/jp/2021/01/16/Submitted_JGR.html">&lt;h4 id=&quot;jgr-solid-earth誌に新しい論文を投稿しました&quot;&gt;&lt;strong&gt;JGR-Solid Earth誌に新しい論文を投稿しました&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;Journal of Geophysical Research (JGR) - Solid Earth誌に新しい主著論文を投稿しました.
-共著者は，金森博雄博士，Luis Rivera博士，Zhongwen Zhan博士, 綿田辰吾博士，佐竹健治博士です．
-詳細情報は「&lt;a href=&quot;https://osm3dan.github.io/jp/publications&quot;&gt;研究成果&lt;/a&gt;」をご覧ください．&lt;/p&gt;
-
-&lt;p&gt;また，投稿された原稿はプレプリント・サーバー，&lt;a href=&quot;https://www.essoar.org/doi/10.1002/essoar.10505947.1&quot;&gt;Earth and Space Science Open Archive (ESSOAr)&lt;/a&gt;で公開されています．こちらは査読前原稿である点にご注意ください．&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">JGR-Solid Earth誌に新しい論文を投稿しました</summary></entry><entry><title type="html">[Conference] AGU Fall Meeting 2020</title><link href="http://localhost:4000/jp/2020/12/17/AGU.html" rel="alternate" type="text/html" title="[Conference] AGU Fall Meeting 2020" /><published>2020-12-17T03:30:00+09:00</published><updated>2020-12-17T03:30:00+09:00</updated><id>http://localhost:4000/jp/2020/12/17/AGU</id><content type="html" xml:base="http://localhost:4000/jp/2020/12/17/AGU.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;アメリカ地球物理学会 Fall Meeting 2020&lt;/strong&gt;にて，口頭発表をしました．&lt;/p&gt;
+&lt;p&gt;I will talk at &lt;a href=&quot;http://www.jpgu.org/meeting_e2021/&quot;&gt;&lt;strong&gt;日本地球惑星科学連合大会(JpGU) 2021&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[日時] 2020年12月16日(水) 11:42 〜 11:46 (PST/UTC-7) （日本時間&lt;/li&gt;
-  &lt;li&gt;[セッション] #V043 Submarine Volcanism: Advances in Observations, Methods, and Models I&lt;/li&gt;
-  &lt;li&gt;[題目] #V043-04 &lt;strong&gt;Unexpectedly large tsunamis generated by submarine volcanic earthquakes: Evidence of trapdoor faulting at a submarine caldera&lt;/strong&gt; &lt;a href=&quot;https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/668812&quot;&gt;アブストラクト&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[著者] 三反畑修，綿田辰吾，佐竹健治，金森博雄，Rivera Luis，Zhan Zhongwen&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">[Conference] AGU Fall Meeting 2020</title><link href="http://localhost:4000/en/2020/12/17/AGU.html" rel="alternate" type="text/html" title="[Conference] AGU Fall Meeting 2020" /><published>2020-12-17T03:30:00+09:00</published><updated>2020-12-17T03:30:00+09:00</updated><id>http://localhost:4000/en/2020/12/17/AGU</id><content type="html" xml:base="http://localhost:4000/en/2020/12/17/AGU.html">&lt;h4 id=&quot;confference&quot;&gt;&lt;strong&gt;Confference&lt;/strong&gt;&lt;/h4&gt;
+  &lt;li&gt;[Place] Online&lt;/li&gt;
+  &lt;li&gt;[Date Time] 14:45 - 15:00 on Friday, June 4, 2021 (JST/UTC+09)&lt;/li&gt;
+  &lt;li&gt;[Session] SVC28 Active Volcanism&lt;/li&gt;
+  &lt;li&gt;[Title] &lt;strong&gt;(SVC28-11) Moment Tensors of Ring-Faulting at Active Volcanoes: Insights into Vertical-CLVD Earthquakes at the Sierra Negra Caldera, Galápagos Islands&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[Authors] Osamu Sandanbata, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Kenji Satake&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="soon" /><summary type="html">Conference</summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;I presented at &lt;strong&gt;Americal Geophysical Union Fall Meeting 2020&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.jpgu.org/meeting_j2021/&quot;&gt;&lt;strong&gt;JpGU 2021&lt;/strong&gt;&lt;/a&gt;にて，口頭発表をします．&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[Date Time] Wednesday, 16 December 2020; 11:42 〜 11:46 (PST/UTC-7)&lt;/li&gt;
-  &lt;li&gt;[Session] #V043 Submarine Volcanism: Advances in Observations, Methods, and Models I&lt;/li&gt;
-  &lt;li&gt;[Title] #V043-04 &lt;strong&gt;Unexpectedly large tsunamis generated by submarine volcanic earthquakes: Evidence of trapdoor faulting at a submarine caldera&lt;/strong&gt; &lt;a href=&quot;https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/668812&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年6月4日(金) 14:45 〜 15:00 (JST/UTC+09)&lt;/li&gt;
+  &lt;li&gt;[セッション] SVC28 活動的⽕⼭&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;(SVC28-11) 活動的火山における環状断層すべりのモーメントテンソル：Galápagos諸島Sierra Negraカルデラ火山における鉛直CLVD地震の事例研究&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[著者] 三反畑 修、金森 博雄、Luis Rivera、Zhan Zhongwen、綿田 辰吾、佐竹 健治&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="soon_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">[Seminar] SOLIST つくば固体地球セミナー</title><link href="http://localhost:4000/jp/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="[Seminar] SOLIST つくば固体地球セミナー" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/jp/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/jp/2021/05/24/SOLIST.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST つくば固体地球セミナー&lt;/strong&gt;&lt;/a&gt;にて，セミナー発表をしました．&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年5月24日(月) 9:15 〜 10:15 (JST/UTC+09:日本時間)&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;特異な津波を引き起こす火山性地震–海底カルデラ火山におけるTrapdoor型断層破壊–&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Seminar] SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="[Seminar] SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;I talked at &lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST (SOLId-earth Seminar of Tsukuba)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Place] Zoom&lt;/li&gt;
+  &lt;li&gt;[Date Time] 9:15 - 10:15 on Monday, May 24, 2021 (JST/UTC+09)&lt;/li&gt;
+  &lt;li&gt;[Title] &lt;strong&gt;Volcanic earthquakes generating abnormal tsunamis—Trapdoor faulting at submarine volcanic calderas–&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[Authors] Osamu Sandanbata&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry><entry><title type="html">[Seminar] 英国Leeds大学 火山学セミナー</title><link href="http://localhost:4000/jp/2021/04/23/LeedsUniv.html" rel="alternate" type="text/html" title="[Seminar] 英国Leeds大学 火山学セミナー" /><published>2021-04-23T19:00:00+09:00</published><updated>2021-04-23T19:00:00+09:00</updated><id>http://localhost:4000/jp/2021/04/23/LeedsUniv</id><content type="html" xml:base="http://localhost:4000/jp/2021/04/23/LeedsUniv.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;University of Leeds, Volcanology Seminar／英国Leeds大学 火山学セミナー&lt;/strong&gt;にて，セミナー発表をしました．&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年4月23日(金) 19:00 〜 20:00 (JST/UTC+09:日本時間)&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;TBA&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Seminar] University of Leeds, Volcanology Seminar (Invited)</title><link href="http://localhost:4000/en/2021/04/23/LeedsUniv.html" rel="alternate" type="text/html" title="[Seminar] University of Leeds, Volcanology Seminar (Invited)" /><published>2021-04-23T19:00:00+09:00</published><updated>2021-04-23T19:00:00+09:00</updated><id>http://localhost:4000/en/2021/04/23/LeedsUniv</id><content type="html" xml:base="http://localhost:4000/en/2021/04/23/LeedsUniv.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;I talked at &lt;a href=&quot;https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/volcanology&quot;&gt;&lt;strong&gt;University of Leeds, Volcanology Seminar&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Place] Online&lt;/li&gt;
+  &lt;li&gt;[Date Time] 10:00 AM - 11:00 AM  on Friday, April 23, 2021 (UTC)&lt;/li&gt;
+  &lt;li&gt;[Title] &lt;strong&gt;Investigations of ring-faulting at active calderas: Case studies at Sierra Negra caldera in Galápagos, and Smith caldera in Japan&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[Authors] Osamu Sandanbata&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry><entry><title type="html">[Seminar] Stanford Geophysics Seminar (Invited)</title><link href="http://localhost:4000/en/2021/04/09/StanfordGeophysicsSeminar.html" rel="alternate" type="text/html" title="[Seminar] Stanford Geophysics Seminar (Invited)" /><published>2021-04-09T04:00:00+09:00</published><updated>2021-04-09T04:00:00+09:00</updated><id>http://localhost:4000/en/2021/04/09/StanfordGeophysicsSeminar</id><content type="html" xml:base="http://localhost:4000/en/2021/04/09/StanfordGeophysicsSeminar.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;I talked at &lt;a href=&quot;https://earth.stanford.edu/events/osamu-sandanbata-university-tokyo-abnormal-tsunamis-caused-trapdoor-faulting&quot;&gt;&lt;strong&gt;Stanford Geophysics Seminar&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Place] Online&lt;/li&gt;
+  &lt;li&gt;[Date Time] 12:00 PM - 13:00 PM  on Friday, April 8, 2021 (PDT/UTC-07)&lt;/li&gt;
+  &lt;li&gt;[Title] &lt;strong&gt;Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[Authors] Osamu Sandanbata&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can watch the video of the seminar talk in &lt;a href=&quot;https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry><entry><title type="html">[Conference] Marine Seismology Symposium</title><link href="http://localhost:4000/jp/2021/04/09/StanfordGeophysicsSeminar.html" rel="alternate" type="text/html" title="[Conference] Marine Seismology Symposium" /><published>2021-04-09T04:00:00+09:00</published><updated>2021-04-09T04:00:00+09:00</updated><id>http://localhost:4000/jp/2021/04/09/StanfordGeophysicsSeminar</id><content type="html" xml:base="http://localhost:4000/jp/2021/04/09/StanfordGeophysicsSeminar.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://earth.stanford.edu/events/osamu-sandanbata-university-tokyo-abnormal-tsunamis-caused-trapdoor-faulting&quot;&gt;&lt;strong&gt;Stanford Geophysics Seminar／スタンフォード大学地球物理学セミナー&lt;/strong&gt;&lt;/a&gt;にて，セミナー発表をしました．&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年4月9日(金) 04:00 〜 5:00 (JST/UTC+09:日本時間)&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;セミナー発表のビデオは&lt;a href=&quot;https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view&quot;&gt;こちら&lt;/a&gt;から視聴が可能です．&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Conference] Marine Seismology Symposium</title><link href="http://localhost:4000/en/2021/03/12/MarineSeismologySymposium.html" rel="alternate" type="text/html" title="[Conference] Marine Seismology Symposium" /><published>2021-03-12T07:35:00+09:00</published><updated>2021-03-12T07:35:00+09:00</updated><id>http://localhost:4000/en/2021/03/12/MarineSeismologySymposium</id><content type="html" xml:base="http://localhost:4000/en/2021/03/12/MarineSeismologySymposium.html">&lt;h4 id=&quot;confference&quot;&gt;&lt;strong&gt;Confference&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;I talked at &lt;a href=&quot;https://marineseismology.us2.pathable.com/&quot;&gt;&lt;strong&gt;Marine Seismology Symposium&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Place] Online&lt;/li&gt;
+  &lt;li&gt;[Date Time] 6:35 AM - 7:35 AM JST on Friday, March 12, 2021 (JST/UTC+09)&lt;/li&gt;
+  &lt;li&gt;[Session] IMAGING VOLCANOES AND RIFTS POSTER SESSION&lt;/li&gt;
+  &lt;li&gt;[Title] &lt;strong&gt;Unexpected tsunamis generated by volcanic earthquakes at the submarine Smith caldera, Japan&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[Authors] Osamu Sandanbata, Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Confference</summary></entry><entry><title type="html">[Seminar] Internal Seminar at NIED</title><link href="http://localhost:4000/jp/2020/11/06/InternalSeminar.html" rel="alternate" type="text/html" title="[Seminar] Internal Seminar at NIED" /><published>2020-11-06T13:30:00+09:00</published><updated>2020-11-06T13:30:00+09:00</updated><id>http://localhost:4000/jp/2020/11/06/InternalSeminar</id><content type="html" xml:base="http://localhost:4000/jp/2020/11/06/InternalSeminar.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Confference</summary></entry><entry><title type="html">[Conference] Marine Seismology Symposium</title><link href="http://localhost:4000/jp/2021/03/12/MarineSeismologySymposium.html" rel="alternate" type="text/html" title="[Conference] Marine Seismology Symposium" /><published>2021-03-12T07:35:00+09:00</published><updated>2021-03-12T07:35:00+09:00</updated><id>http://localhost:4000/jp/2021/03/12/MarineSeismologySymposium</id><content type="html" xml:base="http://localhost:4000/jp/2021/03/12/MarineSeismologySymposium.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;防災科学技術研究所　火山学セミナー（防災科研所内セミナー）&lt;/strong&gt;にて，オンライン発表をしました．&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[日時] 2020年11月6日(金) 13:30 〜 14:30&lt;/li&gt;
-  &lt;li&gt;[セミナー] 火山学セミナー (internal at NIED)&lt;/li&gt;
-  &lt;li&gt;[題目] &lt;strong&gt;特異な津波を引き起こす火山性地震の物理メカニズム: 海底カルデラ火山における Trapdoor 型断層破壊&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[発表者] 三反畑修&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Seminar] Internal Seminar at NIED</title><link href="http://localhost:4000/en/2020/11/06/InternalSeminar.html" rel="alternate" type="text/html" title="[Seminar] Internal Seminar at NIED" /><published>2020-11-06T13:30:00+09:00</published><updated>2020-11-06T13:30:00+09:00</updated><id>http://localhost:4000/en/2020/11/06/InternalSeminar</id><content type="html" xml:base="http://localhost:4000/en/2020/11/06/InternalSeminar.html">&lt;h4 id=&quot;confference&quot;&gt;&lt;strong&gt;Confference&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;I presented at &lt;strong&gt;Volcanology Seminar (Internal Seminar at NIED)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://marineseismology.us2.pathable.com/&quot;&gt;&lt;strong&gt;Marine Seismology Symposium&lt;/strong&gt;&lt;/a&gt;にて，ポスター発表・オンライン発表をしました．&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[Date Time] 2020年10月31日(土) 14:00 〜 14:15&lt;/li&gt;
-  &lt;li&gt;[Seminar] Volcanology Seminar (internal at NIED)&lt;/li&gt;
-  &lt;li&gt;[Title] &lt;strong&gt;Volcanic earthquakes generating unusual tsunamis: Observational evidence of trapdoor faulting at submarine calderas&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[発表者] Osamu Sandanbata&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Confference</summary></entry><entry><title type="html">[Conference] Seismologial Society of Japan 2020</title><link href="http://localhost:4000/jp/2020/10/31/SSJ.html" rel="alternate" type="text/html" title="[Conference] Seismologial Society of Japan 2020" /><published>2020-10-31T14:00:00+09:00</published><updated>2020-10-31T14:00:00+09:00</updated><id>http://localhost:4000/jp/2020/10/31/SSJ</id><content type="html" xml:base="http://localhost:4000/jp/2020/10/31/SSJ.html">&lt;h4 id=&quot;日本地震学会-2020年度秋季大会にて口頭発表をしましたご聴講くださった方々ありがとうございました&quot;&gt;&lt;strong&gt;日本地震学会 2020年度秋季大会&lt;/strong&gt;にて，口頭発表をしました．ご聴講くださった方々、ありがとうございました．&lt;/h4&gt;
-
-&lt;p class=&quot;image_blog&quot;&gt;
-&lt;img src=&quot;/assets/img/slide_title/201031_SSJ2020.png&quot; alt=&quot;SSJ2020&quot; /&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h4 id=&quot;発表情報&quot;&gt;発表情報&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;[日時] 2020年10月31日(土) 14:00 〜 14:15&lt;/li&gt;
-  &lt;li&gt;[セッション] #S17 Tsunami&lt;/li&gt;
-  &lt;li&gt;[題目] #S17-10 &lt;strong&gt;New Zealand北方沖・Curtis島近海において繰り返した火山性津波地震の物理メカニズム&lt;/strong&gt; &lt;a href=&quot;https://confit.atlas.jp/guide/event/zisin2020/subject/S17-10/tables?cryptoId=&quot;&gt;アブストラクト(参加者限定)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年3月12日(金) 06:35 〜 7:35 (JST/UTC+09:日本時間)&lt;/li&gt;
+  &lt;li&gt;[セッション] IMAGING VOLCANOES AND RIFTS POSTER SESSION&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;Unexpected tsunamis generated by volcanic earthquakes at the submarine Smith caldera, Japan&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑修，綿田辰吾，佐竹健治，金森博雄，Rivera Luis，Zhan Zhongwen&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">日本地震学会 2020年度秋季大会にて，口頭発表をしました．ご聴講くださった方々、ありがとうございました．</summary></entry><entry><title type="html">[Conference] SSJ 2020</title><link href="http://localhost:4000/en/2020/10/31/SSJ.html" rel="alternate" type="text/html" title="[Conference] SSJ 2020" /><published>2020-10-31T14:00:00+09:00</published><updated>2020-10-31T14:00:00+09:00</updated><id>http://localhost:4000/en/2020/10/31/SSJ</id><content type="html" xml:base="http://localhost:4000/en/2020/10/31/SSJ.html">&lt;h4 id=&quot;i-presented-at-seismologial-society-of-japan-fall-meeting-2020&quot;&gt;I presented at &lt;strong&gt;Seismologial Society of Japan Fall Meeting 2020&lt;/strong&gt;.&lt;/h4&gt;
-
-&lt;p class=&quot;image_blog&quot;&gt;
-&lt;img src=&quot;/assets/img/slide_title/201031_SSJ2020.png&quot; alt=&quot;SSJ2020&quot; /&gt;
-&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;information&quot;&gt;Information&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[Date Time] October 31, 2021 (Saturday) 14:00 〜 14:15 (JST: UTC+09)&lt;/li&gt;
-  &lt;li&gt;[Session] #S17 Tsunami&lt;/li&gt;
-  &lt;li&gt;[Title] #S17-10 &lt;strong&gt;Physical mechanism of volcanic tsunami earthquakes repeating at Curtis Island, north of New Zealand&lt;/strong&gt; &lt;a href=&quot;https://confit.atlas.jp/guide/changeLocale?strLocale=en&amp;amp;redirectUrl=/event/zisin2020/subject/S17-10/tables?cryptoId%3D&quot;&gt;Abstract (Participants only)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[Authors] Osamu Sandanbata, Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">I presented at Seismologial Society of Japan Fall Meeting 2020.</summary></entry><entry><title type="html">Blog open!</title><link href="http://localhost:4000/jp/2020/10/15/Blog_open.html" rel="alternate" type="text/html" title="Blog open!" /><published>2020-10-15T18:00:00+09:00</published><updated>2020-10-15T18:00:00+09:00</updated><id>http://localhost:4000/jp/2020/10/15/Blog_open</id><content type="html" xml:base="http://localhost:4000/jp/2020/10/15/Blog_open.html">&lt;p&gt;Here, I will post a blog introducing my research activities, research memos, and private things (maybe…).&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="blog_jp" /><summary type="html">Here, I will post a blog introducing my research activities, research memos, and private things (maybe…).</summary></entry><entry><title type="html">This website open!</title><link href="http://localhost:4000/en/2020/10/15/Website-Open.html" rel="alternate" type="text/html" title="This website open!" /><published>2020-10-15T18:00:00+09:00</published><updated>2020-10-15T18:00:00+09:00</updated><id>http://localhost:4000/en/2020/10/15/Website-Open</id><content type="html" xml:base="http://localhost:4000/en/2020/10/15/Website-Open.html">&lt;h4 id=&quot;hellow-world&quot;&gt;&lt;strong&gt;Hellow, world!&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;I opened this personal website! Information of my reserch activities will be updated here! Please check it out!&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Hellow, world!</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">学会発表</summary></entry></feed>
