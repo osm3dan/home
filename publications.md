@@ -24,7 +24,7 @@ permalink: /en/publications
 ### Peer-reviewed papers   
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
------|--------------|-----------|------|------|--------|----------|
+-----|------------|---------|------|------|--------|----------|
 **9** | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | 126 | e2021JB021693 | 2021 | [JGR-Splid Earth](https://doi.org/10.1029/2021JB021693),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
 
 **8** | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* | *Geophysical Journal International* | *In press* | ggab192 | 2021 | [GJI](https://doi.org/10.1093/gji/ggab192)
