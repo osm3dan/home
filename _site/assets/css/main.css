@@ -67,7 +67,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { table-layout: fixed; border-collapse: collapse; width: calc( 1600px - ( 30px * 2)); padding-right: 175px; font-size: 14px; margin: 5px; text-align: left; }
+table { table-layout: fixed; border-collapse: collapse; width: calc( 1600px - ( 30px * 11)); font-size: 14px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }

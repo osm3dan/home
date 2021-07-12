@@ -266,8 +266,8 @@ table {
   table-layout: fixed;
   border-collapse: collapse;
   // width: 1015px;
-  width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 2 * 2)) ;
-  padding-right: $spacing-unit *3 * 2 - 5px ;
+  width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 11)) ;
+  // padding-right: $spacing-unit *3 * 2 - 5px ;
   font-size: 14px;
   margin: 5px;
   text-align: left;
