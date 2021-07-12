@@ -49,6 +49,31 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+.side {
+  // background-color:#ff838b;
+  width:$sidebar-unit - $spacing-unit ;
+  height:500px;
+  // text-align:center;
+  // margin-left:$spacing-unit;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
+}
+
+.line {
+  margin: 0 1rem;
+  width: 1px;
+  background-color: #000;
+}
+
+.mainbar {
+  // background-color:#b3d874;
+  width: $max_width_unit - $sidebar-unit;
+  // height:100px;
+  // text-align:center;
+}
+
+article {
+  display:flex;/*サイドバーとメインコンテンツを横並びにする                指定をした*/
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -322,30 +347,6 @@ p.image_blog{
 }
 
 
-.side {
-  // background-color:#ff838b;
-  width:$sidebar-unit - $spacing-unit ;
-  height:500px;
-  // text-align:center;
-  // margin-left:$spacing-unit;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
-}
-
-.line {
-  margin: 0 1rem;
-  width: 1px;
-  background-color: #000;
-}
-
-.mainbar {
-  // background-color:#b3d874;
-  width: $max_width_unit - $sidebar-unit;
-  // height:100px;
-  // text-align:center;
-}
-
-article {
-  display:flex;/*サイドバーとメインコンテンツを横並びにする                指定をした*/
-}
 
 // .side {
 //   background-color: #ff838b;
