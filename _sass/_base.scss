@@ -187,8 +187,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(1100px - (#{$spacing-unit} * 2));
-  max-width:         calc(1100px - (#{$spacing-unit} * 2));
+  max-width: -webkit-calc(#{$max_width_unit} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$max_width_unit} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
@@ -313,10 +313,55 @@ p.image_blog{
     max-width: 75%;
     vertical-align: middle;
     border: 1px gray solid;
-    height: auto;  
+    height: auto;
 }
 
 .btnarea {
   text-align: center;
   display: block;
-}  
+}
+.side {
+  // background-color:#ff838b;
+  width:$sidebar-unit - $spacing-unit ;
+  height:500px;
+  // text-align:center;
+  // margin-left:$spacing-unit;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
+}
+
+.line {
+  margin: 0 1rem;
+  width: 1px;
+  background-color: #000;
+}
+
+.mainbar {
+  // background-color:#b3d874;
+  width: $max_width_unit - $sidebar-unit;
+  // height:100px;
+  // text-align:center;
+}
+
+article {
+  display:flex;/*サイドバーとメインコンテンツを横並びにする                指定をした*/
+}
+
+
+
+// .side {
+//   background-color: #ff838b;
+//   width: $sidebar-unit
+//   // height: 300px;
+//   text-align: center;
+// }
+//
+// .content {
+//   background-color:#b3d874;
+//   width: $max_width - $sidebar-unit ;
+//   // height: 300px;
+//   text-align: center;
+//   margin-left: 10px;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
+// }
+//
+// article {
+//   display:flex;/*サイドバーとメインコンテンツを横並びにする                指定をした*/
+// }

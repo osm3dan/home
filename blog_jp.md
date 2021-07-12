@@ -4,5 +4,5 @@ title: ブログ
 permalink: /jp/blog
 ---
 
-ひとりごと... 
+ひとりごと...
 <br />
