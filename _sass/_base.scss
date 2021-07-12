@@ -190,7 +190,7 @@ pre {
 .wrapper {
   // max-width: -webkit-calc(#{$max_width_unit} - (#{$spacing-unit} * 2));
   // max-width:         calc(#{$max_width_unit} - (#{$spacing-unit} * 2));
-  max-width:         calc(1400px - (#{$spacing-unit} * 2));
+  max-width:         calc(#{max_width_unit} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
