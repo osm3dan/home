@@ -8,6 +8,14 @@ body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, G
 /** Basic styling -JP */
 body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
+.side { width: 270px; height: 500px; }
+
+.line { margin: 0 1rem; background-color: #e8e8e8; }
+
+.mainbar { width: 1100px; }
+
+article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
+
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
 
@@ -85,14 +93,6 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 
 .btnarea { text-align: center; display: block; }
 
-.side { width: 270px; height: 500px; }
-
-.line { margin: 0 1rem; width: 1px; background-color: #000; }
-
-.mainbar { width: 1100px; }
-
-article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
-
 /** Site header */
 .site-header { border-bottom: 2px solid #e8e8e8; min-height: 40px; padding-top: 20px; padding-bottom: 0px; position: relative; }
 @media screen and (max-width: 500px) { .site-header { padding-top: 0; padding-bottom: 0; } }
@@ -158,10 +158,6 @@ article { display: flex; /*サイドバーとメインコンテンツを横並�
 .blog-post-list .blog-post-date { width: 7em; color: #777; display: block; float: left; font-size: 16px; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
 .blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; }
-
-.content { background-color: #b3d874; width: 250px; height: 300px; text-align: center; margin-left: 10px; /*サイドバーとメインコンテンツの間に隙間                    をあけた*/ }
-
-article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
 
 .post-header { margin-bottom: 30px; }
 
