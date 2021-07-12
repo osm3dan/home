@@ -51,8 +51,8 @@ body {
 
 .side {
   // background-color:#ff838b;
-  width:$sidebar-unit - $spacing-unit ;
-  height:500px;
+  width: $sidebar-unit - $spacing-unit ;
+  height: 500px;
   // text-align:center;
   // margin-left:$spacing-unit;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
 }
@@ -60,7 +60,7 @@ body {
 .line {
   margin: 0 1rem;
   // width: 1px;
-  background-color: $grey-color-light;
+  background-color: lighten(#828282, 40%);
 }
 
 .mainbar {
