@@ -8,6 +8,14 @@ body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, G
 /** Basic styling -JP */
 body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
+.side { width: 270px; height: 500px; }
+
+.line { margin: 0 1rem; background-color: #e8e8e8; }
+
+.mainbar { width: 1300px; }
+
+article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
+
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
 
@@ -59,7 +67,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { table-layout: fixed; border-collapse: collapse; width: 1015px; font-size: 14px; margin: 5px; text-align: left; }
+table { table-layout: fixed; border-collapse: collapse; width: calc( 1600px - ( 30px * 2)); font-size: 14px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
