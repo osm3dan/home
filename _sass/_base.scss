@@ -320,6 +320,8 @@ p.image_blog{
   text-align: center;
   display: block;
 }
+
+
 .side {
   // background-color:#ff838b;
   width:$sidebar-unit - $spacing-unit ;
@@ -344,8 +346,6 @@ p.image_blog{
 article {
   display:flex;/*サイドバーとメインコンテンツを横並びにする                指定をした*/
 }
-
-
 
 // .side {
 //   background-color: #ff838b;
