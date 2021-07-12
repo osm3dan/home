@@ -120,7 +120,7 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 
 .footer-col-1, .footer-col-2, .footer-col-3 { width: -webkit-calc(33% - (30px / 2)); width: calc(33% - (30px / 2)); }
 
-.powered-by { font-size: 13px; color: #828282; }
+.powered-by { float: left; font-size: 13px; color: #828282; }
 
 @media screen and (max-width: 500px) { .footer-col { float: none; width: 100%; } }
 /** Page content */
