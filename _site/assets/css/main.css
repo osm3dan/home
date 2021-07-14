@@ -3,10 +3,10 @@
 body, body_jp, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
 
 /** Basic styling */
-body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 20px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Basic styling -JP */
-body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 18px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 20px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 .side { width: 270px; height: 500px; }
 
@@ -25,7 +25,7 @@ img { max-width: 100%; vertical-align: middle; height: auto; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 16.2px; }
+figcaption { font-size: 18px; }
 
 /** Lists */
 ul, ol { margin-left: 30px; }
@@ -153,10 +153,10 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 
 .work-bubble { float: left; padding-right: 20px; width: 100px; height: 100px; }
 
-.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 18px; }
+.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 20px; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
-.blog-post-list .blog-post-cont { width: 5em; font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; display: block; float: left; }
-.blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; }
+.blog-post-list .blog-post-cont { width: 5em; font-size: 100%; letter-spacing: normal; font-size: 20px; font-weight: 500; display: block; float: left; }
+.blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 20px; font-weight: 500; }
 
 .post-header { margin-bottom: 30px; }
 
