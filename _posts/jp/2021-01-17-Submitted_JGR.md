@@ -8,6 +8,7 @@ og_image:
 tag: news_jp
 category: jp
 cont: 論文
+year: 2021
 ---
 
 #### **JGR-Solid Earth誌に新しい論文を投稿しました**

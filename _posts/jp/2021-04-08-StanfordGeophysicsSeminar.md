@@ -8,6 +8,7 @@ og_image:
 tag: news_jp
 category: jp
 cont: セミナー
+year: 2021
 ---
 
 #### **セミナー発表**

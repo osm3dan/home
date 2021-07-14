@@ -8,6 +8,7 @@ og_image:
 tag: news_jp
 category: jp
 cont: 学会
+year: 2021
 ---
 
 #### **学会発表**

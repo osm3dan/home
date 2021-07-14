@@ -153,7 +153,7 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 
 .work-bubble { float: left; padding-right: 20px; width: 100px; height: 100px; }
 
-.blog-post-list .blog-post-date { width: 8em; color: #333; display: block; float: left; font-size: 18px; }
+.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 18px; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
 .blog-post-list .blog-post-cont { width: 5em; font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; display: block; float: left; }
 .blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; }

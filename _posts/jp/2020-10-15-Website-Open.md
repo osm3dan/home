@@ -8,6 +8,7 @@ og_image:
 tag: news_jp
 category: jp
 cont: HP更新
+year: 2020
 ---
 
 #### **Hellow, world!**
