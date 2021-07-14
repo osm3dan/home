@@ -14,14 +14,16 @@
           <p class="blog-post-list">
           {% for post in site.tags['news_jp'] %}
           {% if post.draft != true %}
-                <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-                  {{ post.title_jp }}
-                </a>
-                <br />
-                {% endif %}
-                {% endfor %}
+          <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }}</span>
+          <span class="blog-post-cont"> {{ post.cont }}</span>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
+              {{ post.title_jp }}
+          </a>
+          <br/>
+          {% endif %}
+          {% endfor %}
           </p>
+
         </div>
       </div>
     </div>

@@ -1,37 +1,64 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    {% include header_jp.html %}
+<body>
+  {% include header_jp.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="memo">
-          <article>
-            <div class="mainbar">
-              <h1 class="page-heading">{{ page.title }}</h1>
-              {{ content }}
-              <p class="blog-post-list">
-                <h2 class="page-subheading"> Matlab </h1>
-                {% for post in site.tags['memo'] %}
-                  {% if post.category == 'jp' %}
-                    {% if post.cont == 'Matlab' %}
-                      {% if post.draft != true %}
-                  <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="memo">
+        <article>
+          <div class="mainbar">
+            <h1 class="page-heading">{{ page.title }}</h1>
+            {{ content }}
+
+            <!-- Cateegory - Matlab -->
+            <p class="blog-post-list">
+              <h1 id="Matlab" class="page-subheading"> Matlab </h1>
+              {% for post in site.tags['memo'] %}
+                {% if post.category == 'jp' %}
+                  {% if post.cont == 'Matlab' %}
+                    {% if post.draft != true %}
+                      <!-- <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span> -->
+                      <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
+                        {{ post.title_jp }}
+                      </a>
+                    </br>
+                    {% endif %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            </p>
+
+            <!-- Cateegory - Matlab -->
+            <p class="blog-post-list">
+              <h1 id="GitHub" class="page-subheading"> GitHub </h1>
+              {% for post in site.tags['memo'] %}
+                {% if post.category == 'jp' %}
+                  {% if post.cont == 'GitHub' %}
+                    {% if post.draft != true %}
+                    <!-- <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span> -->
                     <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
                       {{ post.title_jp }}
                     </a>
-                    <br />
+                  </br>
                     {% endif %}
                   {% endif %}
-                  {% endif %}
-                {% endfor %}
-              </p>
+                {% endif %}
+              {% endfor %}
+            </p>
+
             </div>
-            <div class="line"> </div>
+              <div class="line"> </div>
             <div class="side">
-              <h2 class="page-subheading"> Matlab </h2>
+              <h2 class="page-subheading"> カテゴリ </h2>
+              <h3 class="page-subheading">
+                <a href="#Matlab">Matlab</a>
+              </h3>
+              <h3 class="page-subheading">
+                <a href="#Github">Github</a>
+              </h3>
 
             </div>
           </article>

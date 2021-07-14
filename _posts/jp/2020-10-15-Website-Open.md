@@ -1,12 +1,13 @@
 ---
 layout: post_jp
 title:  "This website open!"
-title_jp: "【HP更新】ホームページを開設しました．"
+title_jp: "ホームページを開設しました．"
 date:   2020-10-15 18:00:00 0900
 blurb: "This webpage is published."
 og_image:
 tag: news_jp
 category: jp
+cont: HP更新
 ---
 
 #### **Hellow, world!**

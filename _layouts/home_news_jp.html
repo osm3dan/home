@@ -21,16 +21,17 @@
 
                     <h3>
                         <div>
-                            <strong> 新着情報 </strong>
-                            <span style="float: right"> <a href="news"> <font color="#006600">
-                                <small>過去の情報</small></font> </a></span>
+                            <strong>🆕 新着情報 </strong>
+                            <span style="float: right"> 🔙 <a href="news"> <font color="#006600">
+                                <small> 過去の情報</small></font> </a></span>
                         </div>
                     </h3>
 
                     <p class="blog-post-list">
                     {% for post in site.tags['news_jp'] limit:5 %}
                     {% if post.draft != true %}
-                    <span class="blog-post-date">{{ post.date | date: "%Y.%-m.%-d" }}</span>
+                    <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }}</span>
+                    <span class="blog-post-cont"> {{ post.cont }}</span>
                     <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
                         {{ post.title_jp }}
                     </a>
@@ -41,14 +42,15 @@
 
                     <h3>
                         <div>
-                            <strong> 近日の予定 </strong>
+                            <strong>🔜 近日の予定  </strong>
                         </div>
                     </h3>
 
                     <p class="blog-post-list">
                     {% for post in site.tags['soon_jp'] reversed limit:5 %}
                     {% if post.draft != true %}
-                    <span class="blog-post-date">{{ post.date | date: "%Y.%-m.%-d" }}</span>
+                    <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }}</span>
+                    <span class="blog-post-cont"> {{ post.cont }}</span>
                     <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
                         {{ post.title_jp }}
                     </a>
@@ -56,8 +58,8 @@
                     {% endif %}
                     {% endfor %}
                     </p>
-    
-                    
+
+
                 </div>
             </div>
         </div>

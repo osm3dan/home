@@ -1,13 +1,13 @@
 ---
 layout: post_jp
 title:  "[研究成果] 新しい論文を投稿しました"
-title_jp: "【研究成果】新しい論文を投稿しました"
+title_jp: "新しい論文を投稿しました"
 date:   2021-01-16 00:00:00 0900
 blurb: "JGR-Solid Earth誌に新しい論文を投稿しました."
 og_image:
 tag: news_jp
 category: jp
-
+cont: 論文
 ---
 
 #### **JGR-Solid Earth誌に新しい論文を投稿しました**

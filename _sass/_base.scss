@@ -146,9 +146,9 @@ h6 {
   font-family: "Futura", メイリオ, sans-serif;
 }
 
-h4 {
-  font-size: 16px;
-}
+// h4 {
+//   font-size: 16px;
+// }
 
 /**
  * Links
@@ -263,12 +263,13 @@ pre {
  * Table
  */
 table {
-  table-layout: fixed;
   border-collapse: collapse;
   // width: 1015px;
-  width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 6)) ;
+  // width: auto;
+  table-layout: fixed;
+  width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 2)) ;
   // padding-right: $spacing-unit *3 * 2 - 5px ;
-  font-size: 14px;
+  font-size: 18px;
   margin: 5px;
   text-align: left;
 }
