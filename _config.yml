@@ -50,10 +50,10 @@ header:
       slug: /en/news
     - name: Works
       slug: /en/publications
-    - name: Blog
-      slug: /en/blog
-    - name: Memo
-      slug: /en/memo
+    # - name: Blog
+    #   slug: /en/blog
+    # - name: Memo
+    #   slug: /en/memo
     - name: <font color="#a7a7a7"> EN </font>
       slug: /
     - name: JP
