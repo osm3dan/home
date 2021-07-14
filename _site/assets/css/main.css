@@ -12,7 +12,7 @@ body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラ
 
 .line { margin: 0 1rem; background-color: #e8e8e8; }
 
-.mainbar { width: 1100px; }
+.mainbar { width: 1200px; }
 
 article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
 
@@ -54,7 +54,7 @@ pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /** Wrapper */
-.wrapper { max-width: calc( 1400px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 90px; padding-left: 90px; position: relative; }
+.wrapper { max-width: calc( 1500px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 90px; padding-left: 90px; position: relative; }
 @media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
 
 /** Clearfix */
@@ -65,7 +65,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { border-collapse: collapse; table-layout: fixed; width: calc( 1400px - ( 30px * 2)); font-size: 18px; margin: 5px; text-align: left; }
+table { border-collapse: collapse; table-layout: fixed; width: calc( 1500px - ( 30px * 2)); font-size: 18px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
@@ -126,7 +126,7 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 
 .footer-col-1, .footer-col-2, .footer-col-3 { width: -webkit-calc(33% - (30px / 2)); width: calc(33% - (30px / 2)); }
 
-.powered-by { float: left; font-size: 13px; color: #828282; }
+.powered-by { float: left; font-size: 18px; color: #828282; }
 
 @media screen and (max-width: 500px) { .footer-col { float: none; width: 100%; } }
 /** Page content */
@@ -139,10 +139,10 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 .profilepic { float: right; border: #ccc 3px solid; margin-top: 5px; margin-bottom: 60px; margin-left: 30px; }
 @media screen and (max-width: 500px) { .profilepic { float: none; margin-bottom: 20px; margin-left: 0px; } }
 
-.social-links { font-size: 12px; line-height: 30px; }
+.social-links { font-size: 18px; line-height: 30px; }
 @media screen and (max-width: 500px) { .social-links { font-size: 14px; line-height: 38px; } }
 .social-links img { margin-right: 3px; vertical-align: middle; margin-top: -2px; }
-.social-links h4 { margin-bottom: 0; font-size: 12px; margin-top: 0; }
+.social-links h4 { margin-bottom: 0; font-size: 16px; margin-top: 0; }
 .social-links span.wrap-link { width: 45%; float: left; display: block; margin-right: 2px; text-wrap: none; min-width: 7em; }
 
 #wechat-widget { display: none; position: absolute; background: #fff; border: #ddd 1px solid; box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25); padding: 24px; text-align: center; }
