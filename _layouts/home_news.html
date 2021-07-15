@@ -17,12 +17,12 @@
           <div align="justify">
                       {{ content }}
           </div>
-          
-          
+
+
           <h3>
               <div>
-                  <strong> What's New! </strong>
-                  <span style="float: right"> <a href="news"> <font color="#006600">
+                  <strong>🆕 What's New! </strong>
+                  <span style="float: right">🔙 <a href="news"> <font color="#006600">
                       <small>Past News</small></font> </a></span>
               </div>
           </h3>
@@ -30,7 +30,8 @@
           <p class="blog-post-list">
           {% for post in site.tags['news'] limit:5 %}
           {% if post.draft != true %}
-          <span class="blog-post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+          <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }} </span>
+          <span class="blog-post-cont"> {{ post.cont }} </span>
           <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
               {{ post.title }}
           </a>
@@ -41,14 +42,15 @@
 
           <h3>
               <div>
-                  <strong> Comming Soon... </strong>
+                  <strong>🔜 Comming Soon... </strong>
               </div>
           </h3>
 
           <p class="blog-post-list">
           {% for post in site.tags['soon'] reversed limit:5 %}
           {% if post.draft != true %}
-          <span class="blog-post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+          <span class="blog-post-date">▶︎ {{ post.date | date: "%b %d, %Y" }}</span>
+          <span class="blog-post-cont"> {{ post.cont }} </span>
           <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
               {{ post.title }}
           </a>
@@ -57,7 +59,7 @@
           {% endfor %}
           </p>
 
-	
+
         </div>
       </div>
     </div>

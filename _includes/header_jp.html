@@ -10,17 +10,17 @@
       {% assign current = page.url %}
       <div class="menu">
         {% for page in site.header_jp.pages %}
-          {% if page.slug and page.slug != "" and page.slug != "en" %}
-            {% assign page_link = page.slug %}
-          {% else if page.slug and page.slug == "en" %}
-            {% assign page_link = current | replace: "/jp/","/en/" %}
-          {% else %}
-            {% assign page_link = "/en/index" | append: page.name | downcase %}
-          {% endif %}
-          {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
-            {{ page.name }}
-          </a>
+        {% if page.slug and page.slug != "" and page.slug != "en" %}
+        {% assign page_link = page.slug %}
+        {% else if page.slug and page.slug == "en" %}
+        {% assign page_link = current | replace: "/jp/","/en/" %}
+        {% else %}
+        {% assign page_link = "/en/index" | append: page.name | downcase %}
+        {% endif %}
+        {% assign page_link = page_link | absolute_url %}
+        <a class="page-link" href="{{ page_link }}">
+          {{ page.name }}
+        </a>
         {% endfor %}
       </div>
     </nav>

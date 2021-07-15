@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "[Conference] Marine Seismology Symposium"
+title:  "Marine Seismology Symposium"
 title_jp:  "[学会発表] Marine Seismology Symposium"
 date:   2021-03-12 7:35:00 +0900
 blurb: "Marine Seismology Symposiumで発表 / Talk in Marine Seismology Symposium"
 og_image:
 tag: news
 category: en
-
+cont: Conference
+year: 2021
 ---
 
 #### **Confference**

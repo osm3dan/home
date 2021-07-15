@@ -3,7 +3,7 @@
 body, body_jp, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
 
 /** Basic styling */
-body { font-family: Charter, Georgia, "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Basic styling -JP */
 body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
@@ -71,7 +71,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { border-collapse: collapse; width: calc( 1200px - (30px * 8)); table-layout: fixed; font-size: 16px; margin: 5px; text-align: left; }
+table { border-collapse: collapse; width: calc( 1200px - (30px * 2)); table-layout: fixed; font-size: 16px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
@@ -107,7 +107,7 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 /** Site nav */
 .site-nav { z-index: 10; float: right; line-height: 62.24px; padding-top: 0px; }
 .site-nav .menu-icon { display: none; }
-.site-nav .page-link { color: #111; line-height: 1.7; font-size: 18px; padding-bottom: 0; }
+.site-nav .page-link { color: #111; line-height: 1.7; font-size: 18px; font-family: "Futura", "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; padding-bottom: 0; }
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 .site-nav .page-link:nth-last-child(2) { margin-left: 25px; text-align: center; }
 .site-nav .page-link:last-child { margin-left: 0px; padding-left: 5px; border-left: 1px double; text-align: center; box-sizing: border-box; }
@@ -161,15 +161,15 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 
 .blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 16px; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
-.blog-post-list .blog-post-cont { width: 5em; font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; display: block; float: left; }
+.blog-post-list .blog-post-cont { width: 7em; font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; display: block; float: left; }
 .blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; }
 
 .post-header { margin-bottom: 30px; }
 
-.post-title { font-size: 28px; letter-spacing: -1px; line-height: 1.2; font-family: Charter, Georgia, "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; }
+.post-title { font-size: 28px; letter-spacing: -1px; line-height: 1.2; font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; }
 @media screen and (max-width: 500px) { .post-title { font-size: 34px; } }
 
-.post-subtitle { font-size: 18px; letter-spacing: -1px; line-height: 1; color: #777; font-family: Charter, Georgia, "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-style: oblique; position: relative; top: -0.3em; }
+.post-subtitle { font-size: 18px; letter-spacing: -1px; line-height: 1; color: #777; font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-style: oblique; position: relative; top: -0.3em; }
 @media screen and (max-width: 500px) { .post-subtitle { font-size: 24px; } }
 
 .post-meta .post-date { text-transform: uppercase; font-size: 120%; }

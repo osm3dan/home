@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "[Seminar] Stanford Geophysics Seminar (Invited)"
+title:  "Stanford Geophysics Seminar (Invited)"
 title_jp:  "[セミナー発表] Marine Seismology Symposium"
 date:   2021-04-09 4:00:00 +0900
 blurb: "Stanford Geophysics Seminarで発表 / Talk in Stanford Geophysics Seminar"
 og_image:
 tag: news
 category: en
-
+cont: Seminar
+year: 2021
 ---
 
 #### **Seminar**
