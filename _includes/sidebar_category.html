@@ -1,0 +1,41 @@
+<!-- sidebar -->
+<div class="side">
+  <br/>
+  <br/>
+  <h3> Category </h3>
+
+  <!-- Matlab -->
+  <details>
+    <summary> Matlab </summary>
+    {% for post in site.tags['memo'] %}
+    {% if post.category == 'jp' %}
+    {% if post.cont == 'Matlab' %}
+    {% if post.draft != true %}
+    <a href="{{ post.url | prepend: site.baseurl }}" >
+      <span class="memo-post-sidebar">
+        {{ post.title_jp }}
+      </span>
+    </a>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </details>
+  <!-- Github -->
+  <details>
+    <summary> GitHub </summary>
+    {% for post in site.tags['memo'] %}
+    {% if post.category == 'jp' %}
+    {% if post.cont == 'GitHub' %}
+    {% if post.draft != true %}
+    <a href="{{ post.url | prepend: site.baseurl }}" >
+      <span class="memo-post-sidebar">
+        {{ post.title_jp }}
+      </span>
+    </a>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </details>
+</div>

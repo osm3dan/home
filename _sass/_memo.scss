@@ -1,5 +1,5 @@
-.blog-post-list {
-  .blog-post-date {
+.memo-post-list {
+  .memo-post-date {
     width: 7em;
     color: #777;
     display: block;
@@ -15,10 +15,17 @@
     }
   }
 
-  .blog-post-title {
+  .memo-post-title {
     font-size: 100%;
     letter-spacing: normal;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .memo-post-sidebar {
+    font-size: 100%;
+    letter-spacing: normal;
+    font-size: 14px;
     font-weight: 500;
   }
 }

@@ -7,12 +7,14 @@ permalink: /jp/publications
 ## <strong> 論文　</strong>
 ### <strong> 投稿中の論文 </strong>
 
-No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク等 | OK |
------|--------------|----------|--------|----------|-------|------|
-1 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **査読中** | [プレプリント](https://www.essoar.org/doi/10.1002/essoar.10506159.1) | |
+No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク等 |
+-----|--------------|----------|--------|----------|-------|
+1 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **査読中** | [プレプリント](https://www.essoar.org/doi/10.1002/essoar.10506159.1) |
 
-2 | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | **査読中** | [プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1) | |
+2 | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | **査読中** | [プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1) |
 
+
+<br/>
 
 
 ### <strong> 査読付き論文 </strong>

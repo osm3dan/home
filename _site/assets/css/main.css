@@ -3,18 +3,24 @@
 body, body_jp, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
 
 /** Basic styling */
-body { font-family: Charter, Georgia, "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 15px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: Charter, Georgia, "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Basic styling -JP */
-body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 15px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
-.side { width: 270px; height: 500px; }
+.side { width: 320px; height: 500px; font-size: 18px; }
 
-.line { margin: 0 1rem; background-color: #e8e8e8; }
+.line { margin: 0 1rem; width: 1px; background-color: #e8e8e8; }
 
-.mainbar { width: 1200px; }
+.mainbar { width: 1150px; }
 
 article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
+
+summary { font-weight: bold; font-family: "Futura", メイリオ, sans-serif; font-size: 18px; }
+
+details[open] { font-size: 16px; }
+
+details[open] summary { font-size: 18px; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
@@ -25,7 +31,7 @@ img { max-width: 100%; vertical-align: middle; height: auto; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 13.5px; }
+figcaption { font-size: 14.4px; }
 
 /** Lists */
 ul, ol { margin-left: 30px; }
@@ -65,7 +71,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { overflow-x: scroll; border-collapse: collapse; width: calc( 1500px - (30px * 2)); table-layout: fixed; font-size: 18px; margin: 5px; text-align: left; }
+table { border-collapse: collapse; width: calc( 1500px - (30px * 8)); table-layout: fixed; font-size: 18px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
@@ -101,7 +107,7 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 /** Site nav */
 .site-nav { z-index: 10; float: right; line-height: 62.24px; padding-top: 0px; }
 .site-nav .menu-icon { display: none; }
-.site-nav .page-link { color: #111; line-height: 1.7; font-size: 22px; padding-bottom: 0; }
+.site-nav .page-link { color: #111; line-height: 1.7; font-size: 18px; padding-bottom: 0; }
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 .site-nav .page-link:nth-last-child(2) { margin-left: 25px; text-align: center; }
 .site-nav .page-link:last-child { margin-left: 0px; padding-left: 5px; border-left: 1px double; text-align: center; box-sizing: border-box; }
@@ -149,14 +155,14 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 #wechat-widget p { font-size: 11px; line-height: 16px; font-family: Helvetica, sans-serif; width: 170px; margin: 0 auto; margin-bottom: 14px; }
 #wechat-widget #qr-code { width: 160px; height: 160px; border: none; }
 
-.work-item { clear: both; overflow: hidden; padding-bottom: 3em; width: 270px; }
+.work-item { clear: both; overflow: hidden; padding-bottom: 3em; width: 320px; }
 
 .work-bubble { float: left; padding-right: 20px; width: 100px; height: 100px; }
 
-.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 15px; }
+.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 16px; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
-.blog-post-list .blog-post-cont { width: 5em; font-size: 100%; letter-spacing: normal; font-size: 15px; font-weight: 500; display: block; float: left; }
-.blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 15px; font-weight: 500; }
+.blog-post-list .blog-post-cont { width: 5em; font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; display: block; float: left; }
+.blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; }
 
 .post-header { margin-bottom: 30px; }
 
@@ -187,6 +193,11 @@ div.footnotes { font-size: 80%; }
 
 .draft-banner { background: #ff9999; color: #660000; text-align: center; padding: 1em; margin-bottom: 2em; font-family: Helvetica, sans-serif; border-radius: 5px; }
 .draft-banner a { color: #330000; }
+
+.memo-post-list .memo-post-date { width: 7em; color: #777; display: block; float: left; font-size: 16px; }
+@media screen and (max-width: 500px) { .memo-post-list .memo-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
+.memo-post-list .memo-post-title { font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; }
+.memo-post-list .memo-post-sidebar { font-size: 100%; letter-spacing: normal; font-size: 14px; font-weight: 500; }
 
 .not-found-container { margin: 10px auto; max-width: 600px; text-align: center; }
 

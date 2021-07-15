@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header_jp.html %}
+
+
+  <article>
+    <div class="mainbar">
+      <div class="page-content">
+        <div class="wrapper">
+          <div class="work">
+            <h1 class="page-heading">[{{page.cont}}] {{ page.title_jp }}</h1>
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Line -->
+    <div class="line"> </div>
+
+    {% include sidebar_year.html %}
+  </article>
+
+  {% include footer.html %}
+
+  {% include foot.html %}
+</body>
+</html>

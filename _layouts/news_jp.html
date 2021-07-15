@@ -4,14 +4,13 @@
 <body>
   {% include header_jp.html %}
 
-  <div class="page-content">
-    <div class="wrapper">
-      <div class="blog">
-        <h1 class="page-heading">{{ page.title }}</h1>
-        {{ content }}
-        <article>
-          <div class="mainbar">
-
+  <article>
+    <div class="mainbar">
+      <div class="page-content">
+        <div class="wrapper">
+          <div class="blog">
+            <h1 class="page-heading">{{ page.title }}</h1>
+            {{ content }}
 
             <!-- 2021 -->
             <h2 id="2021"> 2021 </h2>
@@ -47,17 +46,15 @@
               {% endfor %}
             </p>
           </div>
-
-          <div class="line"> </div>
-          <div class="side">
-            <h3> Year </h3>
-            <a href="#2021">2021</a> </br>
-            <a href="#2020">2020</a>
-          </article>
-
         </div>
       </div>
     </div>
+
+    <div class="line"> </div>
+    {% include sidebar_year.html %}
+
+    </article>
+
 
     {% include footer.html %}
 

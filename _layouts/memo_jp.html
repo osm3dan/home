@@ -5,66 +5,66 @@
 <body>
   {% include header_jp.html %}
 
-  <div class="page-content">
-    <div class="wrapper">
-      <div class="memo">
-        <h1 class="page-heading">{{ page.title }}</h1>
-        {{ content }}
-
         <article>
           <div class="mainbar">
-
+            <!-- Main -->
+            <div class="page-content">
+              <div class="wrapper">
+                <div class="memo">
+                  <h1 class="page-heading">{{ page.title }}</h1>
+                  {{ content }}
             <!-- Cateegory - Matlab -->
-            <p class="blog-post-list">
-              <h1 id="Matlab" class="page-subheading"> Matlab </h1>
+            <h1 id="Matlab" class="page-subheading"> Matlab </h1>
+            <p class="memo-post-list">
               {% for post in site.tags['memo'] %}
               {% if post.category == 'jp' %}
               {% if post.cont == 'Matlab' %}
               {% if post.draft != true %}
               <!-- <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span> -->
-              <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-                ▶︎ {{ post.title_jp }}
+              <bold> ー </bold>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="memo-post-title">
+                {{ post.title_jp }}
               </a>
-            </br>
-            {% endif %}
-            {% endif %}
-            {% endif %}
-            {% endfor %}
-          </p>
+              <br/>
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </p>
 
-          <!-- Cateegory - Matlab -->
-          <p class="blog-post-list">
+            <!-- Category - Matlab -->
             <h1 id="GitHub" class="page-subheading"> GitHub </h1>
-            {% for post in site.tags['memo'] %}
-            {% if post.category == 'jp' %}
-            {% if post.cont == 'GitHub' %}
-            {% if post.draft != true %}
-            <!-- <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span> -->
-            <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-              {{ post.title_jp }}
-            </a>
-          </br>
-          {% endif %}
-          {% endif %}
-          {% endif %}
-          {% endfor %}
-        </p>
+            <p class="memo-post-list">
+              {% for post in site.tags['memo'] %}
+              {% if post.category == 'jp' %}
+              {% if post.cont == 'GitHub' %}
+              {% if post.draft != true %}
+              <bold> ー </bold>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="memo-post-title">
+                {{ post.title_jp }}
+              </a>
+              <br/>
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </p>
 
+          </div>
+        </div>
       </div>
-      <div class="line"> </div>
-      <div class="side">
-        <h3> Category </h3>
-        <a href="#Matlab">Matlab</a> </br>
-        <a href="#Github">Github</a>
-      </div>
-    </article>
+    </div>
 
-  </div>
-</div>
-</div>
+          <div class="line"> </div>
 
-{% include footer.html %}
+          <!-- sidebar -->
+          {% include sidebar_category.html %}
 
-{% include foot.html %}
+        </article>
+
+
+  {% include footer.html %}
+
+  {% include foot.html %}
 </body>
 </html>
