@@ -27,5 +27,14 @@
     letter-spacing: normal;
     font-size: 14px;
     font-weight: 500;
+
+    @include media-query($on-mobile) {
+      font-size: 100%;
+      letter-spacing: normal;
+      font-size: 12px;
+      font-weight: 500;
+    }
+  }
+
   }
 }
