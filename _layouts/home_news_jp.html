@@ -50,7 +50,7 @@
               {% for post in site.tags['soon_jp'] reversed limit:5 %}
               {% if post.draft != true %}
               <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }}</span>
-              <span class="blog-post-cont"> {{ post.cont }}</span> <br/>
+              <span class="blog-post-cont"> {{ post.cont }}</span> 
               <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
                 {{ post.title_jp }}
               </a>
