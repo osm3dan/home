@@ -4,7 +4,6 @@ title: Publications
 permalink: /en/publications
 ---
 
-## <strong> Scientific Articles </strong>
 ### Submitted Papers
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
@@ -39,21 +38,6 @@ permalink: /en/publications
 1| **Osamu Sandanbata**, Kazushige Obara, Takuto Maeda, Ryota Takagi, and Kenji Satake.|*Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan* | *Geophysical Research Letters*| 42(23) | 10-256 |2015| [GRL](https://doi.org/10.1002/2015GL066443)
 
 <br/>
-
-<!-- [6] Mohammad Heidarzadeh, Takeo Ishibe, **Osamu Sandanbata**, Abdul Muhari, and Antonius B. Wijanarto. "Numerical modeling of the subaerial landslide source of the 22 December 2018 Anak Krakatoa volcanic tsunami, Indonesia". *Ocean Engineering*, 195 (2020): 106733, doi:10.1016/j.oceaneng.2019.106733. [Ocean Engineering (open access)](https://www.sciencedirect.com/science/article/pii/S0029801819308431)
-
-[5] Yuchen Wang, Kenij Satake, **Osamu Sandanbata**, Takuto Maeda, and Hengyi Su. "Tsunami data assimilation of cabled ocean bottom pressure records for the 2015 torishima volcanic tsunami earthquake". *Journal of Geophysical Research: Solid Earth*, 124, no. 10 (2019): 10413-10422, doi:10.1029/2019JB018056. [JGR:Solid Earth](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB018056)
-
-**[4]** **Osamu Sandanbata**, Hajime Sshiobara, Satoshi Kusumoto, HyeJeong Kim,
-Atsuki Oba, Qi Liu, Taku Ueda, Makoto Ogawa, Kazutoshi Takano, Ittetsu Kotobuki, and Yuchen Wang. "Equipment of Miniature Instruments to Measure Tsunami Waves
-in an Experimental Tank" (in Japanese). *Technical Research Report, Earthquake Research Institute, the University of Tokyo*, 24, 29-34 (2018). [ERI (open access)](http://www.eri.u-tokyo.ac.jp/GIHOU/archive/24_029-034.pdf)
-
-**[3]** **Osamu Sandanbata**, Shingo Watada, Kenji Satake, Yoshio Fukao, Hiroko Sugioka, Aki Ito, and Hajime Shiobara. "Ray Tracing for Dispersive Tsunamis and Source Amplitude Estimation Based on Green’s Law: Application to the 2015 Volcanic Tsunami Earthquake Near Torishima, South of Japan". *Pure and Applied Geophysics*, 175 (2018): 1371–1385, doi:10.1007/s00024-017-1746-0. [Pageoph](https://doi.org/10.1007/s00024-017-1746-0)
-
-[2] Yoshio Fukao, **Osamu Sandanbata**, Hiroko Sugioka, Aki Ito, Hajime Shiobara, Shingo Watada, and Kenji Satake. "Mechanism of the 2018 volcanic tsunami earthquake near Torishima, Japan". *Science advances*, 4, no. 4 (2018): eaao0219, doi:10.1126/sciadv.aao0219. [Science Advances (open access)](https://doi.org/10.1126/sciadv.aao0219)
-
-**[1]** **Osamu Sandanbata**, Kazushige Obara, Takuto Maeda, Ryota Takagi, and Kenji Satake. "Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan." *Geophysical Research Letters*, 42, no. 23 (2015): 10-256, doi:10.1002/2015GL066443. [GRL](https://doi.org/10.1002/2015GL066443)
- -->
 
 ### International confferences
 

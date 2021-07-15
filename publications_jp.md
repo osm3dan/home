@@ -4,7 +4,6 @@ title: 研究成果
 permalink: /jp/publications
 ---
 
-## <strong> 論文　</strong>
 ### <strong> 投稿中の論文 </strong>
 
 No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク等 |
@@ -43,7 +42,6 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 
 
 
-## <strong> 学会発表 </strong>
 ### <strong> 国際学会 </strong>
 
 準備中...
