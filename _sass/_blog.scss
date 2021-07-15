@@ -7,8 +7,8 @@
     font-size: $base-font-size ;
 
     @include media-query($on-mobile) {
-      // display: block;
-      float: none;
+      display: block;
+      float: left;
       color: #333;
       font-size: 11px;
       margin-top: 14px;
@@ -25,8 +25,8 @@
     float: left;
 
     @include media-query($on-mobile) {
-      // display: block;
-      float: none;
+      display: block;
+      float: left;
       color: #333;
       font-size: 11px;
       margin-top: 14px;
