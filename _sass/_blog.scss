@@ -8,10 +8,11 @@
 
     @include media-query($on-mobile) {
       display: block;
+      width: -webkit-fill-available;
       float: left;
       color: #333;
       font-size: 12px;
-      margin-top: 14px;
+      margin-top: 4px;
     }
   }
 
@@ -25,12 +26,12 @@
     float: left;
 
     @include media-query($on-mobile) {
-      width: 10em;
+      width: -webkit-fill-available;
       display: block;
       float: left;
       color: #333;
-      font-size: 12px;
-      margin-top: 14px;
+      font-size: 14px;
+      // margin-top: 14px;
     }
 
   }

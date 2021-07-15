@@ -71,7 +71,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { border-collapse: collapse; width: calc( 1200px - (30px * 2)); table-layout: fixed; font-size: 18px; margin: 5px; text-align: left; }
+table { border-collapse: collapse; width: calc( 1200px - (30px * 2)); table-layout: fixed; font-size: 16.2px; margin: 5px; text-align: left; }
+@media screen and (max-width: 500px) { table { font-size: 12.6px; } }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
@@ -160,8 +161,9 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 .work-bubble { float: left; padding-right: 20px; width: 100px; height: 100px; }
 
 .blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 18px; }
-@media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
+@media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; width: -webkit-fill-available; float: left; color: #333; font-size: 12px; margin-top: 4px; } }
 .blog-post-list .blog-post-cont { width: 7em; font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; display: block; float: left; }
+@media screen and (max-width: 500px) { .blog-post-list .blog-post-cont { width: -webkit-fill-available; display: block; float: left; color: #333; font-size: 14px; } }
 .blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; }
 
 .post-header { margin-bottom: 30px; }
@@ -195,9 +197,10 @@ div.footnotes { font-size: 80%; }
 .draft-banner a { color: #330000; }
 
 .memo-post-list .memo-post-date { width: 7em; color: #777; display: block; float: left; font-size: 16px; }
-@media screen and (max-width: 500px) { .memo-post-list .memo-post-date { display: block; float: none; color: #333; font-size: 11px; margin-top: 14px; } }
+@media screen and (max-width: 500px) { .memo-post-list .memo-post-date { display: block; float: none; color: #333; font-size: 12px; margin-top: 14px; } }
 .memo-post-list .memo-post-title { font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; }
 .memo-post-list .memo-post-sidebar { font-size: 100%; letter-spacing: normal; font-size: 14px; font-weight: 500; }
+@media screen and (max-width: 500px) { .memo-post-list .memo-post-sidebar { font-size: 100%; letter-spacing: normal; font-size: 12px; font-weight: 500; margin-top: 30px; } }
 
 .not-found-container { margin: 10px auto; max-width: 600px; text-align: center; }
 
