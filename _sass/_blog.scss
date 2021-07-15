@@ -25,7 +25,7 @@
     float: left;
 
     @include media-query($on-mobile) {
-      width: 9em;
+      width: 10em;
       display: block;
       float: left;
       color: #333;
