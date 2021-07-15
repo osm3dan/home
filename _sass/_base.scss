@@ -303,9 +303,13 @@ table {
   table-layout: fixed;
   // width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 2)) ;
   // padding-right: $spacing-unit *3 * 2 - 5px ;
-  font-size: $base-font-size;
+  font-size: $base-font-size*0.9;
   margin: 5px;
   text-align: left;
+
+  @include media-query($on-mobile) {
+    font-size: $base-font-size*0.7;
+  }
 
 }
 table th {
