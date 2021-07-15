@@ -48,7 +48,7 @@ header:
       slug: /en/about # <-- about.markdown
     #- name: News
     #  slug: /en/news
-    - name: Works
+    - name: Publications
       slug: /en/publications
     # - name: Blog
     #   slug: /en/blog
