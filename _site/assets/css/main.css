@@ -8,11 +8,11 @@ body { font-family: Charter, Georgia, "Avenir", "Hiragino Kaku Gothic ProN", Hel
 /** Basic styling -JP */
 body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
-.side { width: 320px; height: 500px; font-size: 18px; }
+.side { width: 220px; height: 500px; font-size: 18px; }
 
 .line { margin: 0 1rem; width: 1px; background-color: #e8e8e8; }
 
-.mainbar { width: 1150px; }
+.mainbar { width: 950px; }
 
 article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
 
@@ -60,7 +60,7 @@ pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 /** Wrapper */
-.wrapper { max-width: calc( 1500px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 90px; padding-left: 90px; position: relative; }
+.wrapper { max-width: calc( 1200px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 90px; padding-left: 90px; position: relative; }
 @media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
 
 /** Clearfix */
@@ -71,7 +71,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { border-collapse: collapse; width: calc( 1500px - (30px * 8)); table-layout: fixed; font-size: 18px; margin: 5px; text-align: left; }
+table { border-collapse: collapse; width: calc( 1200px - (30px * 8)); table-layout: fixed; font-size: 16px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
@@ -155,7 +155,7 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 #wechat-widget p { font-size: 11px; line-height: 16px; font-family: Helvetica, sans-serif; width: 170px; margin: 0 auto; margin-bottom: 14px; }
 #wechat-widget #qr-code { width: 160px; height: 160px; border: none; }
 
-.work-item { clear: both; overflow: hidden; padding-bottom: 3em; width: 320px; }
+.work-item { clear: both; overflow: hidden; padding-bottom: 3em; width: 220px; }
 
 .work-bubble { float: left; padding-right: 20px; width: 100px; height: 100px; }
 

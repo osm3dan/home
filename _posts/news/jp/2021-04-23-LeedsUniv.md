@@ -1,5 +1,5 @@
 ---
-layout: post_jp
+layout: page_news_jp
 title:  "[Seminar] 英国Leeds大学 火山学セミナー"
 title_jp:  "英国Leeds大学 火山学セミナー (招待講演)"
 date:   2021-04-23 19:00:00 +0900

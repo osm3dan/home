@@ -1,5 +1,5 @@
 ---
-layout: post_jp
+layout: page_news_jp
 title:  "[研究成果] 新しい論文を投稿しました"
 title_jp: "新しい論文を投稿しました"
 date:   2021-01-16 00:00:00 0900

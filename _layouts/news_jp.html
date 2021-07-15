@@ -4,11 +4,11 @@
 <body>
   {% include header_jp.html %}
 
-  <article>
-    <div class="mainbar">
-      <div class="page-content">
-        <div class="wrapper">
-          <div class="blog">
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="blog">
+        <article>
+          <div class="mainbar">
             <h1 class="page-heading">{{ page.title }}</h1>
             {{ content }}
 
@@ -46,18 +46,18 @@
               {% endfor %}
             </p>
           </div>
-        </div>
+
+          <div class="line"> </div>
+          {% include sidebar_year.html %}
+
+        </article>
       </div>
     </div>
-
-    <div class="line"> </div>
-    {% include sidebar_year.html %}
-
-    </article>
+  </div>
 
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-    {% include foot.html %}
-  </body>
-  </html>
+  {% include foot.html %}
+</body>
+</html>

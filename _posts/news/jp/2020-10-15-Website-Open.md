@@ -1,5 +1,5 @@
 ---
-layout: post_jp
+layout: page_news_jp
 title:  "This website open!"
 title_jp: "ホームページを開設しました．"
 date:   2020-10-15 18:00:00 0900

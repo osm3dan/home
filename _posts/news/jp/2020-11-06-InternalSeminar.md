@@ -1,5 +1,5 @@
 ---
-layout: post_jp
+layout: page_news_jp
 title:  "[Seminar] Internal Seminar at NIED"
 title_jp:  "防災科研所内セミナー"
 date:   2020-11-06 13:30:00 0900

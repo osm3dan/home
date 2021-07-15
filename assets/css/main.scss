@@ -10,13 +10,13 @@ $base-url: "{{ site.baseurl }}";
 $base-font-family: Charter, Georgia,'Avenir','Hiragino Kaku Gothic ProN', Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif;
 $base-font-family-jp: 'Hiragino Kaku Gothic ProN', Osaka, メイリオ,  'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, Osaka, 'MS PGothic', arial, helvetica, sans-serif;
 
-$base-font-size: 18px;
+$base-font-size: 16px;
 $small-font-size: $base-font-size * 0.9;
 $base-line-height: 1.7;
 
-$max_width_unit: 1100px;
+$max_width_unit: 1200px;
 $spacing-unit: 30px;
-$sidebar-unit: 350px;
+$sidebar-unit: 250px;
 
 $text-color: #111;
 $background-color: #fdfdfd;

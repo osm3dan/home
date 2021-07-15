@@ -1,5 +1,5 @@
 ---
-layout: post_jp
+layout: page_news_jp
 title:  "[Conference] Marine Seismology Symposium"
 title_jp:  "スタンフォード大学地球物理学セミナー"
 date:   2021-04-09 4:00:00 +0900
