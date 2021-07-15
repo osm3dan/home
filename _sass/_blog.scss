@@ -10,7 +10,7 @@
       display: block;
       float: left;
       color: #333;
-      font-size: 11px;
+      font-size: 12px;
       margin-top: 14px;
     }
   }
@@ -25,10 +25,11 @@
     float: left;
 
     @include media-query($on-mobile) {
+      width: 9em;
       display: block;
       float: left;
       color: #333;
-      font-size: 11px;
+      font-size: 12px;
       margin-top: 14px;
     }
 
