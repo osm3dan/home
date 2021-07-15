@@ -270,7 +270,7 @@ table {
 
   border-collapse: collapse;
   // width: 1600px;
-  width:         calc( #{$max_width_unit} - (#{$spacing-unit} * 2));
+  width:         calc( #{$max_width_unit} - (#{$spacing-unit} * 8));
 
   // width: fit-content;
   table-layout: fixed;
