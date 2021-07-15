@@ -5,14 +5,15 @@ permalink: /
 ---
 
 
-# <center> Welcome to Homepage of Osamu Sandanbata!</center>
+# <center>Welcome to Osamu's Website! </center>
 
-## <center> You May Choose Language </center>
+### <center> You May Choose Language </center>
 
 <div align="center">
-<font size="8">
-<a href= "https://osm3dan.github.io/en/index" >English</a>
-/ <a href= "https://osm3dan.github.io/jp/index" >Japanese</a>
+<font size=6 font-weight="bold">
+<a href="https://osm3dan.github.io/en/index">  <strong> 🌏 English </strong> </a>
+or 
+ <a href="https://osm3dan.github.io/jp/index"><strong>  Japanese 🗾</strong> </a>
 </font>
 </div>
 
