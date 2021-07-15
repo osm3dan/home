@@ -263,15 +263,23 @@ pre {
  * Table
  */
 table {
+  // display: block;
+  overflow-x: scroll;
+  // white-space: nowrap;
+  // -webkit-overflow-scrolling: touch;
+
   border-collapse: collapse;
-  // width: 1015px;
-  // width: auto;
+  // width: 1600px;
+  width:         calc( #{$max_width_unit} - (#{$spacing-unit} * 2));
+
+  // width: fit-content;
   table-layout: fixed;
-  width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 2)) ;
+  // width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 2)) ;
   // padding-right: $spacing-unit *3 * 2 - 5px ;
   font-size: 18px;
   margin: 5px;
   text-align: left;
+
 }
 table th {
   color: black;
