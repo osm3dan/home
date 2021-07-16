@@ -3,18 +3,18 @@
 body, body_jp, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
 
 /** Basic styling */
-body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: "Avenir", "Hiragino Kaku Gothic ProN", Helvetica, Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 400; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Basic styling -JP */
-body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 18px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body_jp { font-family: "Hiragino Kaku Gothic ProN", Osaka, メイリオ, "ヒラギノ角ゴ ProN W3", Meiryo, メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif; font-size: 16px; line-height: 1.7; font-weight: 300; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
-.side { width: 125px; height: 500px; }
-@media screen and (max-width: 800px) { .side { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; font-size: 14.4px; } }
+.side { width: 175px; height: 500px; font-family: "Futura"; font-size: 17.6px; }
+@media screen and (max-width: 800px) { .side { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; font-size: 12.8px; } }
 
 .line { margin: 0 1rem; background-color: #e8e8e8; }
 @media screen and (max-width: 800px) { .line { display: none; } }
 
-.mainbar { width: 1075px; }
+.mainbar { width: 1025px; }
 @media screen and (max-width: 800px) { .mainbar { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
 
 article { display: flex; /*サイドバーとメインコンテンツを横並びにする                指定をした*/ }
@@ -28,7 +28,7 @@ img { max-width: 100%; vertical-align: middle; height: auto; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 16.2px; }
+figcaption { font-size: 14.4px; }
 
 /** Lists */
 ul, ol { margin-left: 30px; }
@@ -68,7 +68,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg path { fill: #828282; }
 
 /** Table */
-table { border-collapse: collapse; table-layout: fixed; width: calc( 1200px - ( 30px * 2)); font-size: 18px; margin: 5px; text-align: left; }
+table { border-collapse: collapse; table-layout: fixed; width: calc( 1200px - ( 30px * 2)); font-size: 14.4px; margin: 5px; text-align: left; }
 
 table th { color: black; padding: 5px; border-bottom: 2px solid; }
 table th:nth-child(1) { width: 5%; text-align: center; }
@@ -152,15 +152,15 @@ p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; borde
 #wechat-widget p { font-size: 11px; line-height: 16px; font-family: Helvetica, sans-serif; width: 170px; margin: 0 auto; margin-bottom: 14px; }
 #wechat-widget #qr-code { width: 160px; height: 160px; border: none; }
 
-.work-item { clear: both; overflow: hidden; padding-bottom: 3em; width: 220px; }
+.work-item { clear: both; overflow: hidden; padding-bottom: 3em; width: 320px; }
 
 .work-bubble { float: left; padding-right: 20px; width: 100px; height: 100px; }
 
-.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 18px; }
+.blog-post-list .blog-post-date { width: 9em; color: #333; display: block; float: left; font-size: 16px; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-date { display: block; width: -webkit-fill-available; float: left; color: #333; font-size: 12px; margin-top: 4px; } }
-.blog-post-list .blog-post-cont { width: 7em; font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; display: block; float: left; }
+.blog-post-list .blog-post-cont { width: 7em; font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; display: block; float: left; }
 @media screen and (max-width: 500px) { .blog-post-list .blog-post-cont { width: -webkit-fill-available; display: block; float: left; color: #333; font-size: 14px; } }
-.blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 18px; font-weight: 500; }
+.blog-post-list .blog-post-title { font-size: 100%; letter-spacing: normal; font-size: 16px; font-weight: 500; }
 
 .post-header { margin-bottom: 30px; }
 

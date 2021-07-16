@@ -53,6 +53,8 @@ body {
   // background-color:#ff838b;
   width: $sidebar-unit * 0.5 ;
   height: 500px;
+  font-family: "Futura";
+  font-size: $base-font-size * 1.1;
   // text-align:center;
   // margin-left:$spacing-unit;/*サイドバーとメインコンテンツの間に隙間                    をあけた*/
 
@@ -287,7 +289,7 @@ table {
   table-layout: fixed;
   width: calc( #{$max_width_unit} - ( #{$spacing-unit} * 2)) ;
   // padding-right: $spacing-unit *3 * 2 - 5px ;
-  font-size: 18px;
+  font-size: $base-font-size * 0.9;
   margin: 5px;
   text-align: left;
 }

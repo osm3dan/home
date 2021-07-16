@@ -1,18 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-16T12:34:03+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Links</title><link href="http://localhost:4000/jp/2021/07/16/Links.html" rel="alternate" type="text/html" title="Links" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/Links</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/Links.html">&lt;h3 id=&quot;このページでは火山学に関連する調査で便利なリンクをまとめています&quot;&gt;このページでは、火山学に関連する調査で便利なリンクをまとめています。&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-16T22:39:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Volcano Links</title><link href="http://localhost:4000/jp/2021/07/16/volcano-links.html" rel="alternate" type="text/html" title="Volcano Links" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/volcano-links</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/volcano-links.html">&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、
+掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;世界の火山&quot;&gt;&lt;strong&gt;【世界の火山】&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;-世界の火山&quot;&gt;&lt;strong&gt;■ 世界の火山&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;h3 id=&quot;1-smithsonian-institutions-global-volcanism-program&quot;&gt;1. &lt;a href=&quot;https://volcano.si.edu/index.cfm&quot;&gt;Smithsonian Institution’s Global Volcanism Program&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;世界中の火山の一般的な情報がまとめられている。さまざまな機関の情報に基づき、個々の火山の噴火活動についての経緯が、詳細に記載されている。過去の噴火履歴、火山のタイプなど、火山の基本的な情報がまとめられており、知りたい火山があればまずはここ。&lt;/li&gt;
+  &lt;li&gt;噴火履歴、火山のタイプなど、&lt;strong&gt;世界の火山の基本的な情報&lt;/strong&gt;を知りたいときはココ。様々な機関の報告に基づく情報が掲載。特に時系列で活動の経緯が書かれた “Bulletin Reports” は、臨場感が感じられて面白い。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2-large-magnitude-explosive-volcanic-eruptions-lameve-database&quot;&gt;2. &lt;a href=&quot;https://www2.bgs.ac.uk/vogripa/view/controller.cfc?method=lameve&quot;&gt;Large Magnitude Explosive Volcanic Eruptions (LaMEVE database)&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;世界中の火山の過去の&lt;strong&gt;噴火活動&lt;/strong&gt;のカタログ。過去の主要な噴火活動について、噴火時期、噴出量、VEI (Volcanic Explosivity Index) などが参照文献込みで示されている。噴火についての具体的な数値を調べるのに便利。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">このページでは、火山学に関連する調査で便利なリンクをまとめています。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
+  &lt;li&gt;&lt;strong&gt;世界の火山の噴火活動&lt;/strong&gt;のカタログ。噴火時期、噴出量、VEI (Volcanic Explosivity Index) など、具体的な数値を調べるのに便利。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-国内の火山&quot;&gt;&lt;strong&gt;■ 国内の火山&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;1-産総研地質調査総合センター日本の火山&quot;&gt;1. &lt;a href=&quot;https://gbank.gsj.jp/volcano/index.htm&quot;&gt;産総研地質調査総合センター–日本の火山&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;日本の活火山の網羅的カタログ。最近（2021.7月現在）知ったサイトですが、ここまで整理してくださった関係者の方々には頭が上がりません。各火山の”Photo Gallaley”も必見。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-海上保安庁海洋情報部海域火山データベース&quot;&gt;2. &lt;a href=&quot;https://www1.kaiho.mlit.go.jp/GIJUTSUKOKUSAI/kaiikiDB/list-2.htm&quot;&gt;海上保安庁海洋情報部–海域火山データベース&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;日本周辺海域の海域火山の情報がまとめられている。海域火山の海底地形や、噴火意外にも海水変色時の写真など、豊富な情報が掲載。いつもご苦労様です。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-火山研究に使うデータ&quot;&gt;&lt;strong&gt;■ 火山研究に使うデータ&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm&quot;&gt;ALOS Global Digital Surface Model “ALOS World 3D - 30m (AW3D30)”
+&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;陸上火山の高解像度データはここで入手。無料登録をすれば世界中のデータを利用可能。&lt;a href=&quot;https://qgis.org/ja/site/forusers/download.html&quot;&gt;QGIS&lt;/a&gt;などのマッピング用のツールで図示・データ処理も可能。論文の作図でお世話になっています。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.jpgu.org/meeting_j2021/&quot;&gt;&lt;strong&gt;JpGU 2021&lt;/strong&gt;&lt;/a&gt;にて，口頭発表をします．&lt;/p&gt;
 
