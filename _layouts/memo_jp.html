@@ -50,6 +50,24 @@
               {% endfor %}
             </p>
 
+            <!-- Category - Matlab -->
+            <h1 id="Links" class="page-subheading"> Links </h1>
+            <p class="memo-post-list">
+              {% for post in site.tags['memo'] %}
+              {% if post.category == 'jp' %}
+              {% if post.cont == 'Links' %}
+              {% if post.draft != true %}
+              <bold> ー </bold>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="memo-post-title">
+                {{ post.title_jp }}
+              </a>
+              <br/>
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </p>
+
           </div>
 
           <div class="line"> </div>
