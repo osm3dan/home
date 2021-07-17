@@ -47,6 +47,6 @@ cont: Links
 
 ### **■ 火山研究に使うデータ**
 
-1. [ALOS Global Digital Surface Model "ALOS World 3D - 30m (AW3D30)"
+### 1. [ALOS Global Digital Surface Model "ALOS World 3D - 30m (AW3D30)"
 ](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm)
 - 陸上火山の高解像度データはここで入手。無料登録をすれば世界中のデータを利用可能。[QGIS](https://qgis.org/ja/site/forusers/download.html)などのマッピング用のツールで図示・データ処理も可能。論文の作図でお世話になっています。
