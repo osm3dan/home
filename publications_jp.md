@@ -56,7 +56,7 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 
 
 
-## <strong> その他 </strong>
+### <strong> その他 </strong>
 #### <strong>寄稿</strong>
 [1] **三反畑修**, 「『急がば回れ』でようやく辿り着いた Caltech」.*日本地震学会ニュースレター*, 第72巻，第NL4号. 2019年11月10日発行, (2019). ([地震学会](https://www.zisin.jp/publications/news72.html)) ([PDF](/assets/publications/SSJ_newsletter.pdf))　※**カリフォルニア工科大学(Caltech)への留学体験記**
 

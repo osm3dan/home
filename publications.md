@@ -4,7 +4,7 @@ title: Publications
 permalink: /en/publications
 ---
 
-### Submitted Papers
+## Submitted Papers
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
 -----|--------------|-----------|--------|----------|
@@ -15,7 +15,7 @@ permalink: /en/publications
 <br/>
 
 
-### Peer-reviewed papers   
+## Peer-reviewed papers   
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
 -----|----------|---------|------|------|--------|----------|
@@ -39,11 +39,11 @@ permalink: /en/publications
 
 <br/>
 
-### International confferences
+## International confferences
 
 Under construction...
 
 
-### Domestic confferences
+## Domestic confferences
 
 Under construction...

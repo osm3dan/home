@@ -38,10 +38,12 @@ li > ul, li > ol { margin-bottom: 0; }
 /** Headings */
 h1 { font-weight: 600; font-family: "Futura", メイリオ, sans-serif; }
 
-h2, h3, h4, h5, h6 { font-weight: 300; font-family: "Futura", メイリオ, sans-serif; }
+h2 { font-weight: 300; font-family: "Futura", メイリオ, sans-serif; }
+
+h3, h4, h5, h6 { font-weight: 300; font-family: メイリオ, sans-serif; }
 
 /** Links */
-a { color: #2a7ae2; text-decoration: none; }
+a { color: #1C6ECD; text-decoration: none; }
 a:hover { color: #111; text-decoration: underline; }
 
 /** Blockquotes */
@@ -51,10 +53,12 @@ blockquote > :last-child { margin-bottom: 0; }
 /** Code formatting */
 pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
 
-code { padding: 1px 5px; }
+code { display: flex; overflow-x: auto; scroll-snap-type: x; width: auto; padding: 1px 5px; }
 
 pre { padding: 8px 12px; overflow-x: scroll; }
 pre > code { border: 0; padding-right: 0; padding-left: 0; }
+
+.btnarea { text-align: center; display: block; }
 
 /** Wrapper */
 .wrapper { max-width: calc( 1200px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 90px; padding-left: 90px; position: relative; }
@@ -92,7 +96,13 @@ table td:nth-child(8) { width: 12.5%; }
 
 p.image_blog { text-align: center; max-width: 75%; vertical-align: middle; border: 1px gray solid; height: auto; }
 
-.btnarea { text-align: center; display: block; }
+.box22 { padding: 0.5em 1em; margin: 1em 0; background: #f4f4f4; border-left: solid 6px  #212121; box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.33); }
+
+.box22, ul, ol { margin-left: 30px; }
+
+.box22 > ul, .box22 > ol, li > ul, li > ol { display: list-item; margin-bottom: 0; }
+
+.box22 p { margin: 0; padding: 0; }
 
 /** Site header */
 .site-header { border-bottom: 2px solid #e8e8e8; min-height: 40px; padding-top: 20px; padding-bottom: 0px; position: relative; }
