@@ -68,6 +68,25 @@
               {% endfor %}
             </p>
 
+            <!-- Category - diary -->
+            <h1 id="Diary" class="page-subheading"> Diary </h1>
+            <p class="memo-post-list">
+              {% for post in site.tags['memo'] %}
+              {% if post.category == 'jp' %}
+              {% if post.cont == 'Diary' %}
+              {% if post.draft != true %}
+              <bold> ー </bold>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="memo-post-title">
+                {{ post.title_jp }}
+              </a>
+              <br/>
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </p>
+
+
           </div>
 
           <div class="line"> </div>

@@ -56,5 +56,24 @@
     {% endif %}
     {% endfor %}
   </details>
+
+  <!-- Diary -->
+  <details>
+    <summary> Diary </summary>
+    {% for post in site.tags['memo'] %}
+    {% if post.category == 'jp' %}
+    {% if post.cont == 'Diary' %}
+    {% if post.draft != true %}
+    <a href="{{ post.url | prepend: site.baseurl }}" >
+      <span class="memo-post-sidebar">
+        {{ post.title_jp }}
+      </span>
+    </a>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </details>
+
 </div>
 </div>
