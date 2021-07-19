@@ -16,6 +16,7 @@ cont: Links
 <h4> <strong> 
  ■ <a href="#世界の火山"> 世界の火山 </a> <br/>
  ■  <a href="#日本の火山"> 日本の火山 </a> <br/>
+ ■  <a href="#火山研究に使うデータ"> 火山学研究に使うデータ </a> <br/>
 </strong> </h4>
 </div>
 
@@ -36,7 +37,7 @@ cont: Links
 
 <a id="日本の火山"> </a> 
 
-### **■ 国内の火山**
+### **■ 日本の火山**
 
 ### 1. [産総研地質調査総合センター–日本の火山](https://gbank.gsj.jp/volcano/index.htm)
 - 日本の活火山の網羅的カタログ。最近（2021.7月現在）知ったサイトですが、ここまで整理してくださった関係者の方々には頭が上がりません。各火山の"Photo Gallaley"も必見。
@@ -45,7 +46,7 @@ cont: Links
 - 日本周辺海域の海域火山の情報がまとめられている。海域火山の海底地形や、噴火意外にも海水変色時の写真など、豊富な情報が掲載。いつもご苦労様です。
 
 ---
-
+<a id="火山研究に使うデータ"> </a> 
 ### **■ 火山研究に使うデータ**
 
 ### 1. [ALOS Global Digital Surface Model "ALOS World 3D - 30m (AW3D30)"](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm)
