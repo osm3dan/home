@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-17T14:34:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Volcano Links</title><link href="http://localhost:4000/jp/2021/07/16/volcano-links.html" rel="alternate" type="text/html" title="Volcano Links" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/volcano-links</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/volcano-links.html">&lt;p&gt;&lt;strong&gt;火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-20T19:07:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Diary</title><link href="http://localhost:4000/jp/2021/07/16/diary.html" rel="alternate" type="text/html" title="Diary" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/diary</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/diary.html">&lt;p&gt;&lt;strong&gt;2021年の雑記。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;2021年7月&quot;&gt;&lt;strong&gt;2021年7月&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;210720&quot;&gt;210720&lt;/h3&gt;
+&lt;p&gt;ポスドクになって一年と少しが経った中で、ようやく1日の時間の使い方がマシになってきたように思う。&lt;/p&gt;
+
+&lt;p&gt;これまでは、一個のことを時間を存分に使って進めて、飽きてきたら次の課題に着手、というサイクル（というか一過性のプロセス）を繰り返していた。ハマりやすい性格の自分には、このサイクルが日単位、悪ければ数週間、数ヶ月という単位でのサイクルになり、同じことをし続けるために、頭は疲れ、集中力も低い状態で続けてしまっていた。&lt;/p&gt;
+
+&lt;p&gt;いまこのサイクルを変えるため、試行錯誤中。うまくいくようになったら、どこかでその方法的なものを簡単にまとめておこうと思う。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;210719&quot;&gt;210719&lt;/h3&gt;
+&lt;p&gt;二週前、投稿準備中の研究で用いていたコード中にバグを発見。投稿前のほぼ最終段階でのバグ発覚。先週まるまる使ってコードを修正して、バグの影響を調べてみた結果、定量的に数倍の違いが出てくるものの、論文の主旨に大きな変更はない見込み。もう一度洗いざらい解析して修正する必要があるが、投稿前にバグに気がつくことができて、ほっとしている。&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">2021年の雑記。</summary></entry><entry><title type="html">Volcano Links</title><link href="http://localhost:4000/jp/2021/07/16/volcano-links.html" rel="alternate" type="text/html" title="Volcano Links" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/volcano-links</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/volcano-links.html">&lt;p&gt;&lt;strong&gt;火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、
 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&quot;box22&quot;&gt;
@@ -7,6 +23,7 @@
 &lt;h4&gt; &lt;strong&gt; 
  ■ &lt;a href=&quot;#世界の火山&quot;&gt; 世界の火山 &lt;/a&gt; &lt;br /&gt;
  ■  &lt;a href=&quot;#日本の火山&quot;&gt; 日本の火山 &lt;/a&gt; &lt;br /&gt;
+ ■  &lt;a href=&quot;#火山研究に使うデータ&quot;&gt; 火山学研究に使うデータ &lt;/a&gt; &lt;br /&gt;
 &lt;/strong&gt; &lt;/h4&gt;
 &lt;/div&gt;
 
@@ -30,7 +47,7 @@
 
 &lt;p&gt;&lt;a id=&quot;日本の火山&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;-国内の火山&quot;&gt;&lt;strong&gt;■ 国内の火山&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;-日本の火山&quot;&gt;&lt;strong&gt;■ 日本の火山&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;h3 id=&quot;1-産総研地質調査総合センター日本の火山&quot;&gt;1. &lt;a href=&quot;https://gbank.gsj.jp/volcano/index.htm&quot;&gt;産総研地質調査総合センター–日本の火山&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -43,23 +60,13 @@
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
+&lt;p&gt;&lt;a id=&quot;火山研究に使うデータ&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;-火山研究に使うデータ&quot;&gt;&lt;strong&gt;■ 火山研究に使うデータ&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;h3 id=&quot;1-alos-global-digital-surface-model-alos-world-3d---30m-aw3d30&quot;&gt;1. &lt;a href=&quot;https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm&quot;&gt;ALOS Global Digital Surface Model “ALOS World 3D - 30m (AW3D30)”&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;陸上火山の高解像度データはここで入手。無料登録をすれば世界中のデータを利用可能。&lt;a href=&quot;https://qgis.org/ja/site/forusers/download.html&quot;&gt;QGIS&lt;/a&gt;などのマッピング用のツールで図示・データ処理も可能。論文の作図でお世話になっています。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.jpgu.org/meeting_j2021/&quot;&gt;&lt;strong&gt;JpGU 2021&lt;/strong&gt;&lt;/a&gt;にて，口頭発表をします．&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
-  &lt;li&gt;[日時] 2021年6月4日(金) 14:45 〜 15:00 (JST/UTC+09)&lt;/li&gt;
-  &lt;li&gt;[セッション] SVC28 活動的⽕⼭&lt;/li&gt;
-  &lt;li&gt;[題目] &lt;strong&gt;(SVC28-11) 活動的火山における環状断層すべりのモーメントテンソル：Galápagos諸島Sierra Negraカルデラ火山における鉛直CLVD地震の事例研究&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[著者] 三反畑 修、金森 博雄、Luis Rivera、Zhan Zhongwen、綿田 辰吾、佐竹 健治&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="soon_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;I will talk at &lt;a href=&quot;http://www.jpgu.org/meeting_e2021/&quot;&gt;&lt;strong&gt;日本地球惑星科学連合大会(JpGU) 2021&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -69,7 +76,17 @@
   &lt;li&gt;[Session] SVC28 Active Volcanism&lt;/li&gt;
   &lt;li&gt;[Title] &lt;strong&gt;(SVC28-11) Moment Tensors of Ring-Faulting at Active Volcanoes: Insights into Vertical-CLVD Earthquakes at the Sierra Negra Caldera, Galápagos Islands&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[Authors] Osamu Sandanbata, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Kenji Satake&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="soon" /><summary type="html">Conference</summary></entry><entry><title type="html">[Seminar] SOLIST つくば固体地球セミナー</title><link href="http://localhost:4000/jp/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="[Seminar] SOLIST つくば固体地球セミナー" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/jp/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/jp/2021/05/24/SOLIST.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="soon" /><summary type="html">Conference</summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jpgu.org/meeting_j2021/&quot;&gt;&lt;strong&gt;JpGU 2021&lt;/strong&gt;&lt;/a&gt;にて，口頭発表をします．&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年6月4日(金) 14:45 〜 15:00 (JST/UTC+09)&lt;/li&gt;
+  &lt;li&gt;[セッション] SVC28 活動的⽕⼭&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;(SVC28-11) 活動的火山における環状断層すべりのモーメントテンソル：Galápagos諸島Sierra Negraカルデラ火山における鉛直CLVD地震の事例研究&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[著者] 三反畑 修、金森 博雄、Luis Rivera、Zhan Zhongwen、綿田 辰吾、佐竹 健治&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="soon_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">[Seminar] SOLIST つくば固体地球セミナー</title><link href="http://localhost:4000/jp/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="[Seminar] SOLIST つくば固体地球セミナー" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/jp/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/jp/2021/05/24/SOLIST.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST つくば固体地球セミナー&lt;/strong&gt;&lt;/a&gt;にて，セミナー発表をしました．&lt;/p&gt;
 
@@ -116,15 +133,4 @@
   &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;セミナー発表のビデオは&lt;a href=&quot;https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view&quot;&gt;こちら&lt;/a&gt;から視聴が可能です．&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">Stanford Geophysics Seminar (Invited)</title><link href="http://localhost:4000/en/2021/04/09/StanfordGeophysicsSeminar.html" rel="alternate" type="text/html" title="Stanford Geophysics Seminar (Invited)" /><published>2021-04-09T04:00:00+09:00</published><updated>2021-04-09T04:00:00+09:00</updated><id>http://localhost:4000/en/2021/04/09/StanfordGeophysicsSeminar</id><content type="html" xml:base="http://localhost:4000/en/2021/04/09/StanfordGeophysicsSeminar.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;I talked at &lt;a href=&quot;https://earth.stanford.edu/events/osamu-sandanbata-university-tokyo-abnormal-tsunamis-caused-trapdoor-faulting&quot;&gt;&lt;strong&gt;Stanford Geophysics Seminar&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[Place] Online&lt;/li&gt;
-  &lt;li&gt;[Date Time] 12:00 PM - 13:00 PM  on Friday, April 8, 2021 (PDT/UTC-07)&lt;/li&gt;
-  &lt;li&gt;[Title] &lt;strong&gt;Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[Authors] Osamu Sandanbata&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can watch the video of the seminar talk in &lt;a href=&quot;https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry></feed>
+&lt;p&gt;セミナー発表のビデオは&lt;a href=&quot;https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view&quot;&gt;こちら&lt;/a&gt;から視聴が可能です．&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry></feed>
