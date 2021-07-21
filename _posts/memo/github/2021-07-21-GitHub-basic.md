@@ -18,10 +18,10 @@ cont: GitHub
 
 #### **方法：.gitignore の不可視ファイルを作る**
 
-例えば，`~/githome` がgithubで反映するディレクトリの一番上の階層だとして，`~/githome/trash` を除外したい場合，`~/githome/.gitignore` を作成し，
+例えば，*~/githome* がディレクトリの一番上の階層だとして *~/githome/trash* を除外したい場合，*~/githome/.gitignore* を作成して，
 ~~~
 trash
 ~~~
-と書いておく．これで `git push` すると，`trash` ディレクトリはレポジトリに反映されず，反対に，`.gitigore` のファイルがレポジトリの最上階層に反映されている．
+と書いておく．これで push すると，*trash* ディレクトリはレポジトリに反映されず，反対に，*.gitigore* のファイルがレポジトリの最上階層に反映されている．
 
 [参考にしたサイト] (https://fantastech.net/gitignore)[https://fantastech.net/gitignore]
