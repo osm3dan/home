@@ -22,3 +22,5 @@ cont: GitHub
 trash
 ~~~
 と書いておく．これで `git push` すると，`trash` ディレクトリはレポジトリに反映されず，反対に，`.gitigore` のファイルがレポジトリの最上階層に反映されている．
+
+[参考にしたサイト] (https://fantastech.net/gitignore)[https://fantastech.net/gitignore]
