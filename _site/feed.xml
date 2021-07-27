@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-20T19:07:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Diary</title><link href="http://localhost:4000/jp/2021/07/16/diary.html" rel="alternate" type="text/html" title="Diary" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/diary</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/diary.html">&lt;p&gt;&lt;strong&gt;2021年の雑記。&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-27T13:04:53+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Cottaar+2021</title><link href="http://localhost:4000/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Cottaar+2021" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;the-interior-of-mars-revealed&quot;&gt;“The interior of Mars revealed”&lt;/h2&gt;
+&lt;h2 id=&quot;sanne-cottaar-paula-koelemeijer&quot;&gt;Sanne Cottaar, Paula Koelemeijer&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://science.sciencemag.org/content/373/6553/388&quot;&gt;Link&lt;/a&gt;
+—&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Seismic detection of the martian core</title><link href="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Seismic detection of the martian core" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;</content><author><name></name></author><category term="jp" /><category term="papers" /><summary type="html"></summary></entry><entry><title type="html">Github Basic</title><link href="http://localhost:4000/jp/2021/07/21/GitHub-basic.html" rel="alternate" type="text/html" title="Github Basic" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/21/GitHub-basic</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/21/GitHub-basic.html">&lt;hr /&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;特定のディレクトリを除外して-push-する方法&quot;&gt;特定のディレクトリを除外して push する方法&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h4 id=&quot;目的&quot;&gt;&lt;strong&gt;目的&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;あるプログラムの作成が終わり，試行錯誤をしていくうちに余分な解析結果が増えてきたため，余分なファイルを一つのディレクトリにまとめて，GitHubのレポジトリへ反映時にそのディレクトリを除外したい．&lt;/p&gt;
+
+&lt;h4 id=&quot;方法gitignore-の不可視ファイルを作る&quot;&gt;&lt;strong&gt;方法：.gitignore の不可視ファイルを作る&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;例えば，&lt;em&gt;~/githome&lt;/em&gt; がディレクトリの一番上の階層だとして &lt;em&gt;~/githome/trash&lt;/em&gt; を除外したい場合，&lt;em&gt;~/githome/.gitignore&lt;/em&gt; を作成して，&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;trash
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;と書いておく．これで push すると，&lt;em&gt;trash&lt;/em&gt; ディレクトリはレポジトリに反映されず，反対に，&lt;em&gt;.gitigore&lt;/em&gt; のファイルがレポジトリの最上階層に反映されている．&lt;/p&gt;
+
+&lt;p&gt;[参考にしたサイト] 
+&lt;a href=&quot;https://fantastech.net/gitignore&quot;&gt;https://fantastech.net/gitignore&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">Diary</title><link href="http://localhost:4000/jp/2021/07/16/diary.html" rel="alternate" type="text/html" title="Diary" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/diary</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/diary.html">&lt;p&gt;&lt;strong&gt;2021年の雑記。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
@@ -86,16 +112,7 @@
   &lt;li&gt;[セッション] SVC28 活動的⽕⼭&lt;/li&gt;
   &lt;li&gt;[題目] &lt;strong&gt;(SVC28-11) 活動的火山における環状断層すべりのモーメントテンソル：Galápagos諸島Sierra Negraカルデラ火山における鉛直CLVD地震の事例研究&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑 修、金森 博雄、Luis Rivera、Zhan Zhongwen、綿田 辰吾、佐竹 健治&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="soon_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">[Seminar] SOLIST つくば固体地球セミナー</title><link href="http://localhost:4000/jp/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="[Seminar] SOLIST つくば固体地球セミナー" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/jp/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/jp/2021/05/24/SOLIST.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST つくば固体地球セミナー&lt;/strong&gt;&lt;/a&gt;にて，セミナー発表をしました．&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
-  &lt;li&gt;[日時] 2021年5月24日(月) 9:15 〜 10:15 (JST/UTC+09:日本時間)&lt;/li&gt;
-  &lt;li&gt;[題目] &lt;strong&gt;特異な津波を引き起こす火山性地震–海底カルデラ火山におけるTrapdoor型断層破壊–&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="soon_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;I talked at &lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST (SOLId-earth Seminar of Tsukuba)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -104,33 +121,13 @@
   &lt;li&gt;[Date Time] 9:15 - 10:15 on Monday, May 24, 2021 (JST/UTC+09)&lt;/li&gt;
   &lt;li&gt;[Title] &lt;strong&gt;Volcanic earthquakes generating abnormal tsunamis—Trapdoor faulting at submarine volcanic calderas–&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[Authors] Osamu Sandanbata&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry><entry><title type="html">University of Leeds, Volcanology Seminar (Invited)</title><link href="http://localhost:4000/en/2021/04/23/LeedsUniv.html" rel="alternate" type="text/html" title="University of Leeds, Volcanology Seminar (Invited)" /><published>2021-04-23T19:00:00+09:00</published><updated>2021-04-23T19:00:00+09:00</updated><id>http://localhost:4000/en/2021/04/23/LeedsUniv</id><content type="html" xml:base="http://localhost:4000/en/2021/04/23/LeedsUniv.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry><entry><title type="html">[Seminar] SOLIST つくば固体地球セミナー</title><link href="http://localhost:4000/jp/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="[Seminar] SOLIST つくば固体地球セミナー" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/jp/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/jp/2021/05/24/SOLIST.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;I talked at &lt;a href=&quot;https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/volcanology&quot;&gt;&lt;strong&gt;University of Leeds, Volcanology Seminar&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[Place] Online&lt;/li&gt;
-  &lt;li&gt;[Date Time] 10:00 AM - 11:00 AM  on Friday, April 23, 2021 (UTC)&lt;/li&gt;
-  &lt;li&gt;[Title] &lt;strong&gt;Investigations of ring-faulting at active calderas: Case studies at Sierra Negra caldera in Galápagos, and Smith caldera in Japan&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[Authors] Osamu Sandanbata&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Seminar</summary></entry><entry><title type="html">[Seminar] 英国Leeds大学 火山学セミナー</title><link href="http://localhost:4000/jp/2021/04/23/LeedsUniv.html" rel="alternate" type="text/html" title="[Seminar] 英国Leeds大学 火山学セミナー" /><published>2021-04-23T19:00:00+09:00</published><updated>2021-04-23T19:00:00+09:00</updated><id>http://localhost:4000/jp/2021/04/23/LeedsUniv</id><content type="html" xml:base="http://localhost:4000/jp/2021/04/23/LeedsUniv.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;University of Leeds, Volcanology Seminar／英国Leeds大学 火山学セミナー&lt;/strong&gt;にて，セミナー発表をしました．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST つくば固体地球セミナー&lt;/strong&gt;&lt;/a&gt;にて，セミナー発表をしました．&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
-  &lt;li&gt;[日時] 2021年4月23日(金) 19:00 〜 20:00 (JST/UTC+09:日本時間)&lt;/li&gt;
-  &lt;li&gt;[題目] &lt;strong&gt;TBA&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年5月24日(月) 9:15 〜 10:15 (JST/UTC+09:日本時間)&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;特異な津波を引き起こす火山性地震–海底カルデラ火山におけるTrapdoor型断層破壊–&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Conference] Marine Seismology Symposium</title><link href="http://localhost:4000/jp/2021/04/09/StanfordGeophysicsSeminar.html" rel="alternate" type="text/html" title="[Conference] Marine Seismology Symposium" /><published>2021-04-09T04:00:00+09:00</published><updated>2021-04-09T04:00:00+09:00</updated><id>http://localhost:4000/jp/2021/04/09/StanfordGeophysicsSeminar</id><content type="html" xml:base="http://localhost:4000/jp/2021/04/09/StanfordGeophysicsSeminar.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://earth.stanford.edu/events/osamu-sandanbata-university-tokyo-abnormal-tsunamis-caused-trapdoor-faulting&quot;&gt;&lt;strong&gt;Stanford Geophysics Seminar／スタンフォード大学地球物理学セミナー&lt;/strong&gt;&lt;/a&gt;にて，セミナー発表をしました．&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
-  &lt;li&gt;[日時] 2021年4月9日(金) 04:00 〜 5:00 (JST/UTC+09:日本時間)&lt;/li&gt;
-  &lt;li&gt;[題目] &lt;strong&gt;Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;セミナー発表のビデオは&lt;a href=&quot;https://drive.google.com/file/d/1eFPH4R5KV6ciSwtswRrCj8wj4fE07Cia/view&quot;&gt;こちら&lt;/a&gt;から視聴が可能です．&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry></feed>
