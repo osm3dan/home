@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-27T13:04:53+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Cottaar+2021</title><link href="http://localhost:4000/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Cottaar+2021" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
-
-&lt;hr /&gt;
-&lt;h2 id=&quot;the-interior-of-mars-revealed&quot;&gt;“The interior of Mars revealed”&lt;/h2&gt;
-&lt;h2 id=&quot;sanne-cottaar-paula-koelemeijer&quot;&gt;Sanne Cottaar, Paula Koelemeijer&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://science.sciencemag.org/content/373/6553/388&quot;&gt;Link&lt;/a&gt;
-—&lt;/p&gt;
-
-&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Seismic detection of the martian core</title><link href="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Seismic detection of the martian core" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-27T18:06:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Seismic detection of the martian core</title><link href="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Seismic detection of the martian core" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;</content><author><name></name></author><category term="jp" /><category term="papers" /><summary type="html"></summary></entry><entry><title type="html">Github Basic</title><link href="http://localhost:4000/jp/2021/07/21/GitHub-basic.html" rel="alternate" type="text/html" title="Github Basic" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/21/GitHub-basic</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/21/GitHub-basic.html">&lt;hr /&gt;
 
@@ -24,23 +16,7 @@
 &lt;p&gt;と書いておく．これで push すると，&lt;em&gt;trash&lt;/em&gt; ディレクトリはレポジトリに反映されず，反対に，&lt;em&gt;.gitigore&lt;/em&gt; のファイルがレポジトリの最上階層に反映されている．&lt;/p&gt;
 
 &lt;p&gt;[参考にしたサイト] 
-&lt;a href=&quot;https://fantastech.net/gitignore&quot;&gt;https://fantastech.net/gitignore&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">Diary</title><link href="http://localhost:4000/jp/2021/07/16/diary.html" rel="alternate" type="text/html" title="Diary" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/diary</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/diary.html">&lt;p&gt;&lt;strong&gt;2021年の雑記。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;2021年7月&quot;&gt;&lt;strong&gt;2021年7月&lt;/strong&gt;&lt;/h2&gt;
-&lt;hr /&gt;
-&lt;h3 id=&quot;210720&quot;&gt;210720&lt;/h3&gt;
-&lt;p&gt;ポスドクになって一年と少しが経った中で、ようやく1日の時間の使い方がマシになってきたように思う。&lt;/p&gt;
-
-&lt;p&gt;これまでは、一個のことを時間を存分に使って進めて、飽きてきたら次の課題に着手、というサイクル（というか一過性のプロセス）を繰り返していた。ハマりやすい性格の自分には、このサイクルが日単位、悪ければ数週間、数ヶ月という単位でのサイクルになり、同じことをし続けるために、頭は疲れ、集中力も低い状態で続けてしまっていた。&lt;/p&gt;
-
-&lt;p&gt;いまこのサイクルを変えるため、試行錯誤中。うまくいくようになったら、どこかでその方法的なものを簡単にまとめておこうと思う。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;210719&quot;&gt;210719&lt;/h3&gt;
-&lt;p&gt;二週前、投稿準備中の研究で用いていたコード中にバグを発見。投稿前のほぼ最終段階でのバグ発覚。先週まるまる使ってコードを修正して、バグの影響を調べてみた結果、定量的に数倍の違いが出てくるものの、論文の主旨に大きな変更はない見込み。もう一度洗いざらい解析して修正する必要があるが、投稿前にバグに気がつくことができて、ほっとしている。&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">2021年の雑記。</summary></entry><entry><title type="html">Volcano Links</title><link href="http://localhost:4000/jp/2021/07/16/volcano-links.html" rel="alternate" type="text/html" title="Volcano Links" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/volcano-links</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/volcano-links.html">&lt;p&gt;&lt;strong&gt;火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、
+&lt;a href=&quot;https://fantastech.net/gitignore&quot;&gt;https://fantastech.net/gitignore&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">Volcano Links</title><link href="http://localhost:4000/jp/2021/07/16/volcano-links.html" rel="alternate" type="text/html" title="Volcano Links" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/volcano-links</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/volcano-links.html">&lt;p&gt;&lt;strong&gt;火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、
 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&quot;box22&quot;&gt;
@@ -92,7 +68,27 @@
 &lt;h3 id=&quot;1-alos-global-digital-surface-model-alos-world-3d---30m-aw3d30&quot;&gt;1. &lt;a href=&quot;https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm&quot;&gt;ALOS Global Digital Surface Model “ALOS World 3D - 30m (AW3D30)”&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;陸上火山の高解像度データはここで入手。無料登録をすれば世界中のデータを利用可能。&lt;a href=&quot;https://qgis.org/ja/site/forusers/download.html&quot;&gt;QGIS&lt;/a&gt;などのマッピング用のツールで図示・データ処理も可能。論文の作図でお世話になっています。&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">火山学に関連する調査で便利なリンクをまとめています。個人的な目的の偏りが故に、 掲載されているリンクの偏りも激しいかもしれません。随時追加していきます。</summary></entry><entry><title type="html">Diary</title><link href="http://localhost:4000/jp/2021/07/16/diary.html" rel="alternate" type="text/html" title="Diary" /><published>2021-07-16T00:00:00+09:00</published><updated>2021-07-16T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/16/diary</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/16/diary.html">&lt;p&gt;&lt;strong&gt;2021年の雑記。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;2021年7月&quot;&gt;&lt;strong&gt;2021年7月&lt;/strong&gt;&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;210721&quot;&gt;210721&lt;/h3&gt;
+&lt;p&gt;今週は月火水の三日でおしまい、木金土日と休みが続くという意識があったからか、水曜夜にはぐったり疲れ切ってしまっていました。今日は、先日見つかったエラーに伴う変更点を、Zoomで共著者のお二人にお話しました。お忙しい中でも時間を作ってくださって、ありがたく思うと共に、とても心強く感じます。博士課程の時間の限りがある中でスピード感を持って成果を出してきたものではありましたが、三年という期限に間に合うようにと、コードチェックを丁寧にしていなかったツケが来たような感じです。いい勉強だとおもって、焦らず弛まず怠らず、これからはより丁寧に仕事をしていければ、と思っています。&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;210720&quot;&gt;210720&lt;/h3&gt;
+&lt;p&gt;ポスドクになって一年と少しが経った中で、ようやく1日の時間の使い方がマシになってきたように思う。&lt;/p&gt;
+
+&lt;p&gt;これまでは、一個のことを時間を存分に使って進めて、飽きてきたら次の課題に着手、というサイクル（というか一過性のプロセス）を繰り返していた。ハマりやすい性格の自分には、このサイクルが日単位、悪ければ数週間、数ヶ月という単位でのサイクルになり、同じことをし続けるために、頭は疲れ、集中力も低い状態で続けてしまっていた。&lt;/p&gt;
+
+&lt;p&gt;いまこのサイクルを変えるため、試行錯誤中。うまくいくようになったら、どこかでその方法的なものを簡単にまとめておこうと思う。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;210719&quot;&gt;210719&lt;/h3&gt;
+&lt;p&gt;二週前、投稿準備中の研究で用いていたコード中にバグを発見。投稿前のほぼ最終段階でのバグ発覚。先週まるまる使ってコードを修正して、バグの影響を調べてみた結果、定量的に数倍の違いが出てくるものの、論文の主旨に大きな変更はない見込み。もう一度洗いざらい解析して修正する必要があるが、投稿前にバグに気がつくことができて、ほっとしている。&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">2021年の雑記。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;I will talk at &lt;a href=&quot;http://www.jpgu.org/meeting_e2021/&quot;&gt;&lt;strong&gt;日本地球惑星科学連合大会(JpGU) 2021&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -102,7 +98,7 @@
   &lt;li&gt;[Session] SVC28 Active Volcanism&lt;/li&gt;
   &lt;li&gt;[Title] &lt;strong&gt;(SVC28-11) Moment Tensors of Ring-Faulting at Active Volcanoes: Insights into Vertical-CLVD Earthquakes at the Sierra Negra Caldera, Galápagos Islands&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[Authors] Osamu Sandanbata, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Kenji Satake&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="soon" /><summary type="html">Conference</summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Conference</summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.jpgu.org/meeting_j2021/&quot;&gt;&lt;strong&gt;JpGU 2021&lt;/strong&gt;&lt;/a&gt;にて，口頭発表をします．&lt;/p&gt;
 
@@ -112,7 +108,7 @@
   &lt;li&gt;[セッション] SVC28 活動的⽕⼭&lt;/li&gt;
   &lt;li&gt;[題目] &lt;strong&gt;(SVC28-11) 活動的火山における環状断層すべりのモーメントテンソル：Galápagos諸島Sierra Negraカルデラ火山における鉛直CLVD地震の事例研究&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑 修、金森 博雄、Luis Rivera、Zhan Zhongwen、綿田 辰吾、佐竹 健治&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="soon_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;I talked at &lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST (SOLId-earth Seminar of Tsukuba)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -129,5 +125,14 @@
   &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
   &lt;li&gt;[日時] 2021年5月24日(月) 9:15 〜 10:15 (JST/UTC+09:日本時間)&lt;/li&gt;
   &lt;li&gt;[題目] &lt;strong&gt;特異な津波を引き起こす火山性地震–海底カルデラ火山におけるTrapdoor型断層破壊–&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Seminar] 英国Leeds大学 火山学セミナー</title><link href="http://localhost:4000/jp/2021/04/23/LeedsUniv.html" rel="alternate" type="text/html" title="[Seminar] 英国Leeds大学 火山学セミナー" /><published>2021-04-23T19:00:00+09:00</published><updated>2021-04-23T19:00:00+09:00</updated><id>http://localhost:4000/jp/2021/04/23/LeedsUniv</id><content type="html" xml:base="http://localhost:4000/jp/2021/04/23/LeedsUniv.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;University of Leeds, Volcanology Seminar／英国Leeds大学 火山学セミナー&lt;/strong&gt;にて，セミナー発表をしました．&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
+  &lt;li&gt;[日時] 2021年4月23日(金) 19:00 〜 20:00 (JST/UTC+09:日本時間)&lt;/li&gt;
+  &lt;li&gt;[題目] &lt;strong&gt;TBA&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry></feed>

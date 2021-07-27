@@ -121,10 +121,6 @@
 <lastmod>2021-07-27T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2021/07/27/Cottaar+2021.html</loc>
-<lastmod>2021-07-27T00:00:00+09:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -138,6 +134,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/jp/blog</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jp/diary</loc>
 </url>
 <url>
 <loc>http://localhost:4000/en/index</loc>
