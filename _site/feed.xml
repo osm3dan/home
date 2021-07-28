@@ -1,6 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-27T18:06:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Seismic detection of the martian core</title><link href="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Seismic detection of the martian core" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-28T18:01:08+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html">Fellowship</title><link href="http://localhost:4000/jp/2021/07/28/fellowship.html" rel="alternate" type="text/html" title="Fellowship" /><published>2021-07-28T00:00:00+09:00</published><updated>2021-07-28T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/28/fellowship</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/28/fellowship.html">&lt;p&gt;&lt;strong&gt;奨学金やFellowshipを探すのに便利なサイトを掲載しています。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;</content><author><name></name></author><category term="jp" /><category term="papers" /><summary type="html"></summary></entry><entry><title type="html">Github Basic</title><link href="http://localhost:4000/jp/2021/07/21/GitHub-basic.html" rel="alternate" type="text/html" title="Github Basic" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/21/GitHub-basic</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/21/GitHub-basic.html">&lt;hr /&gt;
+&lt;!-- &lt;div class=&quot;box22&quot;&gt;
+
+&lt;h3&gt; &lt;strong&gt; 目次 &lt;/strong&gt; &lt;/h3&gt;
+&lt;h4&gt; &lt;strong&gt;
+ ■ &lt;a href=&quot;#世界の火山&quot;&gt; 世界の火山 &lt;/a&gt; &lt;br/&gt;
+ ■  &lt;a href=&quot;#日本の火山&quot;&gt; 日本の火山 &lt;/a&gt; &lt;br/&gt;
+ ■  &lt;a href=&quot;#火山研究に使うデータ&quot;&gt; 火山学研究に使うデータ &lt;/a&gt; &lt;br/&gt;
+&lt;/strong&gt; &lt;/h4&gt;
+&lt;/div&gt; --&gt;
+
+&lt;hr /&gt;
+
+&lt;!-- &lt;a id=&quot;世界の火山&quot;&gt; &lt;/a&gt;
+
+### **■ 世界の火山**  --&gt;
+
+&lt;h3 id=&quot;1-名古屋大浜中真志先生のまとめ&quot;&gt;1. &lt;a href=&quot;http://www.math.nagoya-u.ac.jp/~hamanaka/money.html&quot;&gt;名古屋大・浜中真志先生のまとめ&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;数学者の方がまとめられた奨学金・助成金をまとめたサイト。自然科学分野の研究者が応募できる助成金が多く掲載されています。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">奨学金やFellowshipを探すのに便利なサイトを掲載しています。</summary></entry><entry><title type="html">Seismic detection of the martian core</title><link href="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html" rel="alternate" type="text/html" title="Seismic detection of the martian core" /><published>2021-07-27T00:00:00+09:00</published><updated>2021-07-27T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/27/Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/27/Cottaar+2021.html">&lt;hr /&gt;
+
+&lt;h2 id=&quot;論文の主旨&quot;&gt;論文の主旨&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;火星の地震探査地震計(火震計)=InSightのデータを用いて、&lt;strong&gt;核－マントル境の反射面&lt;/strong&gt; を発見。&lt;/li&gt;
+  &lt;li&gt;測地データと合わせて、液体の核の半径を &lt;strong&gt;1,830±40km&lt;/strong&gt; に制約。&lt;/li&gt;
+  &lt;li&gt;液体核の存在により地震波が到達しない地震波シャドーゾーンが広域に存在。そのため、InSightは多くの火震を見逃している可能性が高い。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q1-観測点はinsight一点しかないのにどうやって内部構造を決めた&quot;&gt;(Q1) 観測点はInSight一点しかないのにどうやって内部構造を決めた？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;まず前提として、この観測だけで全てを決めたわけではなく、火星の重力・慣性モーメント・潮汐の観測、さらには火星起源の隕石の化学的なデータから、「液体核がだいたい半径1,700–1,900kmっぽい」ということが先行研究でわかっていた。この研究は、より精度良く核－マントル境界を決めたのであって、多くの仮定があってこその成果。&lt;/li&gt;
+  &lt;li&gt;その上で、一点の観測点で内部構造を推定するために、震央距離の異なる火震による波形記録を用いる。地震波記録には微弱ではあるが、S波が核－マントル境界でのS波反射波(ScS波)が観測されており、複数の火震による波形記録を足し合わせることで、この相を取り出し、到達時間を読み取った。この相の到達時間と、直達S波、直達P波の到達時間との差を用いて、核－マントル反射面の深さを推定している。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q2-観測点はinsight一点しかないのにどうやって震源位置を決めた&quot;&gt;(Q2) 観測点はInSight一点しかないのにどうやって震源位置を決めた？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;三成分地震計を用いているので、地震動のPolarizationから、地震波がやってきた方向、すなわち震源の位置を大まかに決定している。また直達S波と、地表反射したS波(sS波)との到達時間差から、震源の深さを 20–35 km程度と推定している。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q3&quot;&gt;(Q3)&lt;/h3&gt;</content><author><name></name></author><category term="jp" /><category term="papers" /><summary type="html"></summary></entry><entry><title type="html">Github Basic</title><link href="http://localhost:4000/jp/2021/07/21/GitHub-basic.html" rel="alternate" type="text/html" title="Github Basic" /><published>2021-07-21T00:00:00+09:00</published><updated>2021-07-21T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/21/GitHub-basic</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/21/GitHub-basic.html">&lt;hr /&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;特定のディレクトリを除外して-push-する方法&quot;&gt;特定のディレクトリを除外して push する方法&lt;/h2&gt;
@@ -88,17 +127,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;210719&quot;&gt;210719&lt;/h3&gt;
-&lt;p&gt;二週前、投稿準備中の研究で用いていたコード中にバグを発見。投稿前のほぼ最終段階でのバグ発覚。先週まるまる使ってコードを修正して、バグの影響を調べてみた結果、定量的に数倍の違いが出てくるものの、論文の主旨に大きな変更はない見込み。もう一度洗いざらい解析して修正する必要があるが、投稿前にバグに気がつくことができて、ほっとしている。&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">2021年の雑記。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;I will talk at &lt;a href=&quot;http://www.jpgu.org/meeting_e2021/&quot;&gt;&lt;strong&gt;日本地球惑星科学連合大会(JpGU) 2021&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[Place] Online&lt;/li&gt;
-  &lt;li&gt;[Date Time] 14:45 - 15:00 on Friday, June 4, 2021 (JST/UTC+09)&lt;/li&gt;
-  &lt;li&gt;[Session] SVC28 Active Volcanism&lt;/li&gt;
-  &lt;li&gt;[Title] &lt;strong&gt;(SVC28-11) Moment Tensors of Ring-Faulting at Active Volcanoes: Insights into Vertical-CLVD Earthquakes at the Sierra Negra Caldera, Galápagos Islands&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[Authors] Osamu Sandanbata, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Kenji Satake&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Conference</summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;二週前、投稿準備中の研究で用いていたコード中にバグを発見。投稿前のほぼ最終段階でのバグ発覚。先週まるまる使ってコードを修正して、バグの影響を調べてみた結果、定量的に数倍の違いが出てくるものの、論文の主旨に大きな変更はない見込み。もう一度洗いざらい解析して修正する必要があるが、投稿前にバグに気がつくことができて、ほっとしている。&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html">2021年の雑記。</summary></entry><entry><title type="html">Matlabe Figure Tips</title><link href="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html" rel="alternate" type="text/html" title="Matlabe Figure Tips" /><published>2021-07-15T00:00:00+09:00</published><updated>2021-07-15T00:00:00+09:00</updated><id>http://localhost:4000/jp/2021/07/15/matlabe-figure-tips</id><content type="html" xml:base="http://localhost:4000/jp/2021/07/15/matlabe-figure-tips.html"></content><author><name></name></author><category term="jp" /><category term="memo" /><summary type="html"></summary></entry><entry><title type="html">[Conference] JpGU 2021</title><link href="http://localhost:4000/jp/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="[Conference] JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/jp/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/jp/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;学会発表&quot;&gt;&lt;strong&gt;学会発表&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.jpgu.org/meeting_j2021/&quot;&gt;&lt;strong&gt;JpGU 2021&lt;/strong&gt;&lt;/a&gt;にて，口頭発表をします．&lt;/p&gt;
 
@@ -108,7 +137,17 @@
   &lt;li&gt;[セッション] SVC28 活動的⽕⼭&lt;/li&gt;
   &lt;li&gt;[題目] &lt;strong&gt;(SVC28-11) 活動的火山における環状断層すべりのモーメントテンソル：Galápagos諸島Sierra Negraカルデラ火山における鉛直CLVD地震の事例研究&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑 修、金森 博雄、Luis Rivera、Zhan Zhongwen、綿田 辰吾、佐竹 健治&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">学会発表</summary></entry><entry><title type="html">JpGU 2021</title><link href="http://localhost:4000/en/2021/06/04/JpGU2021.html" rel="alternate" type="text/html" title="JpGU 2021" /><published>2021-06-04T15:00:00+09:00</published><updated>2021-06-04T15:00:00+09:00</updated><id>http://localhost:4000/en/2021/06/04/JpGU2021</id><content type="html" xml:base="http://localhost:4000/en/2021/06/04/JpGU2021.html">&lt;h4 id=&quot;conference&quot;&gt;&lt;strong&gt;Conference&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;I will talk at &lt;a href=&quot;http://www.jpgu.org/meeting_e2021/&quot;&gt;&lt;strong&gt;日本地球惑星科学連合大会(JpGU) 2021&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Place] Online&lt;/li&gt;
+  &lt;li&gt;[Date Time] 14:45 - 15:00 on Friday, June 4, 2021 (JST/UTC+09)&lt;/li&gt;
+  &lt;li&gt;[Session] SVC28 Active Volcanism&lt;/li&gt;
+  &lt;li&gt;[Title] &lt;strong&gt;(SVC28-11) Moment Tensors of Ring-Faulting at Active Volcanoes: Insights into Vertical-CLVD Earthquakes at the Sierra Negra Caldera, Galápagos Islands&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;[Authors] Osamu Sandanbata, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, Kenji Satake&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><category term="news" /><summary type="html">Conference</summary></entry><entry><title type="html">SOLIST (SOLId-earth Seminar of Tsukuba)</title><link href="http://localhost:4000/en/2021/05/24/SOLIST.html" rel="alternate" type="text/html" title="SOLIST (SOLId-earth Seminar of Tsukuba)" /><published>2021-05-24T12:00:00+09:00</published><updated>2021-05-24T12:00:00+09:00</updated><id>http://localhost:4000/en/2021/05/24/SOLIST</id><content type="html" xml:base="http://localhost:4000/en/2021/05/24/SOLIST.html">&lt;h4 id=&quot;seminar&quot;&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;I talked at &lt;a href=&quot;https://www.geol.tsukuba.ac.jp/~rokuwaki/solist/&quot;&gt;&lt;strong&gt;SOLIST (SOLId-earth Seminar of Tsukuba)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -125,14 +164,5 @@
   &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
   &lt;li&gt;[日時] 2021年5月24日(月) 9:15 〜 10:15 (JST/UTC+09:日本時間)&lt;/li&gt;
   &lt;li&gt;[題目] &lt;strong&gt;特異な津波を引き起こす火山性地震–海底カルデラ火山におけるTrapdoor型断層破壊–&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry><entry><title type="html">[Seminar] 英国Leeds大学 火山学セミナー</title><link href="http://localhost:4000/jp/2021/04/23/LeedsUniv.html" rel="alternate" type="text/html" title="[Seminar] 英国Leeds大学 火山学セミナー" /><published>2021-04-23T19:00:00+09:00</published><updated>2021-04-23T19:00:00+09:00</updated><id>http://localhost:4000/jp/2021/04/23/LeedsUniv</id><content type="html" xml:base="http://localhost:4000/jp/2021/04/23/LeedsUniv.html">&lt;h4 id=&quot;セミナー発表&quot;&gt;&lt;strong&gt;セミナー発表&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;University of Leeds, Volcanology Seminar／英国Leeds大学 火山学セミナー&lt;/strong&gt;にて，セミナー発表をしました．&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[場所] オンライン開催&lt;/li&gt;
-  &lt;li&gt;[日時] 2021年4月23日(金) 19:00 〜 20:00 (JST/UTC+09:日本時間)&lt;/li&gt;
-  &lt;li&gt;[題目] &lt;strong&gt;TBA&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;[著者] 三反畑修&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="jp" /><category term="news_jp" /><summary type="html">セミナー発表</summary></entry></feed>
