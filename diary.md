@@ -13,10 +13,12 @@ cont: others
 ## **2021年7月**
 
 ---
-### 210729
+### 210729 アラスカ M8.2地震が起きた
 新しいことを始めると、今までやっていたことの流れが止まってしまうという問題がいつもある。「新しい習慣をつけるときにはひとつずつ」「一個習慣を増やしたら、一個減らす」と、色々習慣化の本を読んだときに耳にしたが、やはり正しいと思う。友人との勉強、論文読み＋まとめ、少しこだわってやりすぎると、どうにも時間がかかってしまう。こうした癖を直さないと。制限時間をいずれも決めて、**終わらなかったら土曜日に回す** とかするのが良いだろう。
 
-夕方ごろにアラスカ沖で[M8.2](https://earthquake.usgs.gov/earthquakes/eventpage/ak0219neiszm/executive)の地震が起きた。津波が観測されてないかをDARTの記録から見てみたが、地震波と津波を間違えるという失態をはじめにしてしまった。やはりデータをもっと見ることは重要だ... 結局のところ、津波の第一波は、深海の海底水圧計DARTでも振幅10cm以下、震源に一番近い潮位計でも20cm程度と、そこまで大きくならなかったようだ。「[地震の空白域(ここは "Shumagin gap" というらしい)](https://earthquake.alaska.edu/new-perspective-seismic-hazards-shumagin-gap)で起きた？」との興味が、地震学の中では大きな話題っぽい。解析が一気に進みそうですね。
+夕方ごろにアラスカ沖で[M8.2](https://earthquake.usgs.gov/earthquakes/eventpage/ak0219neiszm/executive)の地震が起きた。津波が観測されてないかをDARTの記録から見てみたが、地震波と津波を間違えるという失態をはじめにしてしまった。やはりデータをもっと見ることは重要だ... 結局のところ、津波の第一波は、深海の海底水圧計DARTでも振幅10cm以下、震源に一番近い潮位計でも20cm程度と、そこまで大きくならなかったようだ。
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Following the Alaska&#39;s earthquake on 6:15 in UTC, an ocean-bottom-pressure gauge of DART system seems to record a very long-period tsunami signal with amplitude of &lt;10 cm starting at ~6:40. (Red signals around ~6:15 are probably due to the seismic waves.)<a href="https://t.co/anyTcWE4tM">https://t.co/anyTcWE4tM</a> <a href="https://t.co/BLrpXBgHCR">pic.twitter.com/BLrpXBgHCR</a></p>&mdash; Osamu S. (@osm3dan) <a href="https://twitter.com/osm3dan/status/1420653614251483142?ref_src=twsrc%5Etfw">July 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+「[地震の空白域(ここは "Shumagin gap" というらしい)](https://earthquake.alaska.edu/new-perspective-seismic-hazards-shumagin-gap)で起きた？」との興味が、地震学の中では大きな話題っぽい。解析が一気に進みそうですね。
 
 ---
 ### 210728
