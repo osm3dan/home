@@ -1,0 +1,13 @@
+ PDE 2015  5  2 16 50 43.00  31.4850  140.0530   1.5 6.2 0.0 Smith/TR_dip75/f_alp_0.300 
+event name:     010176A
+time shift:      5.0000
+half duration:   5.0000
+latitude:       31.4850
+longitude:     140.0530
+depth:           1.5000
+Mrr:       1.980845e+25
+Mtt:      -7.721562e+24
+Mpp:      -4.750350e+24
+Mrt:       1.293401e+25
+Mrp:      -7.826090e+24
+Mtp:      -6.181453e+23
