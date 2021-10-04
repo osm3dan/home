@@ -47,7 +47,7 @@ header:
     - name: About
       slug: /en/about # <-- about.markdown
     - name: CV
-      slug: /assets/cv.pdf
+      slug: /assets/CV.pdf
     - name: Publications
       slug: /en/publications
     # - name: Blog
@@ -67,7 +67,7 @@ header_jp:
     - name: 自己紹介 # <-- about_jp.markdown
       slug: /jp/about
     - name: CV
-      slug: /assets/cv.pdf
+      slug: /assets/CV.pdf
     - name: 研究成果  # <-- publications.md
       slug: /jp/publications
 #    - name: ブログ  # <-- blog.md
