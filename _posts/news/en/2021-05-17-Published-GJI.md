@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Paper published from JGR-Solid Earth"
+title:  "Paper published from GJI"
 title_jp: "出版: JGR-Solid Earth"
 date:   2021-05-17 00:00:00 0900
-blurb: "Paper published from JGR-Solid Earth"
+blurb: "Paper published from GJI"
 og_image:
 tag: news
 category: en
@@ -11,7 +11,7 @@ cont: Paper
 year: 2021
 ---
 
-#### **Submitted a new manuscript to JGR-Solid Earth.**
+#### **Paper published from Geophysical Journal International**
 
 My first-authored paper has been published from *Geophysical Journal International*!
 The co-authors are Drs. Shingo Watada, Tung-Cheng Ho, and Kenji Satake.
