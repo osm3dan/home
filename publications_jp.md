@@ -10,9 +10,6 @@ No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク
 -----|--------------|----------|--------|----------|-------|
 1 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | **査読中** | [プレプリント](https://www.essoar.org/doi/10.1002/essoar.10506159.1) |
 
-2 | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | **査読中** | [プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1) |
-
-
 <br/>
 
 
@@ -20,7 +17,10 @@ No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク
 
 No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 -----|-------|------|------|------|-----|----|
-**9** | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | 126(6) | e2021JB-021693 | 2021 | [JGR-Splid Earth](https://doi.org/10.1029/2021JB021693),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
+**10** | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | In press | e2021JB022139 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB022139),<br>[プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
+
+
+**9** | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | 126(6) | e2021JB-021693 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB021693),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
 
 **8** | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* | *Geophysical Journal International* | 226(3) | 1975–1985 | 2021 | [GJI](https://doi.org/10.1093/gji/ggab192)
 
