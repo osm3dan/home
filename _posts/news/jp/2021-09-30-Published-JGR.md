@@ -1,7 +1,7 @@
 ---
 layout: page_news_jp
-title:  "[研究成果] 共著論文が JGR-Solid Earth 誌から出版"
-title_jp: "[研究成果] 共著論文がJGR-Solid Earth誌から出版"
+title:  "共著論文が JGR-Solid Earth 誌から出版"
+title_jp: "共著論文がJGR-Solid Earth誌から出版"
 date:   2021-09-30 00:00:00 0900
 blurb: "JGR-Solid Earth 誌に新しい共著論文を投稿しました."
 og_image:
