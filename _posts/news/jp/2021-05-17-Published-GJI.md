@@ -1,7 +1,7 @@
 ---
 layout: page_news_jp
-title:  "[研究成果] 主著論文がGJI誌から出版"
-title_jp: "[研究成果] 主著論文がGJI誌から出版"
+title:  "主著論文がGJI誌から出版"
+title_jp: "主著論文がGJI誌から出版"
 date:   2021-05-17 00:00:00 0900
 blurb: "JGR-Solid Earth誌に新しい論文を投稿しました."
 og_image:
