@@ -17,7 +17,7 @@ No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク
 
 No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 -----|-------|------|------|------|-----|----|
-**10** | Voon Hui Lai, Zhongwen Zhan, **Osamu Sandanbata**, Quentin Brissaud, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | In press | e2021JB-022139 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB022139),<br>[プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
+**10** | Voon Hui Lai, Zhongwen Zhan, Quentin Brissaud, **Osamu Sandanbata**, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | In press | e2021JB-022139 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB022139),<br>[プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
 
 
 **9** | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | 126(6) | e2021JB-021693 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB021693),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
