@@ -46,8 +46,8 @@ header:
       slug: /en/index   # <-- index.markdown
     - name: About
       slug: /en/about # <-- about.markdown
-    #- name: News
-    #  slug: /en/news
+    - name: CV
+      slug: /assets/cv.pdf
     - name: Publications
       slug: /en/publications
     # - name: Blog
@@ -66,8 +66,8 @@ header_jp:
       slug: /jp/index   # <-- index.markdown
     - name: 自己紹介 # <-- about_jp.markdown
       slug: /jp/about
-    #- name: ニュース # <-- news.md
-    #  slug: /jp/news
+    - name: CV
+      slug: /assets/cv.pdf
     - name: 研究成果  # <-- publications.md
       slug: /jp/publications
 #    - name: ブログ  # <-- blog.md
