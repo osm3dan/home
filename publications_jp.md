@@ -15,7 +15,7 @@ No.  | 著者          | タイトル  |  雑誌   | ステータス | リンク
 ### <strong> 査読付き論文 </strong>
 
 No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
------|-------|------|------|------|-----|----|
+-----|-------|------|------|------|-----|----| 
 
 **11** | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* | *Geophysical Research Letters* | 48(21) | e2021GL-094255 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021GL094255),<br> [プレプリント](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
