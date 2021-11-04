@@ -16,8 +16,7 @@ permalink: /en/publications
 ## Peer-reviewed papers   
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** |**Pages**| **Year** | **Link(s)**
------|----------|---------|------|------|--------|----------|
-
+---------|----------|---------|------|------|--------|----------|
 **11** | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.|
 *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* |
 *Geophysical Research Letters* | 48(21) | e2021GL-094255 | 2021 | [GRL](https://doi.org/10.1029/2021GL094255),<br> [Preprint](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
