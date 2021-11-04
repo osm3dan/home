@@ -20,7 +20,7 @@ permalink: /en/publications
 
 **11** | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.|
 *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* |
-*Geophysical Research Letters* | 48(21) | e2021GL-094255 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021GL094255),<br> [Preprint](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
+*Geophysical Research Letters* | 48(21) | e2021GL-094255 | 2021 | [GRL](https://doi.org/10.1029/2021GL094255),<br> [Preprint](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
 **10** | Voon Hui Lai, Zhongwen Zhan, Quentin Brissaud, **Osamu Sandanbata**, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | In press | e2021JB-022139 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB022139),<br>[Preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
 
