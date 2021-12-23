@@ -54,7 +54,7 @@ permalink: /en/publications
 
 10| Sandanbata, Watada, Satake, Kanamori, Rivera, and Zhan. | *Volcanic tsunami earthquakes repeating at submarine calderas (1): Physical mechanism* | *JpGU-AGU Joint Meeting 2020* | SVC45-36 | Online | Jul. 2020 |
 
-9| Sandanbata, Watada, Satake, Kanamori, Rivera, and Zhan. (2020). Volcanic tsunami earthquakes repeating at submarine calderas (2): Kinematic source modeling of the 2015 Torishima earthquake, JpGU-AGU Joint Meeting 2020, HDS08-P07, Online, July 2020.
+9| Sandanbata, Watada, Satake, Kanamori, Rivera, and Zhan. | *Volcanic tsunami earthquakes repeating at submarine calderas (2): Kinematic source modeling of the 2015 Torishima earthquake* | *JpGU-AGU Joint Meeting 2020*| HDS08-P07 | Online | Jul. 2020 | 
 
 8| Wang, Sandanbata, Satake, Maeda, and Su. | *Tsunami Data Assimilation of the 2015 Torishima Earthquake* | *AGU 2019 Fall Meeting* | NH43F-0995 | San Francisco, US | Dec. 2019 |
 
