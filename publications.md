@@ -41,11 +41,9 @@ permalink: /en/publications
 
 <br/>
 
-## International confferences
+## International conferences
 
-Under construction...
+**No.** | **Author(s)** | **Title** | **Conference** | **Abst. #** | **Year** | **Location** |**Link(s)**
+---------|----------|---------|------|------|--------|--------|-------|
 
-
-## Domestic confferences
-
-Under construction...
+1| **Sandanbata**, Obara, Maeda, Takagi, and Satake. |*Step-wise temporal change in the frequency-amplitude distribution of volcanic long period tremors at Aso volcano* | *Workshop ERI-IPGP* | – | Sep. 2015 | Paris, France | [IPGP](http://www.ipgp.fr/en/seminaires/workshop-eri-ipgp-1)
