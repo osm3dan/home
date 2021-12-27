@@ -43,7 +43,7 @@ permalink: /en/publications
 
 ## International conferences
 
-**No.** | **Author(s)** | **Title** | **Conference** | **Abst. #** | **Year** | **Location**
+**No.** | **Author(s)** | **Title** | **Conference** | **Abst. #** | **Location** | **Year**
 ---------|----------|---------|------|------|--------|--------|
 13| **Sandanbata**, Kanamori, Rivera, Zhan, Watada, Satake, and Lai | *Teleseismic moment tensor inversion for ring-faulting at active calderas: Case studies at Sierra Negra in the Galápagos Islands and Kilauea in Hawaii* | *AGU 2021 Fall Meeting* | V25D-0155 | Online | Dec. 2021
 
