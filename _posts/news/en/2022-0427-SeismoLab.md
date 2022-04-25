@@ -5,7 +5,8 @@ title_jp:  "[セミナー発表] University of Leeds, Volcanology Seminar (招�
 date:   2022-04-27 12:00:00 -0700
 blurb: ""
 og_image:
-tag: news
+##tag: news
+tag: soon
 category: en
 cont: Seminar
 year: 2022

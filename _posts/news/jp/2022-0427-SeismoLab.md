@@ -13,7 +13,7 @@ year: 2022
 
 #### **セミナー発表**
 
-**Seismological Laboratory, California Institute of Technology** に訪問滞して，**Brown Bag Seminar** で研究発表をします．
+**Seismological Laboratory, California Institute of Technology** に訪問滞在．**Brown Bag Seminar** で研究発表をします．
 
 - [場所] Benioff Room, Seismological Laboratory, Caltech
 - [日時] 12:00 - 13:00 on Wednesday, April 27, 2022 (UTC-7)
