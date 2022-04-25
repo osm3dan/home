@@ -5,7 +5,8 @@ title_jp:  "短期訪問＋セミナー発表 @Caltech"
 date:   2022-04-27 12:00:00 -0700
 blurb: ""
 og_image:
-tag: news_jp
+## tag: news_jp
+tag: soon_jp
 category: jp
 cont: セミナー
 year: 2022
