@@ -1,14 +1,14 @@
 ---
 layout: page_news_jp
-title:  "短期訪問＋セミナー発表@Caltech"
-title_jp:  "短期訪問＋セミナー発表@Caltech"
+title:  "短期訪問＋セミナー発表 @Caltech"
+title_jp:  "短期訪問＋セミナー発表 @Caltech"
 date:   2022-04-27 12:00:00 -0700
 blurb: ""
 og_image:
 tag: news_jp
 category: jp
 cont: セミナー
-year: 2021
+year: 2022
 ---
 
 #### **セミナー発表**
