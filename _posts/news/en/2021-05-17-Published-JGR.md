@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper published from JGR-Solid Earth"
+title:  "Publication from JGR-Solid Earth (1st author)""
 title_jp: "出版: JGR-Solid Earth"
 date:   2021-05-17 00:00:00 0900
 blurb: "Paper published from JGR-Solid Earth"

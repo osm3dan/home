@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New submission & Preprint is online!"
+title:  "New submission & Preprint"
 #title_jp: "ホームページを開設しました．"
 date:   2022-02-15 00:00:00 0900
 blurb: "New preprint is online!"

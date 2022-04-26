@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visit + Seminar Talk @Caltech"
+title:  "Short Visit & Seminar Talk @Caltech"
 title_jp:  "[セミナー発表] University of Leeds, Volcanology Seminar (招待講演)"
 date:   2022-04-27 12:00:00 -0700
 blurb: ""

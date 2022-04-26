@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "This website open!"
-title_jp: "ホームページを開設しました．"
+title_jp: "ホームページを開設"
 date:   2020-10-15 18:00:00 0900
-blurb: "This webpage is published."
+blurb: "Webpage started"
 og_image:
 tag: news
 category: en

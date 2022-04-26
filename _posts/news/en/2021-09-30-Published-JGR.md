@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Co-authored paper published from JGR-Solid Earth"
+title:  "Publication from JGR-Solid Earth (co-author)"
 title_jp: "出版: JGR-Solid Earth"
 date:   2021-09-30 00:00:00 0900
 blurb: "Co-authored paper published from JGR-Solid Earth"

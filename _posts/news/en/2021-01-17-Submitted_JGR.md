@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Submitted a new manuscript"
+title:  "New submission & preprint"
 title_jp: "ホームページを開設しました．"
 date:   2021-01-16 00:00:00 0900
 blurb: "Submitted a new manuscript to JGR-Solid Earth."
