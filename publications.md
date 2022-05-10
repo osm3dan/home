@@ -8,11 +8,11 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
 -------|----------|-----------|--------|
-1 | Hisahiko Kubo, Tatsuya Kubota, Wataru Suzuki, Shin Aoi, **Osamu Sandanbata**, Naotaka Chikasada, and Hideki Ueda | *Ocean-wave phenomenon around Japan Island due to the 2022 Tonga eruption observed by the wide and dense ocean-bottom pressure gauge networks* (in revision) | EPS |　[Preprint](https://www.researchsquare.com/article/rs-1464766/v1)
+1 | Hisahiko Kubo, Tatsuya Kubota, Wataru Suzuki, Shin Aoi, **Osamu Sandanbata**, Naotaka Chikasada, and Hideki Ueda. | *Ocean-wave phenomenon around Japan Island due to the 2022 Tonga eruption observed by the wide and dense ocean-bottom pressure gauge networks* (in revision) | EPS |　[Preprint](https://www.researchsquare.com/article/rs-1464766/v1)
 
 2 | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan | *Sub-decadal Volcanic Tsunamis Due to Submarine Trapdoor Faulting at Sumisu Caldera in the Izu-Bonin Arc* (in revision) | JGR–SE |　[Preprint](https://www.researchsquare.com/article/rs-1464766/v1)  
-<br/>
 
+<br/>
 
 ## Peer-reviewed papers   
 
