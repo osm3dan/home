@@ -72,8 +72,8 @@ header_jp:
       slug: /jp/publications
 #    - name: ブログ  # <-- blog.md
 #      slug: /jp/blog
-    - name: 研究メモ  # <-- blog.md
-      slug: /jp/memo
+    # - name: 研究メモ  # <-- blog.md
+    #   slug: /jp/memo
     - name: EN # <-- memo.md
       slug: en
     - name: <font color="#a7a7a7"> JP </font>

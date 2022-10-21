@@ -10,8 +10,8 @@
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
             alt="{{ page.profile_picture.alt }}"
-            height="500.9"
-            width="400.1"
+            height="300.9"
+            width="300.1"
             class="profilepic"
             />
           <div align="justify">
@@ -28,12 +28,12 @@
           </h3>
 
           <p class="blog-post-list">
-          {% for post in site.tags['news'] limit:5 %}
+          {% for post in site.tags['news'] limit:3 %}
           {% if post.draft != true %}
-          <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }} </span>
-          <span class="blog-post-cont"> [{{ post.cont }}] </span>
+          <span class="blog-post-date"> {{ post.date | date: "%b %d, %Y" }} </span>
+          <span class="blog-post-cont"> {{ post.cont }} </span>
           <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-              {{ post.title }}
+              {{ post.title }} @{{ post.place }}
           </a>
           <br/>
           {% endif %}
@@ -49,10 +49,10 @@
           <p class="blog-post-list">
           {% for post in site.tags['soon'] reversed limit:5 %}
           {% if post.draft != true %}
-          <span class="blog-post-date">▶︎ {{ post.date | date: "%b %d, %Y" }}</span>
+          <span class="blog-post-date"> {{ post.date | date: "%b %d, %Y" }}</span>
           <span class="blog-post-cont"> {{ post.cont }} </span>
           <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-              {{ post.title }}
+              {{ post.title }} @{{ post.place }}
           </a>
           <br/>
           {% endif %}

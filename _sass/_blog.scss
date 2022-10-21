@@ -1,10 +1,10 @@
 .blog-post-list {
   .blog-post-date {
-    width: 9em;
+    width: 7em;
     color: #333;
     display: block;
     float: left;
-    font-size: $base-font-size ;
+    font-size: $base-font-size *0.9 ;
 
     @include media-query($on-mobile) {
       display: block;
@@ -17,10 +17,10 @@
   }
 
   .blog-post-cont {
-    width: 7em;
+    width: 6em;
     font-size: 100%;
     letter-spacing: normal;
-    font-size: $base-font-size;
+    font-size: $base-font-size *0.95;
     font-weight: 500;
     display: block;
     float: left;
@@ -39,7 +39,7 @@
   .blog-post-title {
     font-size: 100%;
     letter-spacing: normal;
-    font-size: $base-font-size;
+    font-size: $base-font-size *0.9;
     font-weight: 500;
   }
 }

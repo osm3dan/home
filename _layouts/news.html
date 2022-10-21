@@ -15,16 +15,33 @@
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
+          <!-- 2022 -->
+          <h2 id="2022"> 2022 </h2>
+          <p class="blog-post-list">
+            {% for post in site.tags['news'] %}
+            {% if post.draft != true %}
+            {% if post.year == 2022 %}
+            <span class="blog-post-date"> {{ post.date | date: "%0m.%0d" }}</span>
+            <span class="blog-post-cont"> {{ post.cont }}</span>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
+              {{ post.title }} @{{ post.place }}
+            </a>
+            <br/>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+          </p>
+
           <!-- 2021 -->
           <h2 id="2021"> 2021 </h2>
           <p class="blog-post-list">
             {% for post in site.tags['news'] %}
             {% if post.draft != true %}
             {% if post.year == 2021 %}
-            <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }}</span>
+            <span class="blog-post-date"> {{ post.date | date: "%0m.%0d" }}</span>
             <span class="blog-post-cont"> {{ post.cont }}</span>
             <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-              {{ post.title }}
+              {{ post.title }} @{{ post.place }}
             </a>
             <br/>
             {% endif %}
@@ -38,10 +55,10 @@
             {% for post in site.tags['news'] %}
             {% if post.draft != true %}
             {% if post.year == 2020 %}
-            <span class="blog-post-date">▶︎ {{ post.date | date: "%Y.%0m.%0d" }}</span>
+            <span class="blog-post-date"> {{ post.date | date: "%0m.%0d" }}</span>
             <span class="blog-post-cont"> {{ post.cont }}</span>
             <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-              {{ post.title }}
+              {{ post.title }} @{{ post.place }}
             </a>
             <br/>
             {% endif %}

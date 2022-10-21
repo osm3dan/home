@@ -6,11 +6,11 @@
 layout: home_news
 title: Top
 profile_picture:
-  src: /assets/profile_portrait.jpg
+  src: /assets/profile_221021.jpg
   alt: website picture
 permalink: /en/index
 ---
 ## **Welcome to Osamu Sandanbata's website!**
 
-I am **Osamu Sandanbata**, an Earth scientist from/in Japan. My interests are in various geophysical phenomena near the Earth surface. Currently, I am studying **physical mechanisms of large earthquakes with seismic magnitudes >5 at volcanic calderas**. To understand the complex processes, I use data analysis and numerical modeling of tsunamis, crustal deformation, and seismic waves. 
+I am an Earth scientist from/in Japan. My interests are in various geophysical phenomena near the Earth surface. Currently, I am studying **physical mechanisms of large earthquakes with seismic magnitudes >5 at volcanic calderas**. To understand the complex processes, I use data analysis and numerical modeling of tsunamis, crustal deformation, and seismic waves.
 <br/>
