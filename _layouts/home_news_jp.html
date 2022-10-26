@@ -11,7 +11,7 @@
           <img
           src="{{ page.profile_picture.src | absolute_url }}"
           alt="{{ page.profile_picture.alt }}"
-          height="300.9"
+          height="280.9"
           width="300.1"
           class="profilepic"
           />
@@ -28,7 +28,7 @@
             </h4>
 
             <p class="blog-post-list">
-              {% for post in site.tags['news'] limit:3 %}
+              {% for post in site.tags['news'] limit:6 %}
               {% if post.draft != true %}
               <span class="blog-post-date"> {{ post.date | date: "%Y.%0m.%0d" }}</span>
               <span class="blog-post-cont">【{{ post.cont_jp }}】</span>
@@ -47,12 +47,12 @@
             </h4>
 
             <p class="blog-post-list">
-              {% for post in site.tags['soon'] reversed limit:5 %}
+              {% for post in site.tags['soon'] reversed limit:3 %}
               {% if post.draft != true %}
               <span class="blog-post-date"> {{ post.date | date: "%Y.%0m.%0d" }}</span>
               <span class="blog-post-cont"> 【{{ post.cont_jp }}】</span>
               <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-                {{ post.title_jp }}
+                {{ post.title_jp }} @{{ post.place }}
               </a>
               <br/>
               {% endif %}

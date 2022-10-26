@@ -6,7 +6,7 @@ place: "IAVCEI 2023"
 date:   2023-01-30 00:00:00 0900
 # blurb: "Co-authored paper published from JGR-Solid Earth"
 # og_image:
-tags: soon, soon_jp
+tags: soon soon_jp
 # <!-- category: en -->
 cont: Honors
 cont_jp: 受賞他

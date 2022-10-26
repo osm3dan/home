@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Co-authored paper"
-title_jp: "共著論文"
-place: "Geophysical Research Letters"
+title:  "Kubota+ (2021)"
+title_jp: "Kubota+ (2021)"
+place: "GRL"
 date:   2021-10-25 00:00:00 0900
 # blurb: "Paper published from JGR-Solid Earth"
 og_image:
-tag: news
+tags: news news_jp
 category: en
 cont: Publication
 cont_jp: 論文
