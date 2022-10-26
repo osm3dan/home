@@ -36,13 +36,13 @@ ul, ol { margin-left: 30px; }
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1 { font-weight: 600; font-family: "Futura", メイリオ, sans-serif; }
+h1 { font-weight: 600; font-family: Arial, "Futura", メイリオ, sans-serif; }
 
-h2 { font-weight: 300; font-family: "Futura", メイリオ, sans-serif; }
+h2 { font-weight: 300; font-family: Arial, "Futura", メイリオ, sans-serif; }
 
-h3 { font-weight: 600; font-family: メイリオ, sans-serif; }
+h3 { font-weight: 600; font-family: Arial, メイリオ, sans-serif; }
 
-h4, h5, h6 { font-weight: 300; font-family: メイリオ, sans-serif; }
+h4, h5, h6 { font-weight: 300; font-family: Arial, メイリオ, sans-serif; }
 
 /** Links */
 a { color: #1C6ECD; text-decoration: none; }
