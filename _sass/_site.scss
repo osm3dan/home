@@ -2,12 +2,12 @@
   float: right;
   border: #ccc 3px solid;
   margin-top: 5px;
-  margin-bottom: 60px;
-  margin-left: 30px;
+  margin-bottom: 2px;
+  margin-left: 20px;
 
   @include media-query($on-mobile) {
     float: none;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     margin-left: 0px;
   }
 }
