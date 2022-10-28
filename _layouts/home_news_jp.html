@@ -28,7 +28,7 @@
             </h4>
 
             <p class="blog-post-list">
-              {% for post in site.tags['news'] limit:6 %}
+              {% for post in site.tags['news_jp'] limit:6 %}
               {% if post.draft != true %}
               <span class="blog-post-date"> {{ post.date | date: "%Y.%0m.%0d" }}</span>
               <span class="blog-post-cont">【{{ post.cont_jp }}】</span>
