@@ -83,10 +83,10 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 準備中...
 
 
-
-
 ### <strong> その他 </strong>
 #### <strong>寄稿</strong>
+[2] **三反畑修**, 「SF地震学　若手研究者海外派遣報告­（Stanford大学）」.*Slow-to-Fast地震学*. 2022年10月17日掲載, (2022). ([Slow-to-Fast地震学](https://slow-to-fast-eq.org/news/overseas_2022/))　※**スタンフォード大学での滞在研究報告**
+
 [1] **三反畑修**, 「『急がば回れ』でようやく辿り着いた Caltech」.*日本地震学会ニュースレター*, 第72巻，第NL4号. 2019年11月10日発行, (2019). ([地震学会](https://www.zisin.jp/publications/news72.html)) ([PDF](/assets/publications/SSJ_newsletter.pdf))　※**カリフォルニア工科大学(Caltech)への留学体験記**
 
 ---
