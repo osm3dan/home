@@ -27,12 +27,13 @@ permalink: /jp/about
 - [アメリカ地震学会(SSA)](https://www.seismosoc.org/)
 
 ### <strong>受賞歴など</strong>
-- 2016/05: 日本地球惑星科学連合2016年大会 「学生優秀発表賞」受賞
-- 2016/08: AOGS 13th Annual Meeting "Best Student Poster Award"受賞.
-- 2017/05: JpGU-AGU Joint Meeting 2017 "Outstanding Student Presentation Award"受賞
-- 2018/05:  日本地球惑星科学連合2018年大会 「学生優秀発表賞」受賞
-- 2018/05: 日本地球惑星科学連合2018年大会 「ハイライト論文」選出
+- 2023/01: IAVCEI 2023 Scientific Assembly "ECR Plenary Session"の登壇者に選出
 - 2018/10: 日本地震学会2018年度秋季大会 「学生優秀発表賞」受賞
+- 2018/05: 日本地球惑星科学連合2018年大会 「ハイライト論文」選出
+- 2018/05:  日本地球惑星科学連合2018年大会 「学生優秀発表賞」受賞
+- 2017/05: JpGU-AGU Joint Meeting 2017 "Outstanding Student Presentation Award"受賞
+- 2016/08: AOGS 13th Annual Meeting "Best Student Poster Award"受賞
+- 2016/05: 日本地球惑星科学連合2016年大会 「学生優秀発表賞」受賞
 
 ### <strong>科研費</strong>
 - 特別研究員奨励費 [#17J02919](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17J02919/)
