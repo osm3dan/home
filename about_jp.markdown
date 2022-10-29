@@ -19,10 +19,12 @@ permalink: /jp/about
 - 2020/04 - Present: 日本学術振興会特別研究員ＰＤ
 
 ### <strong>所属学会</strong>
-- [日本地震学会](https://www.zisin.jp/)
-- [日本地球惑星科学連合](http://www.jpgu.org/)
-- [日本火山学会](http://www.kazan-g.sakura.ne.jp/J/index.html)
-- [アメリカ地球物理学会](https://www.agu.org/)
+- [日本地震学会(SSJ)](https://www.zisin.jp/)
+- [日本地球惑星科学連合(JpGU)](http://www.jpgu.org/)
+- [日本火山学会(VSJ)](http://www.kazan-g.sakura.ne.jp/J/index.html)
+- [アメリカ地球物理学会(AGU)](https://www.agu.org/)
+- [国際火山学及び地球内部化学協会(IAVCEI)](https://www.iavceivolcano.org/)
+- [アメリカ地震学会(SSA)](https://www.seismosoc.org/)
 
 ### <strong>受賞歴など</strong>
 - 2016/05: 日本地球惑星科学連合2016年大会 「学生優秀発表賞」受賞
