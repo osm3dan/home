@@ -15,7 +15,7 @@
             <!-- 2022 -->
             <h2 id="2022"> 2022 </h2>
             <p class="blog-post-list">
-              {% for post in site.tags['news'] %}
+              {% for post in site.tags['news_jp'] %}
               {% if post.draft != true %}
               {% if post.year == 2022 %}
               <span class="blog-post-date"> {{ post.date | date: "%0m.%0d" }}</span>
