@@ -51,7 +51,6 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 
 **No.** | **著者** | **タイトル** | **学会名** | **予稿番号** | **場所** | **年**
 ---------|----------|---------|------|------|--------|--------|
-
 15| **Sandanbata**, Watada, Satake, Kanamori, Rivera, and Zhan. | *Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu-Bonin arc* | *IAVCEI 2023 Scientific Assembly* | TBA | Rotorua, New Zealand | Jan.–Feb. 2023
 
 14| **Sandanbata**, and Saito. | *Trapdoor faulting at Kita-Ioto Caldera, Japan: Quantification of magma overpressure beneath a submarine caldera* | *AGU 2022 Fall Meeting* | V11B-01 | Online | Dec. 2022
