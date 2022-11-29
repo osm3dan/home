@@ -77,7 +77,7 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 
 3| **Sandanbata**, Watada, Satake, Fukao, Sugioka, Ito, and Shiobara. | *2015 volcanic tsunami earthquake near Torishima Island: Ray tracing analysis of dispersive tsunami wave* | *AGU 2016 Fall Meeting* | NH43B-1838 | San Francisco, US | Dec. 2016
 
-2| **Sandanbata**, Watada, Satake, Fukao, Sugioka, Ito, and Shiobara. | *2015 Torishima Tsunami Earthquake: Ray Tracing Analysis Of Dispersive Tsunami Wave* | *AOGS 2016 Annual Meeting* | OS22-SE37-D4-PM2-P-008 |  Beijing, China | Au. 2016
+2| **Sandanbata**, Watada, Satake, Fukao, Sugioka, Ito, and Shiobara. | *2015 Torishima Tsunami Earthquake: Ray Tracing Analysis Of Dispersive Tsunami Wave* | *AOGS 2016 Annual Meeting* | OS22-SE37-D4-PM2-P-008 |  Beijing, China | Aug. 2016
 
 1| **Sandanbata**, Obara, Maeda, Takagi, and Satake. | *Step-wise temporal change in the frequency-amplitude distribution of volcanic long period tremors at Aso volcano* | *Workshop ERI-IPGP* | – | Paris, France | Sep. 2015
 
