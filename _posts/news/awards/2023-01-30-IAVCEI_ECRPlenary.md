@@ -3,14 +3,15 @@ layout: post
 title:  "ECR Plenary Speaker"
 title_jp: "ECR Plenary Session"
 place: "IAVCEI 2023"
-date:   2023-01-30 00:00:00 0900
+date:   2023-01-31 00:00:00 0900
 # blurb: "Co-authored paper published from JGR-Solid Earth"
 # og_image:
-tags: soon soon_jp
-# <!-- category: en -->
 cont: Honors
 cont_jp: 受賞他
 year: 2023
+# tags: news news_jp ## past events
+tags: soon soon_jp ## Future events
+
 ---
 ---
 
