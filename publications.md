@@ -8,7 +8,7 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
 -------|----------|-----------|----|
-1 | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* |  *In revision at Geophysical Research Letters* |[Preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10512295.1)
+1 | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* |  *Under revision for Geophysical Research Letters* |[Preprint](https://doi.org/10.1002/essoar.10512295.2)
 
 <br/>
 
