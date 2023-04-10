@@ -8,7 +8,7 @@ permalink: /jp/publications
 
 No.  | 著者          | タイトル  |  雑誌   | リンク等
 -----|--------------|----------|-----|
-1 | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* | *Geophysical Research Lettersで印刷中* |[プレプリント](https://doi.org/10.1002/essoar.10512295.2)
+<!-- 1 | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* | *Geophysical Research Lettersで印刷中* |[プレプリント](https://doi.org/10.1002/essoar.10512295.2) -->
 
 <br/>
 
@@ -17,19 +17,21 @@ No.  | 著者          | タイトル  |  雑誌   | リンク等
 
 No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 -----|-------|------|------|------|-----|----|
-**13** | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan. | *Sub-decadal Volcanic Tsunamis Due to Submarine Trapdoor Faulting at Sumisu Caldera in the Izu-Bonin Arc* |　*JGR: Solid Earth* | 127 | e2022JB-024213 | 2022 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2022JB024213)
+**14** | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* | *Geophysical Research Letters* | 50(7) | e2022GL-101086 | 2023 | [GRL (Open Access)](https://doi.org/10.1029/2022GL101086)
+
+**13** | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan. | *Sub-decadal Volcanic Tsunamis Due to Submarine Trapdoor Faulting at Sumisu Caldera in the Izu-Bonin Arc* |　*JGR: Solid Earth* | 127(9) | e2022JB-024213 | 2022 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2022JB024213)
 
 **12** | Hisahiko Kubo, Tatsuya Kubota, Wataru Suzuki, Shin Aoi, **Osamu Sandanbata**, Naotaka Chikasada, and Hideki Ueda.| *Ocean-wave phenomenon around Japan due to the 2022 Tonga eruption observed by the wide and dense ocean-bottom pressure gauge networks* |　*Earth Planets Space* | 74 | 104 | 2022 | [EPS](https://doi.org/10.1186/s40623-022-01663-w)
 
-**11** | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* |　*Geophysical Research Letters* | 48(21) | e2021GL-094255 | 2021 | [GRL](https://doi.org/10.1029/2021GL094255),<br> [プレプリント](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
+11 | Tatsuya Kubota, Tatsuhiko Saito, Naotaka Y. Chikasada, and **Osamu Sandanbata**.| *Meteotsunami observed by the deep-ocean seafloor pressure gauge network off northeastern Japan* |　*Geophysical Research Letters* | 48(21) | e2021GL-094255 | 2021 | [GRL](https://doi.org/10.1029/2021GL094255),<br> [プレプリント](https://www.essoar.org/doi/10.1002/essoar.10506159.1)
 
-**10** | Voon Hui Lai, Zhongwen Zhan, Quentin Brissaud, **Osamu Sandanbata**, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | 126(10) | e2021JB-022139 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB022139),<br>[プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
+10 | Voon Hui Lai, Zhongwen Zhan, Quentin Brissaud, **Osamu Sandanbata**, and Meghan Samantha Miller.| *Inflation and Asymmetric Collapse at Kilauea Summit during the 2018 Eruption from Seismic and Infrasound Analyses* | *Journal of Geophysical Research - Solid Earth* | 126(10) | e2021JB-022139 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB022139),<br>[プレプリント](https://www.essoar.org/doi/abs/10.1002/essoar.10506637.1)
 
-**9** | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | 126(6) | e2021JB-021693 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB021693),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
+9 | **Osamu Sandanbata**, Hiroo Kanamori, Luis Rivera, Zhongwen Zhan, Shingo Watada, and Kenji Satake.| *Moment tensors of ring-faulting at active volcanoes: Insights into vertical-CLVD earthquakes at the Sierra Negra caldera, Galápagos Islands* | *Journal of Geophysical Research - Solid Earth* | 126(6) | e2021JB-021693 | 2021 | [JGR-Solid Earth](https://doi.org/10.1029/2021JB021693),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10505947.1)
 
-**8** | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* | *Geophysical Journal International* | 226(3) | 1975–1985 | 2021 | [GJI](https://doi.org/10.1093/gji/ggab192)
+8 | **Osamu Sandanbata**, Shingo Watada, Tung-Cheng Ho, and Kenji Satake.| *Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* | *Geophysical Journal International* | 226(3) | 1975–1985 | 2021 | [GJI](https://doi.org/10.1093/gji/ggab192)
 
-**7** | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**. | *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | 126(5) | e2020JC-017011 | 2021 | [JGR-Ocean](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC017011),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
+7 | Tatsuhiko Saito, Tatsuya Kubota, Naotaka Yamamoto Chikasada, Yuusuke Tanaka, and **Osamu Sandanbata**. | *Meteorological tsunami generation due to sea-surface pressure change: Three-dimensional theory and synthetics of ocean-bottom pressure change* | *Journal of Geophysical Research - Oceans* | 126(5) | e2020JC-017011 | 2021 | [JGR-Ocean](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JC017011),<br>[Preprint](https://www.essoar.org/doi/10.1002/essoar.10504961.1)
 
 6 | Mohammad Heidarzadeh, Takeo Ishibe, **Osamu Sandanbata**, Abdul Muhari, and Antonius B. Wijanarto. | *Numerical modeling of the subaerial landslide source of the 22 December 2018 Anak Krakatoa volcanic tsunami, Indonesia*| *Ocean Engineering*| 195 | 106733 | 2020 | [Ocean Engineering (open access)](https://www.sciencedirect.com/science/article/pii/S0029801819308431)
 
