@@ -4,7 +4,7 @@ title: About me
 permalink: /en/about
 ---
 
-I am a postdoctoral researcher at National Research Institute for Earth Science and Disaster Resilience [NIED](https://www.bosai.go.jp/e/).
+I am a postdoctoral researcher at Earthquake Research Insitute, The University of Tokyo ([ERI](https://www.eri.u-tokyo.ac.jp/en/)).
 
 See my [CV](https://osm3dan.github.io/assets/cv.pdf) for detailed information of my education, positions, and others.
 

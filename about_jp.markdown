@@ -5,8 +5,7 @@ permalink: /jp/about
 ---
 
 ### <strong>所属</strong>
-- [国立研究開発法人 防災科学技術研究所](https://www.bosai.go.jp/) [地震津波防災研究部門](https://www.bosai.go.jp/activity_special/researcher/earthquake-tsunami/index.html)
-- 日本学術振興会 特別研究員ＰＤ
+- [東京大学地震研究所](https://www.eri.u-tokyo.ac.jp/) 地球計測系研究部門 特任研究員
 
 ### <strong>学歴</strong>
 - 2011/04 - 2013/03: 東京大学 教養学部 理科一類
@@ -16,7 +15,9 @@ permalink: /jp/about
 
 ### <strong>職歴</strong>
 - 2017/04 - 2020/03: 日本学術振興会特別研究員ＤＣ１
-- 2020/04 - Present: 日本学術振興会特別研究員ＰＤ
+- 2020/04 - 2023/03: 日本学術振興会特別研究員ＰＤ <br>
+   @[国立研究開発法人 防災科学技術研究所](https://www.bosai.go.jp/) [地震津波防災研究部門](https://www.bosai.go.jp/activity_special/researcher/earthquake-tsunami/index.html)
+- 2023/04 - Present: 東京大学地震研究所 地球計測系研究部門 特任研究員
 
 ### <strong>所属学会</strong>
 - [日本地震学会(SSJ)](https://www.zisin.jp/)
