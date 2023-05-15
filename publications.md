@@ -8,7 +8,6 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Link(s)**
 -------|----------|-----------|----|
-
 0 | - | - | - | -
 
 <br/>
