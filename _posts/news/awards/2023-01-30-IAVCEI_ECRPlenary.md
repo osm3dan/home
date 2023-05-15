@@ -3,6 +3,7 @@ layout: post
 title:  "ECR Plenary Speaker"
 title_jp: "ECR Plenary Session"
 place: "IAVCEI 2023"
+place_jp: "IAVCEI 2023"
 date:   2023-01-31 00:00:00 0900
 # blurb: "Co-authored paper published from JGR-Solid Earth"
 # og_image:

@@ -2,7 +2,7 @@
 layout: post
 title: "Report published"
 title_jp: "スタンフォード大学渡航報告書"
-place: "SF地震学"
+place_jp: "SF地震学"
 date: 2022-10-17 00:00:00 0900
 # blurb: "Paper published from GJI"
 og_image:
