@@ -33,7 +33,7 @@
               <span class="blog-post-date"> {{ post.date | date: "%Y.%0m.%0d" }}</span>
               <span class="blog-post-cont">【{{ post.cont_jp }}】</span>
               <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-                {{ post.title_jp }} @{{ post._jp }}
+                {{ post.title_jp }} @{{ post.place_jp }}
               </a>
               <br/>
               {% endif %}
@@ -52,7 +52,7 @@
               <span class="blog-post-date"> {{ post.date | date: "%Y.%0m.%0d" }}</span>
               <span class="blog-post-cont"> 【{{ post.cont_jp }}】</span>
               <a href="{{ post.url | prepend: site.baseurl }}" class="blog-post-title">
-                {{ post.title_jp }} @{{ post._jp }}
+                {{ post.title_jp }} @{{ post.place_jp }}
               </a>
               <br/>
               {% endif %}
