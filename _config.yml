@@ -23,7 +23,7 @@ url: "https://osm3dan.github.io" # the base hostname & protocol for your site, e
 baseurl: "" # the subpath of your site, e.g. /blog
 entop: "/en/index"
 
-email: osm3@bosai.go.jp
+email: osm3@eri.u-tokyo.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of Osamu Sandanbata. Enjoooooy!
 twitter_username: osm3dan
@@ -90,7 +90,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: osm3[at]bosai.go.jp
+      value: osm3[at]eri.u-tokyo.ac.jp
 #      link: mailto:osm3bosai.go.jp
 #    - name: WeChat
 #      value: YourWeChatUsername
