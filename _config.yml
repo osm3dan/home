@@ -52,8 +52,8 @@ header:
       slug: /en/publications
     # - name: Blog
     #   slug: /en/blog
-    # - name: Memo
-    #   slug: /en/memo
+    - name: Memo
+      slug: /en/memo
     - name: <font color="#a7a7a7"> EN </font>
       slug: /
     - name: JP
@@ -72,8 +72,8 @@ header_jp:
       slug: /jp/publications
 #    - name: ブログ  # <-- blog.md
 #      slug: /jp/blog
-    # - name: 研究メモ  # <-- blog.md
-    #   slug: /jp/memo
+    - name: 研究メモ  # <-- blog.md
+      slug: /jp/memo
     - name: EN # <-- memo.md
       slug: en
     - name: <font color="#a7a7a7"> JP </font>
