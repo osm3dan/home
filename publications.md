@@ -45,7 +45,18 @@ permalink: /en/publications
 1| **Osamu Sandanbata**, Kazushige Obara, Takuto Maeda, Ryota Takagi, and Kenji Satake.|*Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan* | *Geophysical Research Letters*| 42(23) | 10-256 |2015| [GRL](https://doi.org/10.1002/2015GL066443)
 
 <br/>
+## Invited talks
 
+**No.** | **Author(s)** | **Title** | **Meeting** | **Location** | **Year** | **File(s)**
+---------|----------|---------|------|------|--------|----|
+4| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Brown Bag Seminar of Seismological Laboratory, California Institute of Technology | Caltech Seismo Lab | April 2022 |
+3| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Bullard Laboratories Seminar, the University of Cambridge| Online | March 2022 | 
+2| **Sandanbata, O.**| Investigations of ring-faulting at active calderas: Case studies at Sierra Negra caldera in Galápagos, and Smith caldera in Japan | Volcano Group Meeting, University of Leeds, UK | Online | April 2021 |
+1| **Sandanbata, O.**| Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas| Geophysics Seminar, Stanford University, US | Online | April 2021 | 
+
+
+
+<br/>
 ## International conferences
 
 **No.** | **Author(s)** | **Title** | **Conference** | **Abst. #** | **Location** | **Year** | **File(s)*
