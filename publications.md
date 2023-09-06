@@ -49,7 +49,7 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Meeting** | **Location** | **Year** | **File(s)**
 ---------|----------|---------|------|------|--------|----|
-5| **Sandanbata, O.**| Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation | ECR Plenary Speakers, IAVCEI 2023 | Rotorua, New Zealand | January 2023 | [URL](https://confer.eventsair.com/iavcei2023/plenary-speakers)
+5| **Sandanbata, O.**| Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation | ECR Plenary Speakers, IAVCEI 2023 | Rotorua, New Zealand | Jan. 2023 | [URL](https://confer.eventsair.com/iavcei2023/plenary-speakers)
 4| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Brown Bag Seminar, Seismological Laboratory, California Institute of Technology, US | Caltech Seismo Lab | April 2022 |
 3| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Bullard Laboratories Seminar, the University of Cambridge, UK| Online | March 2022 | 
 2| **Sandanbata, O.**| Investigations of ring-faulting at active calderas: Case studies at Sierra Negra caldera in Galápagos, and Smith caldera in Japan | Volcano Group Meeting, University of Leeds, UK | Online | April 2021 |
@@ -60,7 +60,7 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Conference** | **Abst. #** | **Location** | **Year** | **File(s)*
 ---------|----------|---------|------|------|--------|--------|----|
-15| **Sandanbata**, Watada, Satake, Kanamori, Rivera, and Zhan. | *Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu-Bonin arc* | *IAVCEI 2023 Scientific Assembly* | TBA | Rotorua, New Zealand | Jan.–Feb. 2023 | -
+15| **Sandanbata**, Watada, Satake, Kanamori, Rivera, and Zhan. | *Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu-Bonin arc* | *IAVCEI 2023 Scientific Assembly* | 748 | Rotorua, New Zealand | Jan. 2023 | -
 
 14| **Sandanbata**, and Saito. | *Trapdoor faulting at Kita-Ioto Caldera, Japan: Quantification of magma overpressure beneath a submarine caldera* | *AGU 2022 Fall Meeting* | V11B-01 | Online | Dec. 2022 |  [PDF](/assets/publications/conference/221212_AGU2022_Sandanbata&Saito.pdf)/ [YouTube](https://www.youtube.com/watch?v=XjRNJXYL06o)
 
