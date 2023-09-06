@@ -49,12 +49,11 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Meeting** | **Location** | **Year** | **File(s)**
 ---------|----------|---------|------|------|--------|----|
-4| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Brown Bag Seminar of Seismological Laboratory, California Institute of Technology | Caltech Seismo Lab | April 2022 |
-3| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Bullard Laboratories Seminar, the University of Cambridge| Online | March 2022 | 
+5| **Sandanbata, O.**| Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation | ECR Plenary Speakers, IAVCEI 2023 | Rotorua, New Zealand | January 2023 | [URL](https://confer.eventsair.com/iavcei2023/plenary-speakers)
+4| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Brown Bag Seminar, Seismological Laboratory, California Institute of Technology, US | Caltech Seismo Lab | April 2022 |
+3| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Bullard Laboratories Seminar, the University of Cambridge, UK| Online | March 2022 | 
 2| **Sandanbata, O.**| Investigations of ring-faulting at active calderas: Case studies at Sierra Negra caldera in Galápagos, and Smith caldera in Japan | Volcano Group Meeting, University of Leeds, UK | Online | April 2021 |
 1| **Sandanbata, O.**| Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas| Geophysics Seminar, Stanford University, US | Online | April 2021 | 
-
-
 
 <br/>
 ## International conferences
