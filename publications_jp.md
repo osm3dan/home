@@ -7,7 +7,7 @@ permalink: /jp/publications
 ### <strong> 投稿中の論文 </strong>
 
 No.  | 著者          | タイトル  |  投稿先  | リンク等
---|-----|----------------|----|
+--|-----|--------------------|----|
 1 | **Osamu Sandanbata**, and Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | [ESS Open Archive](https://doi.org/10.22541/essoar.169603551.19539639/v1)
 
 <br/>
