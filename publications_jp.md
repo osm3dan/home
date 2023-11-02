@@ -4,11 +4,13 @@ title: 研究成果
 permalink: /jp/publications
 ---
 
-### <strong> 投稿中の論文 </strong>
+### <strong> 投稿済み・査読中の論文 </strong>
 
 No.  | 著者          | タイトル  |  投稿先  | リンク等
 --|-----|--------------------|----|
 1 | **Osamu Sandanbata**, and Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | [ESS Open Archive](https://doi.org/10.22541/essoar.169603551.19539639/v1)
+
+2 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic tsunami waves amplified by repetitive source events in the southwest of Torishima Island, Japan | *GRL* | [ESS Open Archive](https://doi.org/10.22541/essoar.169878726.62136311/v1)
 
 <br/>
 
