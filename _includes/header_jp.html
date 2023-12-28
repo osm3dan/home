@@ -1,0 +1,29 @@
+<header class="site-header">
+  <div class="wrapper">
+    {% assign top = site.url | append: "/jp/index" %}
+    <a class="site-title" href="{{ top }}">
+      <img src="{{ "/assets/osm3dan_2.png" | absolute_url }}" alt="{{ site.title }}" width="260" height="62.24"/>
+    </a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon"></a>
+      {% assign current = page.url %}
+      <div class="menu">
+        {% for page in site.header_jp.pages %}
+        {% if page.slug and page.slug != "" and page.slug != "en" %}
+        {% assign page_link = page.slug %}
+        {% else if page.slug and page.slug == "en" %}
+        {% assign page_link = current | replace: "/jp/","/en/" %}
+        {% else %}
+        {% assign page_link = "/en/index" | append: page.name | downcase %}
+        {% endif %}
+        {% assign page_link = page_link | absolute_url %}
+        <a class="page-link" href="{{ page_link }}">
+          {{ page.name }}
+        </a>
+        {% endfor %}
+      </div>
+    </nav>
+  </div>
+  {% include google-analytics.html %}
+</header>

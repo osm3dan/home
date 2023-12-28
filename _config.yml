@@ -1,0 +1,123 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Osamu Sandanbata
+url: "https://osm3dan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+entop: "/en/index"
+
+email: osm3@eri.u-tokyo.ac.jp
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the website of Osamu Sandanbata. Enjoooooy!
+twitter_username: osm3dan
+github_username:  osm3dan
+
+# gems:
+#  - jekyll-sitemap
+
+# Build settings
+# theme: bay_jekyll_theme
+
+plugins:
+  - jekyll-commonmark-ghpages
+  - jekyll-feed
+  - jekyll-sitemap
+
+header:
+  pages:
+    - name: Top
+      slug: /en/index   # <-- index.markdown
+    - name: About
+      slug: /en/about # <-- about.markdown
+    - name: CV
+      slug: /assets/cv.pdf
+    - name: Publications
+      slug: /en/publications
+    # - name: Blog
+    #   slug: /en/blog
+    # - name: Memo
+    #  slug: /en/memo
+    - name: <font color="#a7a7a7"> EN </font>
+      slug: /
+    - name: JP
+      slug: jp
+extensions: ["autolink", "hard_wrap"]
+
+header_jp:
+  pages:
+    - name: トップ
+      slug: /jp/index   # <-- index.markdown
+    - name: 自己紹介 # <-- about_jp.markdown
+      slug: /jp/about
+    - name: CV
+      slug: /assets/cv.pdf
+    - name: 研究成果  # <-- publications.md
+      slug: /jp/publications
+#    - name: ブログ  # <-- blog.md
+#      slug: /jp/blog
+    - name: 研究メモ  # <-- blog.md
+      slug: /jp/memo
+    - name: EN # <-- memo.md
+      slug: en
+    - name: <font color="#a7a7a7"> JP </font>
+      slug: /jp/index
+extensions: ["autolink", "hard_wrap"]
+
+future: true
+
+#publications_list_attributes:
+#  reversed: "reversed"
+
+#
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: osm3[at]eri.u-tokyo.ac.jp
+#      link: mailto:osm3bosai.go.jp
+#    - name: WeChat
+#      value: YourWeChatUsername
+#      link: "#"
+  follow:
+    - name: Twitter
+      link: http://twitter.com/osm3dan
+      username: "@osm3dan"
+    - name: GitHub
+      link: http://github.com/osm3dan
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

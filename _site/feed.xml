@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-02T01:40:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Osamu Sandanbata</title><subtitle>This is the website of Osamu Sandanbata. Enjoooooy!</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2023/10/02/2021-06-04-JpGU2021.html" rel="alternate" type="text/html" title="" /><published>2023-10-02T01:40:28+09:00</published><updated>2023-10-02T01:40:28+09:00</updated><id>http://localhost:4000/2023/10/02/2021-06-04-JpGU2021</id><content type="html" xml:base="http://localhost:4000/2023/10/02/2021-06-04-JpGU2021.html">&lt;!-- #### **学会発表** --&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation information/発表情報&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2023/10/02/2021-07-27-Cottaar+2021.html" rel="alternate" type="text/html" title="" /><published>2023-10-02T01:40:28+09:00</published><updated>2023-10-02T01:40:28+09:00</updated><id>http://localhost:4000/2023/10/02/2021-07-27-Cottaar+2021</id><content type="html" xml:base="http://localhost:4000/2023/10/02/2021-07-27-Cottaar+2021.html">&lt;hr /&gt;
+&lt;h2 id=&quot;論文の主旨&quot;&gt;論文の主旨&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;火星の地震探査地震計(火震計)=InSightのデータを用いて、&lt;strong&gt;核－マントル境の反射面&lt;/strong&gt; を発見。&lt;/li&gt;
+  &lt;li&gt;測地データと合わせて、液体の核の半径を &lt;strong&gt;1,830±40km&lt;/strong&gt; に制約。&lt;/li&gt;
+  &lt;li&gt;液体核の存在により地震波が到達しない地震波シャドーゾーンが広域に存在。そのため、InSightは多くの火震を見逃している可能性が高い。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;色々論文を読んで自問自答&quot;&gt;色々、論文を読んで自問自答&lt;/h2&gt;
+&lt;h3 id=&quot;q1-観測点はinsight一点しかないのにどうやって内部構造を決めた&quot;&gt;(Q1) 観測点はInSight一点しかないのにどうやって内部構造を決めた？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;まず前提として、この観測だけで全てを決めたわけではなく、火星の重力・慣性モーメント・潮汐の観測、さらには火星起源の隕石の化学的なデータから、「液体核がだいたい半径1,700–1,900kmっぽい」ということが先行研究でわかっていた。この研究は、より精度良く核－マントル境界を決めたのであって、多くの仮定があってこその成果。&lt;/li&gt;
+  &lt;li&gt;その上で、一点の観測点で内部構造を推定するために、震央距離の異なる火震による波形記録を用いる。地震波記録には微弱ではあるが、S波が核－マントル境界でのS波反射波(ScS波)が観測されており、複数の火震による波形記録を足し合わせることで、この相を取り出し、到達時間を読み取った。この相の到達時間と、直達S波、直達P波の到達時間との差を用いて、核－マントル反射面の深さを推定している。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q2-観測点はinsight一点しかないのにどうやって震源位置を決めた&quot;&gt;(Q2) 観測点はInSight一点しかないのにどうやって震源位置を決めた？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;三成分地震計を用いているので、地震動のPolarizationから、地震波がやってきた方向、すなわち震源の位置を大まかに決定している。また直達S波と、地表反射したS波(sS波)との到達時間差から、震源の深さを 20–35 km程度と推定している。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q3-なぜ液体だと言える&quot;&gt;(Q3) なぜ液体だと言える？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;直達S波の振幅に対して、ScS波の振幅が小さすぎる。つまりマントルから核に入射する波の反射係数が、固体表面にしては小さすぎる。なので液体！（もちろんこれも他の観測からわかっていたことらしい）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q4-seismic-shadow-zone-がでかい&quot;&gt;(Q4) Seismic shadow zone がでかい？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;火星のサイズ3,400kmくらいに対して核が大きい(1,800km)ので，地震波のShadow zone (速度コントラストの大きいマントルー核境界での広角の屈折によって、直達地震波が到達しない領域) が広くなっているらしい。なので、今回の地震観測では、広い領域での火震は観測できていない可能性大。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;q5-というかそもそもなんで火震は起こるのか&quot;&gt;(Q5) というか、そもそもなんで火震は起こるのか？&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;この論文中ではパッと見つからなかったのでググって見つけた&lt;a href=&quot;https://natgeo.nikkeibp.co.jp/atcl/news/19/042600256/?P=2&quot;&gt;この記事&lt;/a&gt;によると、火星では地球のようなプレートテクトニクスのような大規模なテクトニクスがあるわけではなく、火星が冷えていく過程で地殻が圧縮されて地震が起こっていると考えられているらしい。しかし、この論文では、地震波から推定された震源のメカニズムは正断層型 (通常は応力の最大主軸がのびのときに起きるタイプ) らしく、この辺のメカニズムについてはどう考えられているのだろうか… 今後の疑問。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;感想&quot;&gt;感想&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;火星の内部構造がわかった、とTwitter上が騒がしかったので読んでみた。まず驚いたのは、そもそも核の大きさとか、核が液体だとか、こんなに多くのことがこれまでもわかっていたのか、ということ。宇宙観測の技術はすごい。今回の地震計を積んだ NASA の InSight は 2018年11月に火星到着、そこから2019年4月に初の火震の観測との論文が世に出てから、（他の専権情報を用いているとはいえ）一つの観測点から震源の位置、反射面、深さなど、多くの情報を得ることができることはすごい。これは地球での地震学の進歩あってこそとしか言いようがない。まさに科学の積み重ね。巨人の肩の上の巨人の肩の上の巨人の肩の上の巨人の肩の上の巨人の肩の上の巨人の肩の上の….と繋いできた人類の成果だ。&lt;/li&gt;
+  &lt;li&gt;InSightのデータは全世界に&lt;a href=&quot;https://www.iris.edu/hq/sis/insight&quot;&gt;IRIS&lt;/a&gt;で公開されている。全世界の人が飛びつくであろうデータに真っ先に飛びついて、そして成果を一番に出してくる研究者の方々は本当に偉いと思う。自分にはなかなか真似できない。。。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html">Assistant Professor</title><link href="http://localhost:4000/2023/05/01/ERI.html" rel="alternate" type="text/html" title="Assistant Professor" /><published>2023-05-01T00:00:00+09:00</published><updated>2023-05-01T00:00:00+09:00</updated><id>http://localhost:4000/2023/05/01/ERI</id><content type="html" xml:base="http://localhost:4000/2023/05/01/ERI.html">&lt;!-- ![イメージ](../../../../../assets/mypaperimg/SDB+2022.png) --&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;🌏&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2023年5月1日付で東京大学地震研究所の助教として着任しました&quot;&gt;2023年5月1日付で，東京大学地震研究所の助教として着任しました&lt;/h3&gt;
+&lt;p&gt;I was appointed as an Assisitant Professor at Earthquake Research Institute, the University of Tokyo. As a member of Dr. Shing Watada’s (Associate Professor) laboratory, I will keep going to seek for better understand of volcanos, tsunamis, and earthquakes, by using data analyis and numerical modeling of the phenomena.&lt;/p&gt;
+
+&lt;p&gt;🇯🇵 &lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2023年5月1日付で東京大学地震研究所の助教として着任しました-1&quot;&gt;2023年5月1日付で，東京大学地震研究所の助教として着任しました&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.eri.u-tokyo.ac.jp/member/&quot;&gt;東京大学地震研究所&lt;/a&gt;の地球計測系研究部門での助教として、働き始めました。綿田辰吾准教授の研究室の一員として、海底火山・津波・地震など、幅広く興味深い現象を追いかけて、引き続き研究を進めていきます。今後とも、どうぞ宜しくお願い致します。&lt;/p&gt;
+
+&lt;!-- ---
+**Paper information/論文情報** &lt;br&gt;
+*Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* &lt;br&gt;
+– Osamu Sandanbata, Shingo Watada, Tung-Cheng Ho, and Kenji Satake
+&lt;br&gt;
+Link: [Geophysical Journal International](https://doi.org/10.1093/gji/ggab192) --&gt;</content><author><name></name></author><category term="news_jp" /><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Sandanbata+ (2023)</title><link href="http://localhost:4000/2023/04/03/SDB-GRL.html" rel="alternate" type="text/html" title="Sandanbata+ (2023)" /><published>2023-04-03T00:00:00+09:00</published><updated>2023-04-03T00:00:00+09:00</updated><id>http://localhost:4000/2023/04/03/SDB-GRL</id><content type="html" xml:base="http://localhost:4000/2023/04/03/SDB-GRL.html">&lt;p&gt;&lt;img src=&quot;../../../../../assets/mypaperimg/2023GRL.png&quot; alt=&quot;イメージ&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;found-the-2nd-case-of-tsunami-events-caused-by-trapdoor-faulting-at-submarine-calderas&quot;&gt;Found the 2nd case of tsunami events caused by “trapdoor” faulting at submarine calderas!&lt;/h3&gt;
+&lt;p&gt;This study suggests that peculiar tsunamis from Curtis and Cheeseman Island, north of New Zealand, were generated by submarine “trapdoor faulting” mechanism in a submerged caldera near the islands. This was inferred from our combined tsunami and seismic analyses for the 2017 earthquake.&lt;/p&gt;
+
+&lt;!-- See a brief summary of this paper in the website of [Earthquake Research Institute, the University of Tokyo](https://www.eri.u-tokyo.ac.jp/en/research/5323/). --&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;トラップドア断層破壊によって津波を引き起こす海底カルデラの新たに発見世界で二つ目&quot;&gt;「トラップドア断層破壊」によって津波を引き起こす海底カルデラの新たに発見（世界で二つ目）&lt;/h3&gt;
+&lt;p&gt;この研究では，私たちの先行研究，&lt;a href=&quot;https://osm3dan.github.io/2022/09/12/SDB-JGR.html&quot;&gt;Sandanbata et al. (2022)&lt;/a&gt;で初めて明らかになった，大きな津波を引き起こす海底カルデラにおける「トラップドア断層破壊」と呼ばれる海底火山現象が，ニュージーランド北方沖のカーティス島周辺の海底カルデラでも発生し，同様に大きな津波を引き起こしていたことを示しました．上述の先行研究と合わせて，異なる二つの海底カルデラでの類似する火山現象の発見から，”特異”な現象と考えられていた海底火山現象が，これまで考えられていたよりも”普遍”的な火山現象であることがわかってきました．&lt;/p&gt;
+
+&lt;!-- この論文の簡易的な要約は，[東京大学地震研究所のウェブサイト](https://www.eri.u-tokyo.ac.jp/research/17626/)に掲載されています．是非ご覧ください． --&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Paper information/論文情報&lt;/strong&gt; &lt;br /&gt;
+&lt;em&gt;Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc&lt;/em&gt; &lt;br /&gt;
+– Osamu Sandanbata, Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera.
+&lt;br /&gt;
+Link: &lt;a href=&quot;https://doi.org/10.1029/2022GL101086&quot;&gt;&lt;em&gt;Geophysical Research Letters&lt;/em&gt;&lt;/a&gt; *Open Access/オープンアクセス.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="news_jp" /><summary type="html"></summary></entry><entry><title type="html">Sandanbata &amp;amp; Saito</title><link href="http://localhost:4000/2023/01/31/IAVCEI2023.html" rel="alternate" type="text/html" title="Sandanbata &amp;amp; Saito" /><published>2023-01-31T00:00:00+09:00</published><updated>2023-01-31T00:00:00+09:00</updated><id>http://localhost:4000/2023/01/31/IAVCEI2023</id><content type="html" xml:base="http://localhost:4000/2023/01/31/IAVCEI2023.html">&lt;!-- #### **学会発表** --&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation information/発表情報&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Title:&lt;br /&gt;
+  &lt;strong&gt;Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu-Bonin arc&lt;/strong&gt;
+Authors  &lt;strong&gt;Osamu Sandanbata&lt;/strong&gt;, Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan.
+Conference  IAVCEI 2023 Scientific Assembly
+Place Rotorua, New Zealand
+Abstract #  401
+Type  Oral&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">ECR Plenary Speaker</title><link href="http://localhost:4000/2023/01/31/IAVCEI_ECRPlenary.html" rel="alternate" type="text/html" title="ECR Plenary Speaker" /><published>2023-01-31T00:00:00+09:00</published><updated>2023-01-31T00:00:00+09:00</updated><id>http://localhost:4000/2023/01/31/IAVCEI_ECRPlenary</id><content type="html" xml:base="http://localhost:4000/2023/01/31/IAVCEI_ECRPlenary.html">&lt;!-- # ![イメージ](../../../../../assets/mypaperimg/IAVCEI2023_ECR2.JPG) --&gt;
+
+&lt;div style=&quot;text-align:center;&quot;&gt;
+&lt;img class=&quot;my-image&quot; src=&quot;../../../../../assets/mypaperimg/IAVCEI2023_ECR2.JPG&quot; /&gt;
+&lt;figcaption&gt;ECR Plenary Session (photo by M.O.)&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;!-- ## **Presentation in ECR Plenary Session @IAVCEI 2023** --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;🌏&lt;br /&gt;
+I was honored to be selected as one of the four speakers of &lt;a href=&quot;https://confer.eventsair.com/iavcei2023/plenary-speakers&quot;&gt;Early-Career Researcher (ECR) Plenary Session&lt;/a&gt; at &lt;a href=&quot;https://confer.eventsair.com/iavcei2023/&quot;&gt;IAVCEI 2023 Scientific Assembly&lt;/a&gt; at Rotorua, New Zealand. The title of the plenary talk was “&lt;strong&gt;Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation&lt;/strong&gt;”. It couldn’t be more honorable that I presented the research I had spent ~5 years in front of hundreds of great volcanologists from all over the world.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;🇯🇵 &lt;br /&gt;
+2023年1–2月にニュージーランド・ロトルアで開催される&lt;a href=&quot;https://confer.eventsair.com/iavcei2023/&quot;&gt;IAVCEI 2023 Scientific Assembly&lt;/a&gt;での&lt;a href=&quot;https://confer.eventsair.com/iavcei2023/plenary-speakers&quot;&gt;Early-Career Researcher (ECR) Plenary Session&lt;/a&gt;という若手研究者四名限定の基調講演登壇者に選んでいただき，2月3日にプレゼンテーションを行いました．”&lt;strong&gt;Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation&lt;/strong&gt;“というタイトルで，トラップドア断層破壊という海底カルデラで発生する火山現象による津波発生について，俯瞰的に紹介しました．世界各地から集結した数百人の火山学者の前で，五年以上かけてきた研究を紹介するというこの上ない貴重な時間を過ごすことができました．&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="news_jp" /><summary type="html"></summary></entry><entry><title type="html">Iavcei_ecrplenary</title><link href="http://localhost:4000/2023/01/30/IAVCEI_ECRPlenary.html" rel="alternate" type="text/html" title="Iavcei_ecrplenary" /><published>2023-01-30T00:00:00+09:00</published><updated>2023-01-30T00:00:00+09:00</updated><id>http://localhost:4000/2023/01/30/IAVCEI_ECRPlenary</id><content type="html" xml:base="http://localhost:4000/2023/01/30/IAVCEI_ECRPlenary.html">&lt;hr /&gt;
+
+&lt;h3 id=&quot;selected-as-ecr-plenary-speaker-iavcei-2023&quot;&gt;Selected as ECR Plenary Speaker @IAVCEI 2023&lt;/h3&gt;
+
+&lt;p&gt;I am honored to be selected as one of the four speakers of &lt;a href=&quot;https://confer.eventsair.com/iavcei2023/plenary-speakers&quot;&gt;Early-Career Researcher (ECR) Plenary Session&lt;/a&gt; at &lt;a href=&quot;https://confer.eventsair.com/iavcei2023/&quot;&gt;IAVCEI 2023 Scientific Assembly&lt;/a&gt; in January–February 2023 at Rotorua, New Zealand. The topic of the plenary talk is “&lt;strong&gt;Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation&lt;/strong&gt;”.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;iavcei-2023での-ecr-plenary-speaker-に選出&quot;&gt;&lt;strong&gt;IAVCEI 2023での ECR Plenary Speaker に選出&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;2023年1–2月にニュージーランド・ロトルアで開催される&lt;a href=&quot;https://confer.eventsair.com/iavcei2023/&quot;&gt;IAVCEI 2023 Scientific Assembly&lt;/a&gt;での&lt;a href=&quot;https://confer.eventsair.com/iavcei2023/plenary-speakers&quot;&gt;Early-Career Researcher (ECR) Plenary Session&lt;/a&gt;での登壇者に選ばれました．”&lt;strong&gt;Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation&lt;/strong&gt;“というタイトルで，トラップドア断層破壊という海底カルデラで発生する火山現象による津波発生について，俯瞰的に紹介する予定です．&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Sandanbata &amp;amp; Saito</title><link href="http://localhost:4000/2022/12/12/AGU2022.html" rel="alternate" type="text/html" title="Sandanbata &amp;amp; Saito" /><published>2022-12-12T00:00:00+09:00</published><updated>2022-12-12T00:00:00+09:00</updated><id>http://localhost:4000/2022/12/12/AGU2022</id><content type="html" xml:base="http://localhost:4000/2022/12/12/AGU2022.html">&lt;!-- #### **学会発表** --&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation information/発表情報&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Title&lt;/strong&gt;: Trapdoor faulting at Kita-Ioto Caldera, Japan: Quantification of magma overpressure beneath a submarine caldera&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Osamu Sandanbata and Tatsuhiko Saito&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Conference&lt;/strong&gt;: AGU 2022 Fall Meeting&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Abstract #&lt;/strong&gt;: V11B-01&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Type&lt;/strong&gt;: Online poster&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="news" /><category term="news_jp" /><summary type="html"></summary></entry><entry><title type="html">主著論文の関連記事掲載</title><link href="http://localhost:4000/2022/11/12/Asahi_JGR.html" rel="alternate" type="text/html" title="主著論文の関連記事掲載" /><published>2022-11-12T00:00:00+09:00</published><updated>2022-11-12T00:00:00+09:00</updated><id>http://localhost:4000/2022/11/12/Asahi_JGR</id><content type="html" xml:base="http://localhost:4000/2022/11/12/Asahi_JGR.html">&lt;!-- ![イメージ](../../../../../assets/mypaperimg/SDB+2022.png) --&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;朝日新聞様に-sandanbata-et-al-2022-jgr-solid-earth-を取り上げて頂きました&quot;&gt;朝日新聞様に Sandanbata et al. (2022, JGR: Solid Earth) を取り上げて頂きました&lt;/h3&gt;
+&lt;p&gt;2022年11月12日 &lt;strong&gt;朝日新聞デジタル&lt;/strong&gt; にて，先日JGR: Solid Earthから出版された &lt;a href=&quot;https://osm3dan.github.io/2022/09/12/SDB-JGR.html&quot;&gt;Sandanbata et al. (2022)&lt;/a&gt; に関する記事が掲載されました．
+また，2022年11月18日付 &lt;strong&gt;朝日新聞朝刊・教育科学面&lt;/strong&gt; にも同内容記事が掲載予定です．&lt;/p&gt;
+
+&lt;p&gt;こちらの&lt;a href=&quot;https://www.asahi.com/articles/ASQC951V7QC9PLBJ003.html?ref=tw_asahi&quot;&gt;朝日新聞デジタル&lt;/a&gt;より，是非ご覧ください．&lt;/p&gt;
+
+&lt;!-- ---
+**Paper information/論文情報** &lt;br&gt;
+*Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* &lt;br&gt;
+– Osamu Sandanbata, Shingo Watada, Tung-Cheng Ho, and Kenji Satake
+&lt;br&gt;
+Link: [Geophysical Journal International](https://doi.org/10.1093/gji/ggab192) --&gt;</content><author><name></name></author><category term="news_jp" /><summary type="html"></summary></entry><entry><title type="html">Asahi_jgr</title><link href="http://localhost:4000/2022/11/12/Asahi_JGR.html" rel="alternate" type="text/html" title="Asahi_jgr" /><published>2022-11-12T00:00:00+09:00</published><updated>2022-11-12T00:00:00+09:00</updated><id>http://localhost:4000/2022/11/12/Asahi_JGR</id><content type="html" xml:base="http://localhost:4000/2022/11/12/Asahi_JGR.html">&lt;!-- ![イメージ](../../../../../assets/mypaperimg/SDB+2022.png) --&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;朝日新聞様に-sandanbata-et-al-2022-jgr-solid-earth-を取り上げて頂きました&quot;&gt;朝日新聞様に Sandanbata et al. (2022, JGR: Solid Earth) を取り上げて頂きました&lt;/h3&gt;
+&lt;p&gt;2022年11月12日 &lt;strong&gt;朝日新聞デジタル&lt;/strong&gt; にて，先日JGR: Solid Earthから出版された &lt;a href=&quot;https://osm3dan.github.io/2022/09/12/SDB-JGR.html&quot;&gt;Sandanbata et al. (2022)&lt;/a&gt; に関する記事が掲載されました．
+また，2022年11月18日付 &lt;strong&gt;朝日新聞朝刊・教育科学面&lt;/strong&gt; にも同内容記事が掲載予定です．&lt;/p&gt;
+
+&lt;p&gt;こちらの&lt;a href=&quot;https://www.asahi.com/articles/ASQC951V7QC9PLBJ003.html?ref=tw_asahi&quot;&gt;朝日新聞デジタル&lt;/a&gt;より，是非ご覧ください．&lt;/p&gt;
+
+&lt;!-- ---
+**Paper information/論文情報** &lt;br&gt;
+*Phase delay of short-period tsunamis in the density-stratified compressible ocean over the elastic Earth* &lt;br&gt;
+– Osamu Sandanbata, Shingo Watada, Tung-Cheng Ho, and Kenji Satake
+&lt;br&gt;
+Link: [Geophysical Journal International](https://doi.org/10.1093/gji/ggab192) --&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

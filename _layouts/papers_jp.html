@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header_jp.html %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="memo">
+        <article>
+          <div class="mainbar">
+            <!-- Main -->
+            <h1 class="page-heading">{{ page.title }}</h1>
+            {{ content }}
+            <!-- Category - 2021 -->
+            <!-- <h1 id="2021" class="page-subheading"> 2021 </h1>
+            <p class="memo-post-list">
+              {% for post in site.tags['papers'] %}
+              {% if post.category == 'jp' %}
+              {% if post.year == 2021 %}
+              {% if post.draft != true %}
+              <bold> ー </bold>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="memo-post-title">
+                {{ post.title_jp }}
+              </a>
+              ▶︎ {{ post.sum }} ({{ post.date | date: "%Y.%0m.%0d" }})
+              <br/>
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </p> -->
+
+
+          </div>
+
+          <div class="line"> </div>
+
+          <!-- sidebar -->
+          {% include sidebar_category.html %}
+
+        </article>
+      </div>
+    </div>
+  </div>
+
+
+
+  {% include footer.html %}
+
+  {% include foot.html %}
+</body>
+</html>

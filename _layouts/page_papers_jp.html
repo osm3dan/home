@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header_jp.html %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="memo">
+
+  <article>
+    <div class="mainbar">
+            <h1 class="page-heading">[{{page.journal}}] {{ page.title_jp }} </h1>
+            <h3>  "{{page.title}}", {{page.title_jp}} <a href="{{page.link}}"> Link </a> </h3>
+            {{ content }}
+          </div>
+
+    <!-- Line -->
+    <div class="line"> </div>
+
+    {% include sidebar_category.html %}
+  </article>
+</div>
+</div>
+</div>
+
+  {% include footer.html %}
+
+  {% include foot.html %}
+</body>
+</html>

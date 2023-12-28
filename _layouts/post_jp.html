@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+  {% include header_jp.html %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="post">
+
+        <header class="post-header">
+
+          {% if page.draft %}
+          {% include draft-banner.html %}
+          {% endif %}
+
+          <h1 class="page-heading">{{ page.title }}/{{ page.title_jp }}</h1>
+          <!-- <h1 class="post-title"> -->
+            <!-- {% if page.headline_formatted_title %}
+            {{ page.headline_formatted_title | newline_to_br }}
+            {% else %} -->
+            <!-- {{page.title_jp}} -->
+            <!-- {% endif %} -->
+          <!-- </h1> -->
+
+          {% if page.subtitle %}
+          <h1 class="post-subtitle">
+            {{ page.subtitle }}
+          </h1>
+          {% endif %}
+          <p class="post-meta">
+            <span class="post-date" float="right">
+              {{ page.date | date: "%Y.%-m.%-d" }}
+            </span>
+            {% if page.author %} • {{ page.author }}
+            {% endif %}
+            {% if page.meta %}
+             • {{ page.meta }}
+             {% endif %}
+           </p>
+        </header>
+
+        <p class="post-content">
+          {{ content }}
+        </p>
+
+        {% if page.draft %}
+        {% include draft-banner.html %}
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+  {% include foot.html %}
+</body>
+</html>
