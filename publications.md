@@ -8,9 +8,8 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Submitted to** | **Link(s)**
 --|-----|--------------------|----|
-1 | **Osamu Sandanbata**, and Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | [ESS Open Archive](https://doi.org/10.22541/essoar.169603551.19539639/v1) |
 
-2 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic tsunami waves amplified by repetitive source events in the southwest of Torishima Island, Japan | *GRL* | [ESS Open Archive](https://doi.org/10.22541/essoar.169878726.62136311/v1)
+1 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic tsunami waves amplified by repetitive source events in the southwest of Torishima Island, Japan | *GRL* | [ESS Open Archive](https://doi.org/10.22541/essoar.169878726.62136311/v1)
 
 <br/>
 
@@ -18,9 +17,11 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** | **Pages** | **Year** | **Link(s)**
 ---------|----------|---------|------|------|--------|----------|
-**14** | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* | *Geophysical Research Letters* | 50(7) | e2022GL-101086 | 2023 | [GRL (Open Access)](https://doi.org/10.1029/2022GL101086)
+**15** | **Osamu Sandanbata**, Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | 129 | e2023-JB027917 | 2024 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2023JB027917)
 
-**13** | **Osamu Sandanbata**,  Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan. | *Sub-decadal Volcanic Tsunamis Due to Submarine Trapdoor Faulting at Sumisu Caldera in the Izu-Bonin Arc* |　*JGR: Solid Earth* | 127 | e2022JB-024213 | 2022 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2022JB024213)
+**14** | **Osamu Sandanbata**, Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* | *Geophysical Research Letters* | 50(7) | e2022GL-101086 | 2023 | [GRL (Open Access)](https://doi.org/10.1029/2022GL101086)
+
+**13** | **Osamu Sandanbata**, Shingo Watada, Kenji Satake, Hiroo Kanamori, Luis Rivera, and Zhongwen Zhan. | *Sub-decadal Volcanic Tsunamis Due to Submarine Trapdoor Faulting at Sumisu Caldera in the Izu-Bonin Arc* |　*JGR: Solid Earth* | 127 | e2022JB-024213 | 2022 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2022JB024213)
 
 **12** | Hisahiko Kubo, Tatsuya Kubota, Wataru Suzuki, Shin Aoi, **Osamu Sandanbata**, Naotaka Chikasada, and Hideki Ueda.| *Ocean-wave phenomenon around Japan due to the 2022 Tonga eruption observed by the wide and dense ocean-bottom pressure gauge networks* |　*Earth Planets Space* | 74 | 104 | 2022 | [EPS](https://doi.org/10.1186/s40623-022-01663-w)
 
