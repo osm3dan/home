@@ -8,7 +8,6 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Submitted to** | **Link(s)**
 --|-----|--------------------|----|
-
 1 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic tsunami waves amplified by repetitive source events in the southwest of Torishima Island, Japan | *GRL* | [ESS Open Archive](https://doi.org/10.22541/essoar.169878726.62136311/v1)
 
 <br/>
