@@ -8,7 +8,8 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Submitted to** | **Link(s)**
 --|-----|--------------------|----|
-0 | - | - | - |
+ 0 |  |  |  |
+
 <br/>
 
 ## Peer-reviewed papers   
