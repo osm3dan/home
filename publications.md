@@ -8,13 +8,14 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Submitted to** | **Link(s)**
 --|-----|--------------------|----|
+- | - | - | - |
 <br/>
 
 ## Peer-reviewed papers   
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** | **Pages** | **Year** | **Link(s)**
 ---------|----------|---------|------|------|--------|----------|
-**16** | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [Link](https://doi.org/10.1029/2023GL106949),[Press release](https://www.eri.u-tokyo.ac.jp/award/20666/)
+**16** | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, Takuto Maeda, and Tatsuya Kubota | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [Link](https://doi.org/10.1029/2023GL106949),[Press release](https://www.eri.u-tokyo.ac.jp/award/20666/)
 
 **15** | **Osamu Sandanbata**, Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | 129 | e2023-JB027917 | 2024 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2023JB027917)
 
