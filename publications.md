@@ -8,14 +8,14 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Submitted to** | **Link(s)**
 --|-----|--------------------|----|
-1 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic tsunami waves amplified by repetitive source events in the southwest of Torishima Island, Japan | *GRL* | [ESS Open Archive](https://doi.org/10.22541/essoar.169878726.62136311/v1)
-
 <br/>
 
 ## Peer-reviewed papers   
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** | **Pages** | **Year** | **Link(s)**
 ---------|----------|---------|------|------|--------|----------|
+**16** | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, and Takuto Maeda | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [Link](https://doi.org/10.1029/2023GL106949),[Press release](https://www.eri.u-tokyo.ac.jp/award/20666/)
+
 **15** | **Osamu Sandanbata**, Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | 129 | e2023-JB027917 | 2024 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2023JB027917)
 
 **14** | **Osamu Sandanbata**, Shingo Watada, Kenji Satake, Hiroo Kanamori, and Luis Rivera. | *Two volcanic tsunami events caused by trapdoor faulting at a submerged caldera near Curtis and Cheeseman Islands in the Kermadec Arc* | *Geophysical Research Letters* | 50(7) | e2022GL-101086 | 2023 | [GRL (Open Access)](https://doi.org/10.1029/2022GL101086)
