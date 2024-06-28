@@ -53,15 +53,29 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 1| **Osamu Sandanbata**, Kazushige Obara, Takuto Maeda, Ryota Takagi, and Kenji Satake.|*Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan* | *Geophysical Research Letters*| 42(23) | 10-256 |2015| [GRL](https://doi.org/10.1002/2015GL066443)
 
 <br/>
+## 招待講演
 
+**No.** | **Author(s)** | **Title** | **Meeting** | **Location** | **Year** | **File(s)**
+---------|----------|---------|------|------|--------|----|
+5| **Sandanbata, O.**| Trapdoor faulting at submarine calderas in Japan and New Zealand: Its potential for volcanic tsunami generation | ECR Plenary Speakers, IAVCEI 2023 | Rotorua, New Zealand | Jan. 2023 | [URL](https://confer.eventsair.com/iavcei2023/plenary-speakers)
+4| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Brown Bag Seminar, Seismological Laboratory, California Institute of Technology, US | Caltech Seismo Lab | April 2022 |
+3| **Sandanbata, O.**| Unusual volcanic tsunamis caused by trapdoor faulting at submarine calderas| Bullard Laboratories Seminar, the University of Cambridge, UK| Online | March 2022 | 
+2| **Sandanbata, O.**| Investigations of ring-faulting at active calderas: Case studies at Sierra Negra caldera in Galápagos, and Smith caldera in Japan | Volcano Group Meeting, University of Leeds, UK | Online | April 2021 |
+1| **Sandanbata, O.**| Abnormal tsunamis caused by trapdoor faulting repeating at submarine volcanic calderas| Geophysics Seminar, Stanford University, US | Online | April 2021 | 
+
+
+
+<br/>
 
 ### <strong> 国際学会 </strong>
 
 **No.** | **著者** | **タイトル** | **学会名** | **番号** | **場所** | **年** | **資料**
 ---------|----------|---------|------|------|--------|--------|---|
-15| **Sandanbata**, Watada, Satake, Kanamori, Rivera, and Zhan. | *Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu-Bonin arc* | *IAVCEI 2023 Scientific Assembly* | TBA | Rotorua, New Zealand | Jan.–Feb. 2023 | -
+16| **Sandanbata** and Saito. | *Detecting Small Volcanic Tsunami Signals from Kita-Ioto Caldera Using Dense DONET Ocean-Bottom Pressure Records* | *AGU 2023 Fall Meeting* | V11E-09 | eLightning Poster | Dec. 2023 |  [PDF](/assets/publications/conference/231211_AGU2023_Sandanbata&Saito.pdf)
 
-14| **Sandanbata**, and Saito. | *Trapdoor faulting at Kita-Ioto Caldera, Japan: Quantification of magma overpressure beneath a submarine caldera* | *AGU 2022 Fall Meeting* | V11B-01 | Chicago, US & Online | Dec. 2022 | [PDF](/assets/publications/conference/221212_AGU2022_Sandanbata&Saito.pdf)/ [YouTube](https://www.youtube.com/watch?v=XjRNJXYL06o)
+15| **Sandanbata**, Watada, Satake, Kanamori, Rivera, and Zhan. | *Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu-Bonin arc* | *IAVCEI 2023 Scientific Assembly* | 748 | Rotorua, New Zealand | Jan.–Feb. 2023 | -
+
+14| **Sandanbata** and Saito. | *Trapdoor faulting at Kita-Ioto Caldera, Japan: Quantification of magma overpressure beneath a submarine caldera* | *AGU 2022 Fall Meeting* | V11B-01 | Chicago, US & Online | Dec. 2022 | [PDF](/assets/publications/conference/221212_AGU2022_Sandanbata&Saito.pdf)/ [YouTube](https://www.youtube.com/watch?v=XjRNJXYL06o)
 
 13| **Sandanbata**, Kanamori, Rivera, Zhan, Watada, Satake, and Lai. | *Teleseismic moment tensor inversion for ring-faulting at active calderas: Case studies at Sierra Negra in the Galápagos Islands and Kilauea in Hawaii* | *AGU 2021 Fall Meeting* | V25D-0155 | Online | Dec. 2021 | [PDF](/assets/publications/conference/211213_AGU2021_Sandanbata+.pdf)/ [YouTube](https://www.youtube.com/watch?v=AUNOD25_tkA)
 
@@ -109,6 +123,12 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 
 ---
 #### <strong>記事掲載</strong>
+[5] 毎日新聞　2023年12月7日, 鳥島近海地震の波紋／下　深海カルデラ、津波の発生源か, 毎日新聞[https://mainichi.jp/articles/20231207/ddm/016/040/017000c].
+
+[4] 毎日新聞　2023年12月1日, 静かに押し寄せた「謎の津波」正体は　浮かんだ未知の海底地形／上, 毎日新聞[https://mainichi.jp/articles/20231129/k00/00m/040/093000c].
+
+[3] 毎日新聞　2023年10月30日, 「津波起こす現象繰り返し増幅」　鳥島近海地震、東大研究所解析, 毎日新聞[https://mainichi.jp/articles/20231030/ddm/041/040/077000c]. **Sandanbata et al. (2024, GRL)の研究成果についての記事**
+
 [2] 朝日新聞朝刊2022年11月18日付・朝日新聞デジタル2022年11月12日付, 「*地震だけじゃない、津波の仕組み*」 ([朝日新聞デジタル](https://www.asahi.com/articles/ASQC951V7QC9PLBJ003.html?ref=tw_asahi))　※**JGR: Solid Earth誌掲載論文(Sandanbata et al., 2022)についての特集記事**
 
 [1] 日本経済新聞 朝刊,2018年9月9日付, 「*海底火山で津波地震 マグマで岩盤隆起 研究進む*」 ([日本経済新聞](https://www.nikkei.com/article/DGKKZO35107340X00C18A9MY1000/))　※**Science Advances誌掲載論文(Fukao et al., 2018)についての特集記事**
