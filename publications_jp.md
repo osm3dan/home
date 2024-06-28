@@ -122,7 +122,7 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 [1] **三反畑修**, 「『急がば回れ』でようやく辿り着いた Caltech」.*日本地震学会ニュースレター*, 第72巻，第NL4号. 2019年11月10日発行, (2019). ([地震学会](https://www.zisin.jp/publications/news72.html)) ([PDF](/assets/publications/SSJ_newsletter.pdf))　※**カリフォルニア工科大学(Caltech)への留学体験記**
 
 ---
-#### <strong>記事掲載</strong>
+#### <strong>メディア掲載</strong>
 [5] 毎日新聞　2023年12月7日, 鳥島近海地震の波紋／下　深海カルデラ、津波の発生源か, 毎日新聞[https://mainichi.jp/articles/20231207/ddm/016/040/017000c].
 
 [4] 毎日新聞　2023年12月1日, 静かに押し寄せた「謎の津波」正体は　浮かんだ未知の海底地形／上, 毎日新聞[https://mainichi.jp/articles/20231129/k00/00m/040/093000c].
