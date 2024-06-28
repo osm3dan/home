@@ -37,4 +37,4 @@ year: 2024
 ---
 ---
 **Paper information/論文情報** <br>
-Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan Volcano, Japan, resolved by distant tsunami recordings. Geophysical Research Letters, 51, e2024GL108415. [https://doi.org/10.1029/2024GL108415](https://doi.org/10.1029/2024GL108415)
+Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan Volcano, Japan, resolved by distant tsunami recordings. *Geophysical Research Letters*, 51, e2024GL108415. [https://doi.org/10.1029/2024GL108415](https://doi.org/10.1029/2024GL108415)
