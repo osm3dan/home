@@ -289,6 +289,18 @@
 <lastmod>2023-05-01T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2023/12/27/SDB-JGR.html</loc>
+<lastmod>2023-12-27T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2024/01/21/SDB-GRL.html</loc>
+<lastmod>2024-01-21T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/en/2024/06/25/Kubota-GRL.html</loc>
+<lastmod>2024-06-25T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -336,7 +348,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/cv.pdf</loc>
-<lastmod>2023-07-10T10:21:58+09:00</lastmod>
+<lastmod>2024-01-26T18:48:54+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/img/slide_title/201008_VSJ2020.pdf</loc>
@@ -357,5 +369,9 @@
 <url>
 <loc>http://localhost:4000/assets/publications/conference/221212_AGU2022_Sandanbata&amp;Saito.pdf</loc>
 <lastmod>2022-12-12T23:57:18+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/publications/conference/231211_AGU2023_Sandanbata&amp;Saito.pdf</loc>
+<lastmod>2023-12-10T09:55:48+09:00</lastmod>
 </url>
 </urlset>

@@ -18,9 +18,9 @@ No.  | 著者          | タイトル  |  投稿先  | リンク等
 
 No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 -----|-------|------|------|------|-----|----|
-17 | Tatsuya Kubota, **Osamu Sandanbata**, Tatsuhiko Saito, and Takanori Matsuzawa | Accelerating Seafloor Uplift of Submarine Caldera Near Sofugan Volcano, Japan, Resolved by Distant Tsunami Recordings | *GRL* | 51 | e2024-GL108415 | 2024 | [GRL (Open access)](https://doi.org/10.1029/2024GL108415),[久保田さんのHP](https://quaketm.bosai.go.jp/~kubota/publications/Kubota_etal_2024_GRL/index.html)
+17 | Tatsuya Kubota, **Osamu Sandanbata**, Tatsuhiko Saito, and Takanori Matsuzawa | Accelerating Seafloor Uplift of Submarine Caldera Near Sofugan Volcano, Japan, Resolved by Distant Tsunami Recordings | *GRL* | 51 | e2024-GL108415 | 2024 | [GRL (Open access)](https://doi.org/10.1029/2024GL108415), [久保田さんのHP](https://quaketm.bosai.go.jp/~kubota/publications/Kubota_etal_2024_GRL/index.html)
 
-16 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, Takuto Maeda, and Tatsuya Kubota | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [GRL (Open Access)](https://doi.org/10.1029/2023GL106949),[プレスリリース](https://www.eri.u-tokyo.ac.jp/award/20666/)
+16 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, Takuto Maeda, and Tatsuya Kubota | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [GRL (Open Access)](https://doi.org/10.1029/2023GL106949), [プレスリリース](https://www.eri.u-tokyo.ac.jp/award/20666/)
 
 15 | **Osamu Sandanbata**, Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | 129 | e2023-JB027917 | 2024 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2023JB027917)
 
@@ -103,34 +103,35 @@ No. | 著者 | タイトル | 雑誌 | 巻 |ページ | 出版年 | リンク等
 
 1| **Sandanbata**, Obara, Maeda, Takagi, and Satake. | *Step-wise temporal change in the frequency-amplitude distribution of volcanic long period tremors at Aso volcano* | *Workshop ERI-IPGP* | – | Paris, France | Sep. 2015 | -
 
+<br>
 
-### <strong> 国内学会 </strong>
+### <strong>寄稿</strong>
+- **三反畑修**, 「鳥島近海から突然押し寄せた「謎の津波」の正体は
+」.*日本地震学会 [広報紙「なゐふる」](https://www.zisin.jp/publications/naifuru.html)*, 137号, 2024年5月. [Link](https://www.zisin.jp/publications/naifuru.html#:~:text=%E3%82%90%E3%81%B5%E3%82%8B%E6%96%87%E5%BA%AB-,137%E5%8F%B7%EF%BC%882024%E5%B9%B45%E6%9C%88%EF%BC%89,-%E9%B3%A5%E5%B3%B6%E8%BF%91%E6%B5%B7%E3%81%8B%E3%82%89) 
+- 松本恵子, Conwey Chris, 畑真紀, 伊藤久敏, 岩橋くるみ, 片岡香子, 森田雅明, 西原歩, **三反畑修**, 渡部将太, 山﨑誠子, 長谷川健 (2023). 「IAVCEI（国際火山学地球内部化学協会）2023年大会参加報告（その２）：巡検と学会参加の感想」, *火山*, 68(2), 115–123, [https://doi.org/10.18940/kazan.68.2_115](https://doi.org/10.18940/kazan.68.2_115) 
+- 長谷川健, 松本恵子, 橋本武志, 畑真紀, 岩橋くるみ, 無盡真弓, 村松弾, 大橋正俊, **三反畑修**, 嶋野岳人, 田中良, 安田裕紀 (2023). 「IAVCEI（国際火山学地球内部化学協会）2023年大会参加報告（その１）：セッションとワークショップの概況」, *火山*, 68(2), 105–113, [https://doi.org/10.18940/kazan.68.2_105](https://doi.org/10.18940/kazan.68.2_105)
+- **三反畑修**, 「『急がば回れ』でようやく辿り着いた Caltech」.*日本地震学会ニュースレター*, 第72巻，第NL4号. 2019年11月10日. ([地震学会](https://www.zisin.jp/publications/news72.html)) ([PDF](/assets/publications/SSJ_newsletter.pdf))　
+- **三反畑修**, 「SF地震学　若手研究者海外派遣報告­（Stanford大学）」.*Slow-to-Fast地震学*. 2022年10月17日. ([Slow-to-Fast地震学](https://slow-to-fast-eq.org/news/overseas_2022/))　
 
-準備中...
+### <strong>メディア</strong> （主要なもの）
+- 東京新聞, 2024/6/23, 大きな地震もないのになぜ津波？ 伊豆諸島最南端「孀婦岩」周辺　海底火山の隆起が原因だった.
+[Link](https://www.tokyo-np.co.jp/article/335443)
+- 東京新聞, 20234/4/21, ＜ブレークスルー 2024＞火山と津波 40年の謎解く 海底火山の活動を研究 東京大地震研究所助教・三反畑修さん. 
+[Link](https://www.tokyo-np.co.jp/article/322603)
+- 毎日新聞, 2023/12/7, 鳥島近海地震の波紋／下 深海カルデラ、津波の発生源か. 
+[Link](https://mainichi.jp/articles/20231207/ddm/016/040/017000c)
+- 毎日新聞, 2023/12/6, 静かに押し寄せた「謎の津波」正体は 浮かんだ未知の海底地形／上.
+[Link](https://mainichi.jp/articles/20231129/k00/00m/040/093000c)
+- 毎日新聞, 2023/10/30, 「津波起こす現象繰り返し増幅」 鳥島近海地震、東大研究所解析 [Link](https://mainichi.jp/articles/20231030/ddm/041/040/077000c).
+- 東京新聞, 2023/10/29, 伊豆諸島・須美寿カルデラ付近 10年周期「謎の津波」の原因は？ 海底火山で岩盤「跳ね上げ」
+- 朝日新聞, 2023/10/27, 9日に観測された「謎の津波」 13回以上連続発生して2倍に増幅？
+[Link](https://digital.asahi.com/articles/ASRBW6GFFRBWULBH002.html)
+- NHK みみより！くらし解説, 2023/10/20, なぞの津波〜海底で何が起きたのか. 
+ [Link](https://www.nhk.jp/p/ts/X67KZLM3P6/episode/te/1M1PPZY52X/)
+- NHK NEWS7, 2022/10/9, ビデオコメント出演（同日発生の鳥島近海の津波について）.
+[Link (NHK NEWS WEB)](https://www3.nhk.or.jp/news/html/20231009/k10014220141000.html)
+- 朝日新聞, 2022/11/18, デジタル版2022年11月12日, 地震だけじゃない、津波の仕組み. 
+[Link](https://www.asahi.com/articles/ASQC951V7QC9PLBJ003.html?ref=tw_asahi)
+- 日本経済新聞, 2018/9/9, 海底火山で津波地震 マグマで岩盤隆起 研究進む 
+[Link](https://www.nikkei.com/article/DGKKZO35107340X00C18A9MY1000/)
 
-
-### <strong> その他 </strong>
-#### <strong>寄稿</strong>
-[4] 松本恵子, Conwey Chris, 畑真紀, 伊藤久敏, 岩橋くるみ, 片岡香子, 森田雅明, 西原歩, **三反畑修**, 渡部将太, 山﨑誠子, 長谷川健 (2023). 「IAVCEI（国際火山学地球内部化学協会）2023年大会参加報告（その２）：巡検と学会参加の感想」, *火山*, 68(2), 115–123, [https://doi.org/10.18940/kazan.68.2_115](https://doi.org/10.18940/kazan.68.2_115) 
-    ※**IAVCEIでの若手基調講演での講演内容の概要について執筆させていただきました。**
-
-[3] 長谷川健, 松本恵子, 橋本武志, 畑真紀, 岩橋くるみ, 無盡真弓, 村松弾, 大橋正俊, **三反畑修**, 嶋野岳人, 田中良, 安田裕紀 (2023). 「IAVCEI（国際火山学地球内部化学協会）2023年大会参加報告（その１）：セッションとワークショップの概況」, *火山*, 68(2), 105–113, [https://doi.org/10.18940/kazan.68.2_105](https://doi.org/10.18940/kazan.68.2_105)
-    ※**IAVCEIでの欠航トラブル(NZ到着までの6日間の旅路)について執筆させていただきました。**
-
-[2] **三反畑修**, 「SF地震学　若手研究者海外派遣報告­（Stanford大学）」.*Slow-to-Fast地震学*. 2022年10月17日掲載, (2022). ([Slow-to-Fast地震学](https://slow-to-fast-eq.org/news/overseas_2022/))　※**スタンフォード大学での滞在研究報告**
-
-[1] **三反畑修**, 「『急がば回れ』でようやく辿り着いた Caltech」.*日本地震学会ニュースレター*, 第72巻，第NL4号. 2019年11月10日発行, (2019). ([地震学会](https://www.zisin.jp/publications/news72.html)) ([PDF](/assets/publications/SSJ_newsletter.pdf))　※**カリフォルニア工科大学(Caltech)への留学体験記**
-
----
-#### <strong>メディア掲載</strong>
-[5] 毎日新聞　2023年12月7日, 鳥島近海地震の波紋／下　深海カルデラ、津波の発生源か, 毎日新聞[https://mainichi.jp/articles/20231207/ddm/016/040/017000c].
-
-[4] 毎日新聞　2023年12月1日, 静かに押し寄せた「謎の津波」正体は　浮かんだ未知の海底地形／上, 毎日新聞[https://mainichi.jp/articles/20231129/k00/00m/040/093000c].
-
-[3] 毎日新聞　2023年10月30日, 「津波起こす現象繰り返し増幅」　鳥島近海地震、東大研究所解析, 毎日新聞[https://mainichi.jp/articles/20231030/ddm/041/040/077000c]. **Sandanbata et al. (2024, GRL)の研究成果についての記事**
-
-[2] 朝日新聞朝刊2022年11月18日付・朝日新聞デジタル2022年11月12日付, 「*地震だけじゃない、津波の仕組み*」 ([朝日新聞デジタル](https://www.asahi.com/articles/ASQC951V7QC9PLBJ003.html?ref=tw_asahi))　※**JGR: Solid Earth誌掲載論文(Sandanbata et al., 2022)についての特集記事**
-
-[1] 日本経済新聞 朝刊,2018年9月9日付, 「*海底火山で津波地震 マグマで岩盤隆起 研究進む*」 ([日本経済新聞](https://www.nikkei.com/article/DGKKZO35107340X00C18A9MY1000/))　※**Science Advances誌掲載論文(Fukao et al., 2018)についての特集記事**
-
----
