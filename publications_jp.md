@@ -10,7 +10,7 @@ No.  | 著者          | タイトル  |  投稿先  | リンク等
 --|-----|--------------------|----|
 1 | Shunsuke Takemura, Tatsuya Kubota, and **Osamu Sandanbata** | Successive tsunamigenic events near the Sofu Seamount inferred from high-frequency teleseismic P and regional T waves (submitted) | JGR: Solid Earth | 
 
-2 | **Osamu Sandanbata** and Tatsuhiko Saito | Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (submitted) | JGR: Solid Earth | 
+2 | **Osamu Sandanbata** and Tatsuhiko Saito | Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (submitted) | JGR: Solid Earth | [プレプリント](https://doi.org/10.22541/essoar.172072454.49207214/v1)
 
 <br/>
 
