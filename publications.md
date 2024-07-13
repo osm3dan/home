@@ -18,9 +18,9 @@ permalink: /en/publications
 
 **No.** | **Author(s)** | **Title** | **Journal** | **Vol.** | **Pages** | **Year** | **Link(s)**
 ---------|----------|---------|------|------|--------|----------|
-17 | Tatsuya Kubota, **Osamu Sandanbata**, Tatsuhiko Saito, and Takanori Matsuzawa | Accelerating Seafloor Uplift of Submarine Caldera Near Sofugan Volcano, Japan, Resolved by Distant Tsunami Recordings | *GRL* | 51 | e2024-GL108415 | 2024 | [GRL (Open access)](https://doi.org/10.1029/2024GL108415),[Dr. Kubota's HP](https://quaketm.bosai.go.jp/~kubota/publications/Kubota_etal_2024_GRL/index.html)
+17 | Tatsuya Kubota, **Osamu Sandanbata**, Tatsuhiko Saito, and Takanori Matsuzawa | Accelerating Seafloor Uplift of Submarine Caldera Near Sofugan Volcano, Japan, Resolved by Distant Tsunami Recordings | *GRL* | 51 | e2024-GL108415 | 2024 | [GRL (Open access)](https://doi.org/10.1029/2024GL108415), [Dr. Kubota's HP](https://quaketm.bosai.go.jp/~kubota/publications/Kubota_etal_2024_GRL/index.html)
 
-16 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, Takuto Maeda, and Tatsuya Kubota | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [GRL (Open access)](https://doi.org/10.1029/2023GL106949),[Press release](https://www.eri.u-tokyo.ac.jp/award/20666/)
+16 | **Osamu Sandanbata**, Kenji Satake, Shunsuke Takemura, Shingo Watada, Takuto Maeda, and Tatsuya Kubota | Enigmatic Tsunami Waves Amplified by Repetitive Source Events Near Sofugan Volcano, Japan | *GRL* | 51(2) | e2023-GL106949 | 2024 | [GRL (Open access)](https://doi.org/10.1029/2023GL106949), [Press release](https://www.eri.u-tokyo.ac.jp/award/20666/)
 
 15 | **Osamu Sandanbata**, Tatsuhiko Saito | Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan | *JGR: Solid Earth* | 129 | e2023-JB027917 | 2024 | [JGR:Solid Earth (Open Access)](https://doi.org/10.1029/2023JB027917)
 
