@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First-Authored Paper Submitted"
-title_jp: "主著論文Sandanbata & Saito投稿"
+title_jp: "主著論文投稿"
 place:  "JGR: Solid Earth"
 place_jp:  "JGR: Solid Earth"
 date:   2024-07-11 00:00:00 0900

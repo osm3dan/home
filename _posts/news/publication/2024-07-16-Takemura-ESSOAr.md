@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Co-Authored Paper Submitted"
-title_jp: "共著論文Takemura+投稿"
+title_jp: "共著論文投稿"
 place:  "JGR: Solid Earth"
 place_jp:  "JGR: Solid Earth"
 date:   2024-07-16 00:00:00 0900
