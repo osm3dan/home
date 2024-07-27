@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First-Authored Paper Submitted"
-title_jp: "主著論文投稿"
+title_jp: "主著論文Sandanbata & Saito投稿"
 place:  "JGR: Solid Earth"
 place_jp:  "JGR: Solid Earth"
 date:   2024-07-11 00:00:00 0900
@@ -18,7 +18,7 @@ year: 2024
 
 🌏 Submitted a new manuscript to JGR: Solid Earth. This study is a collaborative work with Dr. Tatsuhiko Saito at NIED. The non-peer-reviewed preprint is available from below.
 
-🇯🇵 主著論文原稿をJGR: Solid Earth誌に投稿しました．防災科学技術研究所の齊藤竜彦さんとの共著論文です．下記より査読前原稿を入手可能です．
+🇯🇵 主著論文原稿をJGR:Solid Earth誌に投稿しました．防災科学技術研究所の齊藤竜彦さんとの共著論文です．下記より査読前原稿を入手可能です．
 
 ---
 
