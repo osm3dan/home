@@ -22,6 +22,6 @@ year: 2024
 ---
 
 **Preprint/査読前原稿** <br>
-Shunsuke Takemura, Tatsuya Kubota, Osamu Sandanbata. Successive tsunamigenic events near the Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. ESS Open Archive. DOI:Pending approval
+Shunsuke Takemura, Tatsuya Kubota, Osamu Sandanbata. Successive tsunamigenic events near the Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. ESS Open Archive. DOI: [10.22541/essoar.172107980.08343842/v1](https://doi.org/10.22541/essoar.172107980.08343842/v1)
 
 *Note that this preprint is non-peer-reviewed manuscript. / 査読前原稿であることにご留意ください．*
