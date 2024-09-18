@@ -1,19 +1,13 @@
----
-layout: default
-title: Osamu Sandanbata
-permalink: /
----
 
+<center>I am Osamu SANDANBATA </center>
 
-# <center>Welcome to Osamu's Website! </center>
-
-### <center> You May Choose Language </center>
+<center> You May Choose Language </center>
 
 <div align="center">
 <font size=6 font-weight="bold">
-<a href="https://osm3dan.github.io/en/index">  <strong> 🌏 English </strong> </a>
+<a href="https://osm3dan.github.io/en_site">  <strong> English </strong> </a>
 or 
- <a href="https://osm3dan.github.io/jp/index"><strong>  Japanese 🗾</strong> </a>
+ <a href="https://osm3dan.github.io/jp_site"> <strong> 日本語 </strong> </a>
 </font>
 </div>
 
