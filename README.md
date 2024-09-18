@@ -13,7 +13,7 @@
         h1 {
             font-size: 3rem;
             color: #333;
-        }
+        }cd 
         p {
             font-size: 1.2rem;
             color: #666;
